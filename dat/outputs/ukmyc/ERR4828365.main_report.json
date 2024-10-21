@@ -1,0 +1,545 @@
+{
+    "Pipeline Outcome": "Sufficient reads mapped to M. tuberculosis (H37Rv v3) for genome assembly, resistance prediction and relatedness assessment.",
+    "Organism Identification": {
+        "Human Reads": null,
+        "Unclassified Reads": 3696,
+        "Non-Mycobacterium Bacteria Reads": 5250,
+        "Mycobacterium Reads": 1016958
+    },
+    "Mycobacterium Results": {
+        "Summary": [
+            {
+                "Name": "M. tuberculosis (lineage 3.1.1)",
+                "Num Reads": 995460,
+                "Coverage": 99.2708,
+                "Depth": 28.3211
+            }
+        ],
+        "Species": [
+            {
+                "Name": "M.tuberculosis",
+                "Num Reads": 995460,
+                "Coverage": 99.2708,
+                "Mean Depth": 28.3211,
+                "Length": 4411532.0
+            }
+        ],
+        "Phylogenic Group": [
+            {
+                "Name": "Mycobacterium_tuberculosis_complex",
+                "Coverage": 97.526,
+                "Median Depth": 8
+            }
+        ],
+        "Subspecies": [
+            {
+                "Name": "Mycobacterium_tuberculosis",
+                "Coverage": 65.564,
+                "Median Depth": 10
+            }
+        ],
+        "Lineage": [
+            {
+                "Name": "lineage3.1.1",
+                "Coverage": 0,
+                "Median Depth": 0
+            }
+        ]
+    },
+    "Genomes": [
+        {
+            "Name": "M. tuberculosis",
+            "Sequencing Quality": {
+                "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
+                "Num Reads": 995460,
+                "Coverage": 91.7338,
+                "Mean Depth": 28.3211,
+                "Mixed calls": 2644,
+                "Null calls": 364668,
+                "Reference genome length": 4411532
+            },
+            "Resistance Prediction": {
+                "Resistance Prediction Summary": {
+                    "First-line treatment": {
+                        "Isoniazid (INH)": "F",
+                        "Rifampicin (RIF)": "F",
+                        "Pyrazinamide (PZA)": "F",
+                        "Ethambutol (EMB)": "S"
+                    },
+                    "Second-line treatment": {
+                        "Moxifloxacin (MXF)": "S",
+                        "Levofloxacin (LEV)": "S",
+                        "Linezolid (LZD)": "U",
+                        "Bedaquiline (BDQ)": "S"
+                    },
+                    "Reserve treatment": {
+                        "Amikacin (AMI)": "S",
+                        "Kanamycin (KAN)": "S",
+                        "Streptomycin (STM)": "R",
+                        "Capreomycin (CAP)": "S",
+                        "Ethionamide (ETH)": "F",
+                        "Delamanid (DLM)": "S"
+                    }
+                },
+                "Resistance Prediction Detail": [
+                    {
+                        "Drug Name": "ETH",
+                        "Mutations": [
+                            {
+                                "Gene": "fabG1",
+                                "Mutation": "c-15x",
+                                "Position": -15,
+                                "Ref": "c",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "c-15t",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1434,
+                                        "Present_SOLO_R": 939,
+                                        "Present_SOLO_S": 495
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "inhA_c.-777C>T"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "INH",
+                        "Mutations": [
+                            {
+                                "Gene": "fabG1",
+                                "Mutation": "c-15x",
+                                "Position": -15,
+                                "Ref": "c",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "c-15t",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1112,
+                                        "Present_SOLO_R": 976,
+                                        "Present_SOLO_S": 136
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "inhA_c.-777C>T"
+                                }
+                            },
+                            {
+                                "Gene": "katG",
+                                "Mutation": "F483S",
+                                "Position": 483,
+                                "Ref": "ttc",
+                                "Alt": "tcc",
+                                "Coverage": [
+                                    0,
+                                    3
+                                ],
+                                "Prediction": "U",
+                                "Evidence": {
+                                    "reporting_rule": "True"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "LZD",
+                        "Mutations": [
+                            {
+                                "Gene": "rrl",
+                                "Mutation": "c1097t",
+                                "Position": 1097,
+                                "Ref": "c",
+                                "Alt": "t",
+                                "Coverage": [
+                                    0,
+                                    4
+                                ],
+                                "Prediction": "U",
+                                "Evidence": {
+                                    "reporting_rule": "True"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "PZA",
+                        "Mutations": [
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "A102X",
+                                "Position": 102,
+                                "Ref": "gcg",
+                                "Alt": "xcg",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "A102P",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 8,
+                                        "Present_SOLO_R": 7,
+                                        "Present_SOLO_S": 1
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_p.Ala102Pro"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "K96X",
+                                "Position": 96,
+                                "Ref": "aag",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "K96T",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 20,
+                                        "Present_SOLO_R": 19,
+                                        "Present_SOLO_S": 1
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_p.Lys96Thr"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "L4X",
+                                "Position": 4,
+                                "Ref": "ttg",
+                                "Alt": "xxg",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "L4S",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 43,
+                                        "Present_SOLO_R": 40,
+                                        "Present_SOLO_S": 3
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_p.Leu4Ser"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "M1X",
+                                "Position": 1,
+                                "Ref": "atg",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "M1?",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 543,
+                                        "Present_SOLO_R": 508,
+                                        "Present_SOLO_S": 35
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "a-11x",
+                                "Position": -11,
+                                "Ref": "a",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "a-11g",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 150,
+                                        "Present_SOLO_R": 140,
+                                        "Present_SOLO_S": 10
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_c.-11A>G"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "t-12x",
+                                "Position": -12,
+                                "Ref": "t",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "t-12c",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 8,
+                                        "Present_SOLO_R": 7,
+                                        "Present_SOLO_S": 1
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "pncA_c.-12T>C"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "RIF",
+                        "Mutations": [
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "D435X",
+                                "Position": 435,
+                                "Ref": "gac",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "D435V",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1096,
+                                        "Present_SOLO_R": 1083,
+                                        "Present_SOLO_S": 13
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rpoB_p.Asp435Val"
+                                }
+                            },
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "L430X",
+                                "Position": 430,
+                                "Ref": "ctg",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "L430P",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 208,
+                                        "Present_SOLO_R": 53,
+                                        "Present_SOLO_S": 155
+                                    },
+                                    "Additional grading criteria applied": "Borderline",
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "WHO HGVS": "rpoB_p.Leu430Pro"
+                                }
+                            },
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "Q432X",
+                                "Position": 432,
+                                "Ref": "caa",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "Q432P",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 52,
+                                        "Present_SOLO_R": 51,
+                                        "Present_SOLO_S": 1
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rpoB_p.Gln432Pro"
+                                }
+                            },
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "S441X",
+                                "Position": 441,
+                                "Ref": "tcg",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    1,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "S441Q",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 32,
+                                        "Present_SOLO_R": 30,
+                                        "Present_SOLO_S": 2
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rpoB_p.Ser441Gln"
+                                }
+                            },
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "V170X",
+                                "Position": 170,
+                                "Ref": "gtc",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    1,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "V170F",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 41,
+                                        "Present_SOLO_R": 40,
+                                        "Present_SOLO_S": 1
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rpoB_p.Val170Phe"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "STM",
+                        "Mutations": [
+                            {
+                                "Gene": "gid",
+                                "Mutation": "278_ins_a",
+                                "Position": 278,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    0,
+                                    5
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 881,
+                                        "Present_SOLO_R": 533,
+                                        "Present_SOLO_S": 348
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "gid_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "rrs",
+                                "Mutation": "a514x",
+                                "Position": 514,
+                                "Ref": "a",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "a514c",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 316,
+                                        "Present_SOLO_R": 305,
+                                        "Present_SOLO_S": 11
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rrs_n.514A>C"
+                                }
+                            },
+                            {
+                                "Gene": "rrs",
+                                "Mutation": "c517x",
+                                "Position": 517,
+                                "Ref": "c",
+                                "Alt": "x",
+                                "Coverage": [
+                                    2,
+                                    0
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "c517t",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 518,
+                                        "Present_SOLO_R": 468,
+                                        "Present_SOLO_S": 50
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rrs_n.517C>T"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "Metadata": {
+        "Pipeline build": "1.22.29",
+        "Reference Data Files": {
+            "manifest": "manifest_20231001",
+            "species_list": "species_list_manifest_20240710.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "ref_files": "Ref_prepare",
+            "tb_ref_genome": "NC_000962.3.gbk",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
+            "tb_minor_alleles": "minor_alleles.txt",
+            "sundial_ref": "h37rv_20231215.fa.gz"
+        }
+    }
+}

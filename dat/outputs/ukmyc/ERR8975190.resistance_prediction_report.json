@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "status": "success",
+    "workflow_name": "gnomonicus",
+    "workflow_version": "2.6.8",
+    "workflow_task": "resistance_prediction",
+    "guid": "final",
+    "UTC-datetime-completed": "2024-07-13T06:33:10.198133",
+    "time_taken_s": 79.11009764671326,
+    "reference": "NC_000962",
+    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
+    "reference_file": "NC_000962.3.gbk",
+    "vcf_file": "final.vcf",
+    "catalogue_type": "RFUS",
+    "catalogue_name": "WHO-UCN-GTB-PCI-2023.5",
+    "catalogue_version": 2.0
+  },
+  "data": {
+    "antibiogram": {
+      "AMI": "S",
+      "BDQ": "S",
+      "CAP": "S",
+      "CFZ": "S",
+      "DLM": "S",
+      "EMB": "S",
+      "ETH": "S",
+      "INH": "S",
+      "KAN": "S",
+      "LEV": "S",
+      "LZD": "U",
+      "MXF": "S",
+      "PZA": "S",
+      "RIF": "S",
+      "STM": "S"
+    },
+    "variants": [
+      {
+        "variant": "7362g>c",
+        "nucleotide_index": 7362,
+        "gene_name": "gyrA",
+        "gene_position": 21,
+        "codon_idx": 0,
+        "vcf_evidence": {
+          "GT": [
+            1,
+            1
+          ],
+          "DP": 73.0,
+          "ALLELE_DP": [
+            0.0,
+            73.0
+          ],
+          "FRS": 1.0,
+          "COV_TOTAL": 73,
+          "COV": [
+            0,
+            73
+          ],
+          "GT_CONF": 447.49,
+          "GT_CONF_PERCENTILE": 82.02,
+          "POS": 7362,
+          "REF": "g",
+          "ALTS": [
+            "c"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
+        "variant": "801355c>t",
+        "nucleotide_index": 801355,
+        "gene_name": "rplC",
+        "gene_position": 183,
+        "codon_idx": 0,
+        "vcf_evidence": {
+          "GT": [
+            1,
+            1
+          ],
+          "DP": 54.0,
+          "ALLELE_DP": [
+            0.0,
+            54.0
+          ],
+          "FRS": 1.0,
+          "COV_TOTAL": 54,
+          "COV": [
+            0,
+            54
+          ],
+          "GT_CONF": 329.77,
+          "GT_CONF_PERCENTILE": 77.08,
+          "POS": 801355,
+          "REF": "c",
+          "ALTS": [
+            "t"
+          ]
+        },
+        "vcf_idx": 1
+      }
+    ],
+    "mutations": [
+      {
+        "gene": "gyrA",
+        "gene_position": 21,
+        "mutation": "E21Q",
+        "ref": "gag",
+        "alt": "cag"
+      },
+      {
+        "gene": "rplC",
+        "gene_position": 183,
+        "mutation": "H183Y",
+        "ref": "cat",
+        "alt": "tat"
+      }
+    ],
+    "effects": {
+      "LEV": [
+        {
+          "gene": "gyrA",
+          "mutation": "E21Q",
+          "prediction": "S",
+          "evidence": {
+            "Observed_samples": {
+              "Present_SOLO_SR": 1585,
+              "Present_SOLO_R": 42,
+              "Present_SOLO_S": 1543
+            },
+            "Additional grading criteria applied": null,
+            "FINAL CONFIDENCE GRADING": "5) Not assoc w R",
+            "INITIAL CONFIDENCE GRADING": "5) Not assoc w R",
+            "WHO HGVS": "gyrA_p.Glu21Gln"
+          }
+        },
+        {
+          "phenotype": "S"
+        }
+      ],
+      "LZD": [
+        {
+          "gene": "rplC",
+          "mutation": "H183Y",
+          "prediction": "U",
+          "evidence": {
+            "reporting_rule": "True"
+          }
+        },
+        {
+          "phenotype": "U"
+        }
+      ],
+      "MXF": [
+        {
+          "gene": "gyrA",
+          "mutation": "E21Q",
+          "prediction": "S",
+          "evidence": {
+            "Observed_samples": {
+              "Present_SOLO_SR": 1170,
+              "Present_SOLO_R": 22,
+              "Present_SOLO_S": 1148
+            },
+            "Additional grading criteria applied": null,
+            "FINAL CONFIDENCE GRADING": "5) Not assoc w R",
+            "INITIAL CONFIDENCE GRADING": "5) Not assoc w R",
+            "WHO HGVS": "gyrA_p.Glu21Gln"
+          }
+        },
+        {
+          "phenotype": "S"
+        }
+      ]
+    }
+  }
+}

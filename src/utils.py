@@ -2,6 +2,68 @@ import numpy, pandas
 from scipy.stats import sem
 from tqdm import tqdm
 
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+
+import matplotlib
+
+matplotlib.rcParams.update({"font.size": 7})
+
+
+def plot_truthtables(results, qualities, filestem, exclude_fails=False):
+
+    for quality in qualities:
+
+        df = results[(results.quality == quality) & (results.dataset == "entire")]
+
+        for idx, row in df.iterrows():
+
+            fig = plt.figure(figsize=(1.0, 1.0))
+            axes = plt.gca()
+
+            axes.add_patch(Rectangle((0, 0), 1, 1, fc="#e41a1c", alpha=0.7))
+            axes.add_patch(Rectangle((0, 1), 1, 1, fc="#bbbbbb", alpha=0.3))
+            # fc="#4daf4a", alpha=0.1))
+            axes.add_patch(Rectangle((1, 1), 1, 1, fc="#fc9272", alpha=0.7))
+            axes.add_patch(Rectangle((1, 0), 1, 1, fc="#bbbbbb", alpha=0.3))
+
+            axes.set_xlim([0, 2])
+            axes.set_ylim([0, 2])
+
+            axes.set_xticks([0.5, 1.5], labels=["R", "S"])
+            axes.set_yticks([0.5, 1.5], labels=["S+U", "R"])
+
+            axes.text(0.5, 0.5, int(row["SR"] + row["UR"]), ha="center", va="center")
+            axes.text(1.5, 0.5, int(row["SS"] + row["US"]), ha="center", va="center")
+            axes.text(0.5, 1.5, int(row["RR"]), ha="center", va="center")
+            axes.text(1.5, 1.5, int(row["RS"]), ha="center", va="center")
+
+            if exclude_fails:
+                fig.savefig(
+                    "pdf/"
+                    + "/truthtables/"
+                    + filestem
+                    + row.quality.lower()
+                    + "-"
+                    + row.drug
+                    + "-exclude-fails.pdf",
+                    bbox_inches="tight",
+                    transparent=True,
+                )
+            else:
+                fig.savefig(
+                    "pdf/"
+                    + "/truthtables/"
+                    + filestem
+                    + row.quality.lower()
+                    + "-"
+                    + row.drug
+                    + ".pdf",
+                    bbox_inches="tight",
+                    transparent=True,
+                )
+            plt.close()
+
 
 def create_predictions_table(effects, who_drugs):
 

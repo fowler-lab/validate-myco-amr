@@ -13,7 +13,19 @@ matplotlib.rcParams.update({"font.size": 7})
 sns.set_theme(style="whitegrid", palette="muted")
 
 
-def plot_dilution_boxplot(df, filestem, exclude_fails=False):
+def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False):
+
+    MIC_VALUES = df.sort_values("DILUTION").MIC.unique()
+    df["MIC"] = pandas.Categorical(df["MIC"], categories=MIC_VALUES, ordered=True)
+    df = df[["MIC", "OUTCOME", "ENA_RUN_ACCESSION"]].groupby(["OUTCOME", "MIC"]).count()
+    df.columns = ["NUMBER"]
+    df = df[df.NUMBER > 0]
+    df["PROP"] = df["NUMBER"] / df.groupby("OUTCOME")["NUMBER"].transform("sum")
+    df.reset_index(inplace=True)
+    df.OUTCOME = pandas.Categorical(
+        df.OUTCOME, categories=["(S+U)S", "(S+U)R", "RR", "RS"], ordered=True
+    )
+    df.OUTCOME = df.OUTCOME.sort_values()
 
     plt.figure(figsize=(8, 2.6))
     palette = {
@@ -22,73 +34,41 @@ def plot_dilution_boxplot(df, filestem, exclude_fails=False):
         "(S+U)R": "#e41a1c",
         "RS": "#fc9272",
     }
-    # ax = sns.swarmplot(
-    #     data=df,
-    #     x="DILUTION_JITTERED",
-    #     y="OUTCOME",
-    #     order=["(S+U)S", "(S+U)R", "RR", "RS"],
-    #     alpha=0.8,
-    #     hue="OUTCOME",
-    #     dodge=True,
-    #     palette=palette,
-    #     size=2,
-    # )  # , size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
     ax = sns.scatterplot(
         data=df,
-        x="DILUTION",
+        x="MIC",
         y="OUTCOME",
-        size="NUMBER",
+        size="PROP",
         alpha=0.8,
         hue="OUTCOME",
         sizes=(50, 1000),
         palette=palette,
     )
-    # ax = sns.violinplot(
-    #     data=df,
-    #     x="DILUTION",
-    #     y="OUTCOME",
-    #     order=["(S+U)S", "(S+U)R", "RR", "RS"],
-    #     alpha=0.8,
-    #     hue="OUTCOME",
-    #     palette=palette,
-    # )  # , size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
-    # ax = sns.stripplot(
-    #     data=df,
-    #     x="DILUTION_JITTERED",
-    #     y="OUTCOME",
-    #     order=["(S+U)S", "(S+U)R", "RR", "RS"],
-    #     dodge=True,
-    #     jitter=1.5,
-    #     size=2,
-    #     alpha=0.8,
-    #     hue="OUTCOME",
-    #     palette=palette,
-    # )  # , size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
-    # ax = sns.boxplot(
-    #     data=df,
-    #     x="DILUTION",
-    #     y="OUTCOME",
-    #     order=["(S+U)S", "(S+U)R", "RR", "RS"],
-    #     hue="OUTCOME",
-    #     palette=palette,
-    #     fill=False,
-    # )  # , size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
+    for idx, row in df.iterrows():
+        ax.text(
+            row["MIC"],
+            row["OUTCOME"],
+            row["NUMBER"],
+            ha="center",
+            va="center",
+        )
     ax.grid(False)
     ax.get_legend().set_visible(False)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     x_axis = ax.axes.get_xaxis()
     x_axis.label.set_visible(False)
-    # ax.set_xlim(0, 100)
+    ax.set_ylim(3.5, -0.5)
     y_axis = ax.axes.get_yaxis()
     y_axis.label.set_visible(False)
-    plt.savefig(
-        "pdf/mic/mic-" + filestem + ".pdf", bbox_inches="tight", transparent=True
-    )
+    if filename is not None and savefig:
+        plt.savefig(
+            "pdf/mic/mic-" + filestem + ".pdf", bbox_inches="tight", transparent=True
+        )
     plt.close()
 
 
-def plot_growth_boxplot(df, filestem, exclude_fails=False):
+def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
 
     plt.figure(figsize=(8, 2.2))
     palette = {
@@ -97,9 +77,6 @@ def plot_growth_boxplot(df, filestem, exclude_fails=False):
         "(S+U)R": "#e41a1c",
         "RS": "#fc9272",
     }
-    # ax = sns.swarmplot(data=foo, x="POS_AVG_GROWTH", y="OUTCOME", order=['SS', 'SR', 'RR', 'RS'], alpha=0.8, hue='OUTCOME', dodge=True, palette=palette, size=3) #, size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
-    # ax = sns.violinplot(data=foo, x="POS_AVG_GROWTH", y="OUTCOME", order=['SS', 'SR', 'RR', 'RS'], alpha=0.8, hue='OUTCOME', palette=palette) #, size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
-    # ax = sns.stripplot(data=foo, x="POS_AVG_GROWTH", y="OUTCOME", order=['SS', 'SR', 'RR', 'RS'], dodge=False, jitter=0.3, alpha=0.8, hue='OUTCOME', palette=palette) #, size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
     ax = sns.boxplot(
         data=df,
         x="POS_AVG_GROWTH",
@@ -108,7 +85,7 @@ def plot_growth_boxplot(df, filestem, exclude_fails=False):
         hue="OUTCOME",
         palette=palette,
         fill=False,
-    )  # , size=3, jitter=0.5, hue='OUTCOME') #, alpha=0.5, linewidth=1)
+    )
     ax.grid(False)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
@@ -117,13 +94,14 @@ def plot_growth_boxplot(df, filestem, exclude_fails=False):
     ax.set_xlim(0, 100)
     y_axis = ax.axes.get_yaxis()
     y_axis.label.set_visible(False)
-    plt.savefig(
-        "pdf/growth/growth-" + filestem + ".pdf", bbox_inches="tight", transparent=True
-    )
+    if filename is not None and savefig:
+        plt.savefig("pdf/growth/" + filename, bbox_inches="tight", transparent=True)
     plt.close()
 
 
-def plot_truthtables(results, qualities, filestem, exclude_fails=False):
+def plot_truthtables(
+    results, qualities, filestem=filestem, savefig=False, exclude_fails=False
+):
 
     for quality in qualities:
 
@@ -151,30 +129,31 @@ def plot_truthtables(results, qualities, filestem, exclude_fails=False):
             axes.text(0.5, 1.5, int(row["RR"]), ha="center", va="center")
             axes.text(1.5, 1.5, int(row["RS"]), ha="center", va="center")
 
-            if exclude_fails:
-                fig.savefig(
-                    "pdf/"
-                    + "/truthtables/"
-                    + filestem
-                    + row.quality.lower()
-                    + "-"
-                    + row.drug
-                    + "-exclude-fails.pdf",
-                    bbox_inches="tight",
-                    transparent=True,
-                )
-            else:
-                fig.savefig(
-                    "pdf/"
-                    + "/truthtables/"
-                    + filestem
-                    + row.quality.lower()
-                    + "-"
-                    + row.drug
-                    + ".pdf",
-                    bbox_inches="tight",
-                    transparent=True,
-                )
+            if filestem is not None and savefig:
+                if exclude_fails:
+                    fig.savefig(
+                        "pdf/"
+                        + "/truthtables/"
+                        + filestem
+                        + row.quality.lower()
+                        + "-"
+                        + row.drug
+                        + "-exclude-fails.pdf",
+                        bbox_inches="tight",
+                        transparent=True,
+                    )
+                else:
+                    fig.savefig(
+                        "pdf/"
+                        + "/truthtables/"
+                        + filestem
+                        + row.quality.lower()
+                        + "-"
+                        + row.drug
+                        + ".pdf",
+                        bbox_inches="tight",
+                        transparent=True,
+                    )
             plt.close()
 
 

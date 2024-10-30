@@ -63,7 +63,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
     y_axis.label.set_visible(False)
     if filename is not None and savefig:
         plt.savefig(
-            "pdf/mic/mic-" + filestem + ".pdf", bbox_inches="tight", transparent=True
+            "pdf/mic/mic-" + filename + ".pdf", bbox_inches="tight", transparent=True
         )
     plt.close()
 
@@ -100,7 +100,7 @@ def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
 
 
 def plot_truthtables(
-    results, qualities, filestem=filestem, savefig=False, exclude_fails=False
+    results, qualities, filestem=None, savefig=False, exclude_fails=False
 ):
 
     for quality in qualities:

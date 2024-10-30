@@ -6,11 +6,12 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
 import matplotlib
+
 import seaborn as sns
 
-matplotlib.rcParams.update({"font.size": 7})
-
 sns.set_theme(style="whitegrid", palette="muted")
+matplotlib.rcParams.update({"font.size": 7})
+plt.rcParams.update({"font.size": 7})
 
 
 def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False):
@@ -27,7 +28,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
     )
     df.OUTCOME = df.OUTCOME.sort_values()
 
-    plt.figure(figsize=(8, 2.6))
+    plt.figure(figsize=(3, 1.2))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",
@@ -41,7 +42,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
         size="PROP",
         alpha=0.8,
         hue="OUTCOME",
-        sizes=(50, 1000),
+        sizes=(50, 500),
         palette=palette,
     )
     for idx, row in df.iterrows():
@@ -51,6 +52,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
             row["NUMBER"],
             ha="center",
             va="center",
+            fontsize=7,
         )
     ax.grid(False)
     ax.get_legend().set_visible(False)
@@ -61,6 +63,8 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
     ax.set_ylim(3.5, -0.5)
     y_axis = ax.axes.get_yaxis()
     y_axis.label.set_visible(False)
+    for label in ax.get_xticklabels() + ax.get_yticklabels():
+        label.set_fontsize(7)
     if filename is not None and savefig:
         plt.savefig(
             "pdf/mic/mic-" + filename + ".pdf", bbox_inches="tight", transparent=True
@@ -69,8 +73,8 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
 
 
 def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
-
-    plt.figure(figsize=(8, 2.2))
+    plt.rcParams.update({"font.size": 7})
+    plt.figure(figsize=(3, 1.2))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",
@@ -91,9 +95,11 @@ def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
     ax.spines["right"].set_visible(False)
     x_axis = ax.axes.get_xaxis()
     x_axis.label.set_visible(False)
-    ax.set_xlim(0, 100)
+    ax.set_xlim(-2, 102)
     y_axis = ax.axes.get_yaxis()
     y_axis.label.set_visible(False)
+    for label in ax.get_xticklabels() + ax.get_yticklabels():
+        label.set_fontsize(7)
     if filename is not None and savefig:
         plt.savefig("pdf/growth/" + filename, bbox_inches="tight", transparent=True)
     plt.close()
@@ -109,20 +115,30 @@ def plot_truthtables(
 
         for idx, row in df.iterrows():
 
-            fig = plt.figure(figsize=(1.0, 1.0))
+            fig = plt.figure(figsize=(1, 1))
             axes = plt.gca()
 
-            axes.add_patch(Rectangle((0, 0), 1, 1, fc="#e41a1c", alpha=0.7))
-            axes.add_patch(Rectangle((0, 1), 1, 1, fc="#bbbbbb", alpha=0.3))
+            axes.add_patch(
+                Rectangle((0, 0), 1, 1, fc="#e41a1c", alpha=0.7, edgecolor=None)
+            )
+            axes.add_patch(
+                Rectangle((0, 1), 1, 1, fc="#bbbbbb", alpha=0.3, edgecolor=None)
+            )
             # fc="#4daf4a", alpha=0.1))
-            axes.add_patch(Rectangle((1, 1), 1, 1, fc="#fc9272", alpha=0.7))
-            axes.add_patch(Rectangle((1, 0), 1, 1, fc="#bbbbbb", alpha=0.3))
+            axes.add_patch(
+                Rectangle((1, 1), 1, 1, fc="#fc9272", alpha=0.7, edgecolor=None)
+            )
+            axes.add_patch(
+                Rectangle((1, 0), 1, 1, fc="#bbbbbb", alpha=0.3, edgecolor=None)
+            )
 
             axes.set_xlim([0, 2])
             axes.set_ylim([0, 2])
 
-            axes.set_xticks([0.5, 1.5], labels=["R", "S"])
-            axes.set_yticks([0.5, 1.5], labels=["S+U", "R"])
+            axes.grid(False)
+
+            axes.set_xticks([0.5, 1.5], labels=["R", "S"], fontsize=7)
+            axes.set_yticks([0.5, 1.5], labels=["S+U", "R"], fontsize=7)
 
             axes.text(0.5, 0.5, int(row["SR"] + row["UR"]), ha="center", va="center")
             axes.text(1.5, 0.5, int(row["SS"] + row["US"]), ha="center", va="center")

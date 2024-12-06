@@ -1,4 +1,3 @@
-# validate-myco-amr
-Data and code to validate our translation of the [second version of the WHO catalogue](https://www.who.int/publications/i/item/9789240082410) of resistance-associated variants in tuberculosis as deployed in [EIT Pathogena](https://www.eit-pathogena.com). 
+# Enhancement and validation of the antibiotic resistance prediction performance of a cloud-based genetics processing platform for Mycobacteria
 
-This repository complements a manuscript that will shortly be deposited on a preprint server with the aim of being submitted to a scientific journal for peer-review. Once those details are known this README will be updated.
+This repository contains the data and code necessary to reproduce the tables and figures in the manuscript with the above title.

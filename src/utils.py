@@ -344,34 +344,51 @@ def build_bootstrapped_table(
                     foo.BINARY_PHENOTYPE, foo.PREDICTION, margins=True, dropna=False
                 )
                 if include_fails:
-                    sensitivity.append(
+                    current_sensitivity = table["R"]["R"] / (
                         table["R"]["R"]
-                        / (
-                            table["R"]["R"]
-                            + table["S"]["R"]
-                            + table["U"]["R"]
-                            + table["F"]["R"]
-                        )
+                        + table["S"]["R"]
+                        + table["U"]["R"]
+                        + table["F"]["R"]
                     )
-                    specificity.append(
-                        (table["S"]["S"] + table["U"]["S"] + table["F"]["S"])
-                        / (
-                            table["S"]["S"]
-                            + table["R"]["S"]
-                            + table["U"]["S"]
-                            + table["F"]["S"]
-                        )
+
+                    current_sensitivity = (
+                        table["S"]["S"] + table["U"]["S"] + table["F"]["S"]
+                    ) / (
+                        table["S"]["S"]
+                        + table["R"]["S"]
+                        + table["U"]["S"]
+                        + table["F"]["S"]
                     )
+
                 else:
-                    sensitivity.append(
-                        table["R"]["R"]
-                        / (table["R"]["R"] + table["S"]["R"] + table["U"]["R"])
+                    current_sensitivity = table["R"]["R"] / (
+                        table["R"]["R"] + table["S"]["R"] + table["U"]["R"]
                     )
-                    specificity.append(
-                        (table["S"]["S"] + table["U"]["S"])
-                        / (table["S"]["S"] + table["R"]["S"] + table["U"]["S"])
+
+                    current_specificity = (table["S"]["S"] + table["U"]["S"]) / (
+                        table["S"]["S"] + table["R"]["S"] + table["U"]["S"]
                     )
-                ppv.append((table["R"]["R"]) / (table["R"]["R"] + table["R"]["S"]))
+
+                current_ppv = (table["R"]["R"]) / (table["R"]["R"] + table["R"]["S"])
+
+                sensitivity.append(current_sensitivity)
+                specificity.append(current_specificity)
+                ppv.append(current_ppv)
+
+                row = [
+                    set,
+                    drug,
+                    method,
+                    quality,
+                    "bootstrap-" + str(i),
+                    current_sensitivity,
+                    None,
+                    current_specificity,
+                    None,
+                    current_ppv,
+                    None,
+                ]
+                table_rows.append(row)
 
             if debug:
                 print(drug)

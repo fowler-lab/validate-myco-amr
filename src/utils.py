@@ -310,6 +310,66 @@ def build_exact_table(
     return table_rows
 
 
+def bootstrap_predictions(
+    table_rows,
+    df,
+    drug_list,
+    quality_list,
+    set,
+    method,
+    n_bootstraps=10000,
+    n_sample=1000,
+):
+
+    df.loc[df.PREDICTION == "U", "PREDICTION"] = "S"
+
+    for quality in quality_list:
+        for drug in tqdm(drug_list):
+
+            if quality == "HIGH":
+                foo = df[(df.DRUG == drug) & (df.PHENOTYPE_QUALITY == quality)]
+            else:
+                foo = df[(df.DRUG == drug)]
+
+            for i in range(n_bootstraps):
+                row = [
+                    set,
+                    drug,
+                    method,
+                    quality,
+                    i,
+                ]
+                baa = foo.sample(n=n_sample, random_state=42 + i, replace=True)
+
+                table = pandas.crosstab(
+                    baa.BINARY_PHENOTYPE, baa.PREDICTION, margins=True, dropna=False
+                )
+                if "R" in table.columns:
+                    if "R" in table.index:
+                        row.append(table["R"]["R"])
+                    else:
+                        row.append(0)
+                if "S" in table.columns:
+                    if "R" in table.index:
+                        row.append(table["S"]["R"])
+                    else:
+                        row.append(0)
+                if "R" in table.columns:
+                    if "S" in table.index:
+                        row.append(table["R"]["S"])
+                    else:
+                        row.append(0)
+                if "S" in table.columns:
+                    if "S" in table.index:
+                        row.append(table["S"]["S"])
+                    else:
+                        row.append(0)
+
+                table_rows.append(row)
+
+    return table_rows
+
+
 def build_bootstrapped_table(
     table_rows,
     df,

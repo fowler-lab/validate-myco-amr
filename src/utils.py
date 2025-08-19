@@ -1,7 +1,7 @@
-import numpy, pandas
+import numpy
+import pandas
 from scipy.stats import sem
 from tqdm import tqdm
-from collections import defaultdict
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
@@ -225,16 +225,6 @@ def create_predictions_table(effects, who_drugs):
     results = pandas.DataFrame(table)
     results.set_index(["SET", "ENA_RUN_ACCESSION", "DRUG"], inplace=True)
     return results
-
-def crosstab_to_defaultdict(table: pandas.DataFrame) -> defaultdict:
-    """
-    Convert a pandas crosstab DataFrame to a defaultdict for easier access.
-    """
-    result = defaultdict(lambda: defaultdict(int))
-    for _, row in table.iterrows():
-        for col in table.columns:
-            result[row.name][col] = row[col]
-    return result
     
 
 def build_exact_table(
@@ -257,9 +247,14 @@ def build_exact_table(
                 foo = df[(df.DRUG == drug) & (df.PHENOTYPE_QUALITY == "HIGH")]
             else:
                 foo = df[(df.DRUG == drug)]
-            table = crosstab_to_defaultdict(pandas.crosstab(
+            table = pandas.crosstab(
                 foo.BINARY_PHENOTYPE, foo.PREDICTION, margins=True, dropna=False
-            ))
+            )
+            try:
+                table["U"]
+            except KeyError:
+                # If there's no unknown predictions, add it with zeros
+                table["U"] = 0
             if include_fails:
                 sensitivity = table["R"]["R"] / (
                     table["R"]["R"]
@@ -351,9 +346,14 @@ def build_bootstrapped_table(
                         n=n_sample, random_state=42 + i, replace=True
                     )
 
-                table = crosstab_to_defaultdict(pandas.crosstab(
+                table = pandas.crosstab(
                     foo.BINARY_PHENOTYPE, foo.PREDICTION, margins=True, dropna=False
-                ))
+                )
+                try:
+                    table["U"]
+                except KeyError:
+                    # If there's no unknown predictions, add it with zeros
+                    table["U"] = 0
                 if include_fails:
                     current_sensitivity = table["R"]["R"] / (
                         table["R"]["R"]

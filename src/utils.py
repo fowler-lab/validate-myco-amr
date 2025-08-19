@@ -1,4 +1,5 @@
-import numpy, pandas
+import numpy
+import pandas
 from scipy.stats import sem
 from tqdm import tqdm
 
@@ -224,7 +225,7 @@ def create_predictions_table(effects, who_drugs):
     results = pandas.DataFrame(table)
     results.set_index(["SET", "ENA_RUN_ACCESSION", "DRUG"], inplace=True)
     return results
-
+    
 
 def build_exact_table(
     table_rows,
@@ -249,6 +250,11 @@ def build_exact_table(
             table = pandas.crosstab(
                 foo.BINARY_PHENOTYPE, foo.PREDICTION, margins=True, dropna=False
             )
+            try:
+                table["U"]
+            except KeyError:
+                # If there's no unknown predictions, add it with zeros
+                table["U"] = 0
             if include_fails:
                 sensitivity = table["R"]["R"] / (
                     table["R"]["R"]
@@ -343,6 +349,11 @@ def build_bootstrapped_table(
                 table = pandas.crosstab(
                     foo.BINARY_PHENOTYPE, foo.PREDICTION, margins=True, dropna=False
                 )
+                try:
+                    table["U"]
+                except KeyError:
+                    # If there's no unknown predictions, add it with zeros
+                    table["U"] = 0
                 if include_fails:
                     current_sensitivity = table["R"]["R"] / (
                         table["R"]["R"]

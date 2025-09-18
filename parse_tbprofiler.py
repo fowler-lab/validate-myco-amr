@@ -23,7 +23,12 @@ drug_map = {
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--jsons", type=str, nargs="+", required=True,)
+    parser.add_argument(
+        "--jsons",
+        type=str,
+        nargs="+",
+        required=True,
+    )
     args = parser.parse_args()
     effects_table = {
         "ENA_RUN_ACCESSION": [],
@@ -55,10 +60,12 @@ if __name__ == "__main__":
 
             if confidence == "Uncertain significance":
                 prediction = "U"
-            elif not gene or not mutation:
+            elif confidence in ["Assoc w R", "Assoc w R - Interim"]:
+                prediction = "R"
+            elif confidence in ["", "Not assoc w R", "Not assoc w R - Interim"]:
                 prediction = "S"
             else:
-                prediction = "R"
+                raise ValueError("Unknown confidence value")
 
             seen_prediction = items.get((sample_id, drug))
             if seen_prediction:
@@ -66,7 +73,7 @@ if __name__ == "__main__":
                     # This prection is less important than the one we already have,
                     # so we skip it
                     continue
-            
+
             items[(sample_id, drug)] = prediction
             if gene and mutation:
                 effects_table["ENA_RUN_ACCESSION"].append(sample_id)
@@ -75,15 +82,13 @@ if __name__ == "__main__":
                 effects_table["MUTATION"].append(mutation)
                 effects_table["confidence"].append(confidence)
                 effects_table["PREDICTION"].append(prediction)
-    
+
     for (ena_run_accession, drug), prediction in items.items():
         predictions_table["ENA_RUN_ACCESSION"].append(ena_run_accession)
         predictions_table["DRUG"].append(drug)
         predictions_table["PREDICTION"].append(prediction)
-        
-    
+
     df = pd.DataFrame(predictions_table)
     df.to_csv("dat/tbprofiler_PREDICTIONS.csv", index=False)
     effects_df = pd.DataFrame(effects_table)
     effects_df.to_csv("dat/tbprofiler_EFFECTS.csv", index=False)
-

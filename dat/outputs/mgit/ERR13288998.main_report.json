@@ -2,26 +2,26 @@
     "Pipeline Outcome": "Sufficient reads mapped to M. tuberculosis (H37Rv v3) for genome assembly, resistance prediction and relatedness assessment.",
     "Organism Identification": {
         "Human Reads": null,
-        "Unclassified Reads": 184,
-        "Non-Mycobacterium Bacteria Reads": 1746,
-        "Mycobacterium Reads": 4974390
+        "Unclassified Reads": 182,
+        "Non-Mycobacterium Bacteria Reads": 1740,
+        "Mycobacterium Reads": 4973734
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 2.2.7)",
-                "Num Reads": 4894771,
-                "Coverage": 99.1007,
-                "Depth": 165.139
+                "Num Reads": 4894974,
+                "Coverage": 99.0982,
+                "Depth": 165.148
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 4894771,
-                "Coverage": 99.1007,
-                "Mean Depth": 165.139,
-                "Length": 4411532.0
+                "Num Reads": 4894974,
+                "Coverage": 99.0982,
+                "Mean Depth": 165.148,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -41,8 +41,8 @@
         "Lineage": [
             {
                 "Name": "lineage2.2.7",
-                "Coverage": 0,
-                "Median Depth": 0
+                "Coverage": 100,
+                "Median Depth": 147
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 4894771,
-                "Coverage": 98.9627,
-                "Mean Depth": 165.139,
-                "Mixed calls": 358,
-                "Null calls": 45761,
+                "Num Reads": 4894974,
+                "Coverage": 98.9703,
+                "Mean Depth": 165.148,
+                "Mixed calls": 348,
+                "Null calls": 45426,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -78,7 +78,8 @@
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "U",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -141,7 +142,7 @@
                                 "Alt": "aca",
                                 "Coverage": [
                                     0,
-                                    121
+                                    125
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -163,13 +164,13 @@
                         "Mutations": [
                             {
                                 "Gene": "pncA",
-                                "Mutation": "del_1.0",
-                                "Position": null,
+                                "Mutation": "-40_del_gcaaactgcccgggcagtcgcccgaacgtatggtggacgtatgcgggcgttgatcatcgtcgacgtgcagaacgacttctgcgagggtggctcgctggcggtaaccggtggcgccgcgctggcccgcgccatcagcgactacctggccgaagcggcggactaccatcacgtcgtggcaaccaaggacttccacatcgacccgggtgaccacttctccggcacaccggactattcctcgtcgtggccaccgcattgcgtcagcggtactcccggcgcggacttccatcccagtctggacacgtcggcaatcgaggcggtgttctacaagggtgcctacaccggagcgtacagcggcttcgaaggagtcgacgagaacggcacgccactgctgaattggctgcggcaacgcggcgtcgatgaggtcgatgtggtcggtattgccaccgatcattgtgtgcgccagacggccgaggacgcggtacgcaatggcttggccaccagggtgctggtggacctgacagcgggtgtgtcggccgataccaccgtcgccgcgctggaggagatgcgcaccgccagcgtcgagttggtttgcagctcctg",
+                                "Position": -40,
                                 "Ref": "",
                                 "Alt": "",
                                 "Coverage": [
-                                    0,
-                                    135
+                                    "Complex",
+                                    "Complex"
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -182,6 +183,29 @@
                                     "FINAL CONFIDENCE GRADING": "1) Assoc w R",
                                     "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
                                     "WHO HGVS": "pncA_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "pncA",
+                                "Mutation": "del_0.94",
+                                "Position": null,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    null,
+                                    null
+                                ],
+                                "Prediction": "U",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1,
+                                        "Present_SOLO_R": 1,
+                                        "Present_SOLO_S": 0
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "WHO HGVS": "pncA_p.Ala28_Leu172del"
                                 }
                             }
                         ]
@@ -197,7 +221,7 @@
                                 "Alt": "ttg",
                                 "Coverage": [
                                     0,
-                                    73
+                                    69
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -247,15 +271,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

@@ -4,24 +4,24 @@
         "Human Reads": null,
         "Unclassified Reads": 206,
         "Non-Mycobacterium Bacteria Reads": 1918,
-        "Mycobacterium Reads": 4750772
+        "Mycobacterium Reads": 4749892
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 2.2.1)",
-                "Num Reads": 4669429,
-                "Coverage": 99.2955,
-                "Depth": 156.316
+                "Num Reads": 4668718,
+                "Coverage": 99.3023,
+                "Depth": 156.294
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 4669429,
-                "Coverage": 99.2955,
-                "Mean Depth": 156.316,
-                "Length": 4411532.0
+                "Num Reads": 4668718,
+                "Coverage": 99.3023,
+                "Mean Depth": 156.294,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -41,8 +41,8 @@
         "Lineage": [
             {
                 "Name": "lineage2.2.1",
-                "Coverage": 0,
-                "Median Depth": 0
+                "Coverage": 100,
+                "Median Depth": 88
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 4669429,
-                "Coverage": 99.1211,
-                "Mean Depth": 156.316,
-                "Mixed calls": 1033,
-                "Null calls": 38772,
+                "Num Reads": 4668718,
+                "Coverage": 99.1381,
+                "Mean Depth": 156.294,
+                "Mixed calls": 1027,
+                "Null calls": 38025,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -78,7 +78,8 @@
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "R",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -93,7 +94,7 @@
                                 "Alt": "g",
                                 "Coverage": [
                                     8,
-                                    74
+                                    73
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -121,7 +122,7 @@
                                 "Alt": "g",
                                 "Coverage": [
                                     8,
-                                    74
+                                    73
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -146,7 +147,7 @@
                                 "Mutation": "M306I:97",
                                 "Position": 306,
                                 "Ref": "atg",
-                                "Alt": "zzz",
+                                "Alt": "ata",
                                 "Coverage": [
                                     19,
                                     97
@@ -222,13 +223,13 @@
                             },
                             {
                                 "Gene": "katG",
-                                "Mutation": "S315T:109",
+                                "Mutation": "S315T:95",
                                 "Position": 315,
                                 "Ref": "agc",
-                                "Alt": "zzz",
+                                "Alt": "acc",
                                 "Coverage": [
-                                    21,
-                                    109
+                                    19,
+                                    95
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -256,7 +257,7 @@
                                 "Alt": "g",
                                 "Coverage": [
                                     8,
-                                    74
+                                    73
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -408,13 +409,13 @@
                         "Mutations": [
                             {
                                 "Gene": "rpoB",
-                                "Mutation": "D435V:39",
+                                "Mutation": "D435V",
                                 "Position": 435,
                                 "Ref": "gac",
-                                "Alt": "zzz",
+                                "Alt": "gtc",
                                 "Coverage": [
-                                    7,
-                                    39
+                                    5,
+                                    45
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -442,22 +443,30 @@
                                 "Alt": "g",
                                 "Coverage": [
                                     8,
-                                    74
+                                    73
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
-                                    "reporting_rule": "True"
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 56,
+                                        "Present_SOLO_R": 22,
+                                        "Present_SOLO_S": 34
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "WHO HGVS": "rrs_n.1401A>G"
                                 }
                             },
                             {
                                 "Gene": "rrs",
-                                "Mutation": "a514c:30",
+                                "Mutation": "a514c",
                                 "Position": 514,
-                                "Ref": "",
-                                "Alt": "",
+                                "Ref": "a",
+                                "Alt": "c",
                                 "Coverage": [
-                                    4,
-                                    30
+                                    3,
+                                    33
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -479,15 +488,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

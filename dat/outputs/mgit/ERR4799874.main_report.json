@@ -2,26 +2,26 @@
     "Pipeline Outcome": "Sufficient reads mapped to M. tuberculosis (H37Rv v3) for genome assembly, resistance prediction and relatedness assessment.",
     "Organism Identification": {
         "Human Reads": null,
-        "Unclassified Reads": 696,
-        "Non-Mycobacterium Bacteria Reads": 4102,
-        "Mycobacterium Reads": 2876930
+        "Unclassified Reads": 692,
+        "Non-Mycobacterium Bacteria Reads": 4090,
+        "Mycobacterium Reads": 2876698
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 3.1.2)",
-                "Num Reads": 2826892,
-                "Coverage": 99.8982,
-                "Depth": 90.5518
+                "Num Reads": 2826822,
+                "Coverage": 99.8978,
+                "Depth": 90.5498
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 2826892,
-                "Coverage": 99.8982,
-                "Mean Depth": 90.5518,
-                "Length": 4411532.0
+                "Num Reads": 2826822,
+                "Coverage": 99.8978,
+                "Mean Depth": 90.5498,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage3.1.2",
                 "Coverage": 100,
-                "Median Depth": 1
+                "Median Depth": 83
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 2826892,
-                "Coverage": 99.574,
-                "Mean Depth": 90.5518,
-                "Mixed calls": 735,
-                "Null calls": 18792,
+                "Num Reads": 2826822,
+                "Coverage": 99.5851,
+                "Mean Depth": 90.5498,
+                "Mixed calls": 718,
+                "Null calls": 18302,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -77,8 +77,9 @@
                         "Kanamycin (KAN)": "S",
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
-                        "Ethionamide (ETH)": "S",
-                        "Delamanid (DLM)": "S"
+                        "Ethionamide (ETH)": "R",
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -111,6 +112,80 @@
                         ]
                     },
                     {
+                        "Drug Name": "ETH",
+                        "Mutations": [
+                            {
+                                "Gene": "ethA",
+                                "Mutation": "1047_del_t:11",
+                                "Position": 1047,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    50,
+                                    11
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1291,
+                                        "Present_SOLO_R": 658,
+                                        "Present_SOLO_S": 633
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "ethA_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "ethA",
+                                "Mutation": "181_ins_a:9",
+                                "Position": 181,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    41,
+                                    9
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1291,
+                                        "Present_SOLO_R": 658,
+                                        "Present_SOLO_S": 633
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "ethA_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "ethA",
+                                "Mutation": "672_ins_g:14",
+                                "Position": 672,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    55,
+                                    14
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 1291,
+                                        "Present_SOLO_R": 658,
+                                        "Present_SOLO_S": 633
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "ethA_LoF"
+                                }
+                            }
+                        ]
+                    },
+                    {
                         "Drug Name": "INH",
                         "Mutations": [
                             {
@@ -121,7 +196,7 @@
                                 "Alt": "acc",
                                 "Coverage": [
                                     0,
-                                    50
+                                    46
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -233,7 +308,7 @@
                                 "Alt": "ttg",
                                 "Coverage": [
                                     0,
-                                    25
+                                    27
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -261,7 +336,7 @@
                                 "Alt": "agg",
                                 "Coverage": [
                                     2,
-                                    98
+                                    101
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -283,15 +358,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

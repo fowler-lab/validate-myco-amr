@@ -2,15 +2,15 @@
   "meta": {
     "status": "success",
     "workflow_name": "gnomonicus",
-    "workflow_version": "2.6.8",
+    "workflow_version": "3.0.10",
     "workflow_task": "resistance_prediction",
-    "guid": "final",
-    "UTC-datetime-completed": "2024-07-13T23:51:17.517386",
-    "time_taken_s": 172.00088095664978,
+    "guid": "92bc1389-b18c-4590-a033-63c50000353d.clean",
+    "UTC-datetime-completed": "2025-09-20T07:33:19.670720",
+    "time_taken_s": 5.831668138504028,
     "reference": "NC_000962",
-    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
+    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
     "reference_file": "NC_000962.3.gbk",
-    "vcf_file": "final.vcf",
+    "vcf_file": "92bc1389-b18c-4590-a033-63c50000353d.clean.vcf",
     "catalogue_type": "RFUS",
     "catalogue_name": "WHO-UCN-GTB-PCI-2023.5",
     "catalogue_version": 2.0
@@ -21,7 +21,7 @@
       "BDQ": "S",
       "CAP": "S",
       "CFZ": "S",
-      "DLM": "S",
+      "DLM": "R",
       "EMB": "S",
       "ETH": "S",
       "INH": "S",
@@ -35,29 +35,93 @@
     },
     "variants": [
       {
+        "variant": "1304844c>x",
+        "nucleotide_index": 1304844,
+        "gene_name": "fbiC",
+        "gene_position": 638,
+        "codon_idx": 2,
+        "vcf_evidence": {
+          "GT_CONF": 6.87,
+          "DP": 2,
+          "COV_TOTAL": 3,
+          "FRS": 0.6667,
+          "COV": [
+            2,
+            1
+          ],
+          "ALLELE_DP": [
+            2,
+            1
+          ],
+          "GT": [
+            0,
+            0
+          ],
+          "GT_CONF_PERCENTILE": 0.02,
+          "POS": 1304844,
+          "REF": "c",
+          "ALTS": [
+            "g"
+          ]
+        },
+        "vcf_idx": 0
+      },
+      {
+        "variant": "1305495_del_ggcctagccccggcgacgatgccgggtcgcgggatgcggcccgttgaggagcggggcaatct:18",
+        "nucleotide_index": 1305495,
+        "gene_name": "fbiC",
+        "gene_position": 2565,
+        "codon_idx": 2,
+        "vcf_evidence": {
+          "ALLELE_DP": [
+            9.5873,
+            26
+          ],
+          "GT": [
+            1,
+            1
+          ],
+          "DP": 26,
+          "FRS": 0.8125,
+          "COV": [
+            6,
+            18
+          ],
+          "GT_CONF_PERCENTILE": 14.52,
+          "GT_CONF": 74.33,
+          "COV_TOTAL": 32,
+          "POS": 1305494,
+          "REF": "cggcctagccccggcgacgatgccgggtcgcgggatgcggcccgttgaggagcggggcaatct",
+          "ALTS": [
+            "c"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
         "variant": "4408156a>c",
         "nucleotide_index": 4408156,
         "gene_name": "gid",
         "gene_position": 16,
         "codon_idx": 1,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 41.0,
-          "ALLELE_DP": [
-            0.0,
-            41.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 41,
           "COV": [
             0,
             41
           ],
-          "GT_CONF": 264.04,
-          "GT_CONF_PERCENTILE": 89.13,
+          "ALLELE_DP": [
+            0,
+            41
+          ],
+          "COV_TOTAL": 41,
+          "GT_CONF_PERCENTILE": 88.88,
+          "FRS": 1.0,
+          "GT_CONF": 264.25,
+          "DP": 41,
+          "GT": [
+            1,
+            1
+          ],
           "POS": 4408156,
           "REF": "a",
           "ALTS": [
@@ -73,23 +137,23 @@
         "gene_position": 21,
         "codon_idx": 0,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 30.0,
-          "ALLELE_DP": [
-            0.0,
-            30.0
-          ],
-          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 72.26,
           "COV_TOTAL": 30,
+          "ALLELE_DP": [
+            0,
+            30
+          ],
           "COV": [
             0,
             30
           ],
-          "GT_CONF": 196.42,
-          "GT_CONF_PERCENTILE": 72.6,
+          "DP": 30,
+          "FRS": 1.0,
+          "GT": [
+            1,
+            1
+          ],
+          "GT_CONF": 196.65,
           "POS": 7362,
           "REF": "g",
           "ALTS": [
@@ -105,23 +169,23 @@
         "gene_position": 95,
         "codon_idx": 1,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 40.0,
-          "ALLELE_DP": [
-            0.0,
-            40.0
-          ],
-          "FRS": 1.0,
+          "DP": 40,
           "COV_TOTAL": 40,
+          "FRS": 1.0,
+          "ALLELE_DP": [
+            0,
+            40
+          ],
+          "GT_CONF": 258.12,
           "COV": [
             0,
             40
           ],
-          "GT_CONF": 257.9,
-          "GT_CONF_PERCENTILE": 88.2,
+          "GT": [
+            1,
+            1
+          ],
+          "GT_CONF_PERCENTILE": 87.82,
           "POS": 7585,
           "REF": "g",
           "ALTS": [
@@ -137,23 +201,23 @@
         "gene_position": 668,
         "codon_idx": 1,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 51.0,
-          "ALLELE_DP": [
-            1.0,
-            51.0
-          ],
-          "FRS": 0.981,
+          "FRS": 0.9808,
           "COV_TOTAL": 52,
+          "GT_CONF": 311.23,
+          "GT_CONF_PERCENTILE": 94.2,
+          "ALLELE_DP": [
+            1,
+            51
+          ],
+          "DP": 51,
           "COV": [
             1,
             51
           ],
-          "GT_CONF": 311.15,
-          "GT_CONF_PERCENTILE": 94.32,
+          "GT": [
+            1,
+            1
+          ],
           "POS": 9304,
           "REF": "g",
           "ALTS": [
@@ -173,19 +237,19 @@
             1,
             1
           ],
-          "DP": 44.0,
-          "ALLELE_DP": [
-            0.0,
-            44.0
-          ],
+          "GT_CONF": 282.66,
           "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 91.1,
           "COV_TOTAL": 44,
           "COV": [
             0,
             44
           ],
-          "GT_CONF": 282.45,
-          "GT_CONF_PERCENTILE": 91.26,
+          "ALLELE_DP": [
+            0,
+            44
+          ],
+          "DP": 44,
           "POS": 6140,
           "REF": "g",
           "ALTS": [
@@ -205,19 +269,19 @@
             1,
             1
           ],
-          "DP": 22.0,
-          "ALLELE_DP": [
-            0.0,
-            22.0
-          ],
           "FRS": 1.0,
-          "COV_TOTAL": 22,
+          "DP": 22,
           "COV": [
             0,
             22
           ],
-          "GT_CONF": 147.07,
-          "GT_CONF_PERCENTILE": 52.07,
+          "GT_CONF": 147.3,
+          "GT_CONF_PERCENTILE": 51.76,
+          "COV_TOTAL": 22,
+          "ALLELE_DP": [
+            0,
+            22
+          ],
           "POS": 775639,
           "REF": "t",
           "ALTS": [
@@ -227,29 +291,125 @@
         "vcf_idx": 1
       },
       {
+        "variant": "1472529g>x",
+        "nucleotide_index": 1472529,
+        "gene_name": "rrs",
+        "gene_position": 684,
+        "codon_idx": null,
+        "vcf_evidence": {
+          "COV": [
+            2,
+            0
+          ],
+          "ALLELE_DP": [
+            2,
+            0
+          ],
+          "COV_TOTAL": 2,
+          "GT": [
+            0,
+            0
+          ],
+          "GT_CONF_PERCENTILE": 0.68,
+          "GT_CONF": 21.21,
+          "DP": 2,
+          "FRS": 1.0,
+          "POS": 1472529,
+          "REF": "g",
+          "ALTS": [
+            "t"
+          ]
+        },
+        "vcf_idx": 0
+      },
+      {
+        "variant": "1472536g>x",
+        "nucleotide_index": 1472536,
+        "gene_name": "rrs",
+        "gene_position": 691,
+        "codon_idx": null,
+        "vcf_evidence": {
+          "GT_CONF": 21.21,
+          "GT": [
+            0,
+            0
+          ],
+          "COV": [
+            2,
+            0
+          ],
+          "GT_CONF_PERCENTILE": 0.68,
+          "COV_TOTAL": 2,
+          "FRS": 1.0,
+          "ALLELE_DP": [
+            2,
+            0
+          ],
+          "DP": 2,
+          "POS": 1472536,
+          "REF": "g",
+          "ALTS": [
+            "t"
+          ]
+        },
+        "vcf_idx": 0
+      },
+      {
+        "variant": "1472543t>x",
+        "nucleotide_index": 1472543,
+        "gene_name": "rrs",
+        "gene_position": 698,
+        "codon_idx": null,
+        "vcf_evidence": {
+          "FRS": 1.0,
+          "ALLELE_DP": [
+            1,
+            0
+          ],
+          "COV_TOTAL": 1,
+          "COV": [
+            1,
+            0
+          ],
+          "GT_CONF_PERCENTILE": 0.22,
+          "GT_CONF": 14.34,
+          "DP": 1,
+          "GT": [
+            0,
+            0
+          ],
+          "POS": 1472543,
+          "REF": "t",
+          "ALTS": [
+            "g"
+          ]
+        },
+        "vcf_idx": 0
+      },
+      {
         "variant": "1917972a>g",
         "nucleotide_index": 1917972,
         "gene_name": "tlyA",
         "gene_position": 11,
         "codon_idx": 2,
         "vcf_evidence": {
+          "ALLELE_DP": [
+            0,
+            38
+          ],
+          "COV": [
+            0,
+            38
+          ],
+          "COV_TOTAL": 38,
+          "GT_CONF": 245.84,
           "GT": [
             1,
             1
           ],
-          "DP": 39.0,
-          "ALLELE_DP": [
-            0.0,
-            39.0
-          ],
           "FRS": 1.0,
-          "COV_TOTAL": 39,
-          "COV": [
-            0,
-            39
-          ],
-          "GT_CONF": 251.76,
-          "GT_CONF_PERCENTILE": 87.06,
+          "DP": 38,
+          "GT_CONF_PERCENTILE": 85.49,
           "POS": 1917972,
           "REF": "a",
           "ALTS": [
@@ -260,6 +420,18 @@
       }
     ],
     "mutations": [
+      {
+        "gene": "fbiC",
+        "gene_position": 638,
+        "mutation": "I638X",
+        "ref": "atc",
+        "alt": "atx"
+      },
+      {
+        "gene": "fbiC",
+        "gene_position": 2565,
+        "mutation": "2565_del_ggcctag:18"
+      },
       {
         "gene": "gid",
         "gene_position": 16,
@@ -303,6 +475,21 @@
         "alt": "gtt"
       },
       {
+        "gene": "rrs",
+        "gene_position": 684,
+        "mutation": "g684x"
+      },
+      {
+        "gene": "rrs",
+        "gene_position": 691,
+        "mutation": "g691x"
+      },
+      {
+        "gene": "rrs",
+        "gene_position": 698,
+        "mutation": "t698x"
+      },
+      {
         "gene": "tlyA",
         "gene_position": 11,
         "mutation": "L11L",
@@ -327,6 +514,27 @@
         },
         {
           "phenotype": "S"
+        }
+      ],
+      "DLM": [
+        {
+          "gene": "fbiC",
+          "mutation": "2565_del_ggcctag:18",
+          "prediction": "R",
+          "evidence": {
+            "Observed_samples": {
+              "Present_SOLO_SR": 4,
+              "Present_SOLO_R": 0,
+              "Present_SOLO_S": 4
+            },
+            "Additional grading criteria applied": "Selection evidence",
+            "FINAL CONFIDENCE GRADING": "2) Assoc w R - Interim",
+            "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+            "WHO HGVS": "fbiC_LoF"
+          }
+        },
+        {
+          "phenotype": "R"
         }
       ],
       "LEV": [

@@ -2,26 +2,26 @@
     "Pipeline Outcome": "Sufficient reads mapped to M. tuberculosis (H37Rv v3) for genome assembly, resistance prediction and relatedness assessment.",
     "Organism Identification": {
         "Human Reads": null,
-        "Unclassified Reads": 278,
-        "Non-Mycobacterium Bacteria Reads": 2880,
-        "Mycobacterium Reads": 6080874
+        "Unclassified Reads": 272,
+        "Non-Mycobacterium Bacteria Reads": 2872,
+        "Mycobacterium Reads": 6080004
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 4.3.2)",
-                "Num Reads": 5993992,
-                "Coverage": 99.3665,
-                "Depth": 201.797
+                "Num Reads": 5993415,
+                "Coverage": 99.3644,
+                "Depth": 201.781
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 5993992,
-                "Coverage": 99.3665,
-                "Mean Depth": 201.797,
-                "Length": 4411532.0
+                "Num Reads": 5993415,
+                "Coverage": 99.3644,
+                "Mean Depth": 201.781,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage4.3.2",
                 "Coverage": 100,
-                "Median Depth": 194
+                "Median Depth": 155
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 5993992,
-                "Coverage": 99.2679,
-                "Mean Depth": 201.797,
-                "Mixed calls": 429,
-                "Null calls": 32297,
+                "Num Reads": 5993415,
+                "Coverage": 99.2637,
+                "Mean Depth": 201.781,
+                "Mixed calls": 434,
+                "Null calls": 32484,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -73,55 +73,16 @@
                         "Bedaquiline (BDQ)": "S"
                     },
                     "Reserve treatment": {
-                        "Amikacin (AMI)": "U",
-                        "Kanamycin (KAN)": "U",
-                        "Streptomycin (STM)": "U",
-                        "Capreomycin (CAP)": "U",
+                        "Amikacin (AMI)": "S",
+                        "Kanamycin (KAN)": "S",
+                        "Streptomycin (STM)": "S",
+                        "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
-                    {
-                        "Drug Name": "AMI",
-                        "Mutations": [
-                            {
-                                "Gene": "rrs",
-                                "Mutation": "g926a",
-                                "Position": 926,
-                                "Ref": "g",
-                                "Alt": "a",
-                                "Coverage": [
-                                    0,
-                                    20
-                                ],
-                                "Prediction": "U",
-                                "Evidence": {
-                                    "reporting_rule": "True"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Drug Name": "CAP",
-                        "Mutations": [
-                            {
-                                "Gene": "rrs",
-                                "Mutation": "g926a",
-                                "Position": 926,
-                                "Ref": "g",
-                                "Alt": "a",
-                                "Coverage": [
-                                    0,
-                                    20
-                                ],
-                                "Prediction": "U",
-                                "Evidence": {
-                                    "reporting_rule": "True"
-                                }
-                            }
-                        ]
-                    },
                     {
                         "Drug Name": "ETH",
                         "Mutations": [
@@ -179,26 +140,6 @@
                         ]
                     },
                     {
-                        "Drug Name": "KAN",
-                        "Mutations": [
-                            {
-                                "Gene": "rrs",
-                                "Mutation": "g926a",
-                                "Position": 926,
-                                "Ref": "g",
-                                "Alt": "a",
-                                "Coverage": [
-                                    0,
-                                    20
-                                ],
-                                "Prediction": "U",
-                                "Evidence": {
-                                    "reporting_rule": "True"
-                                }
-                            }
-                        ]
-                    },
-                    {
                         "Drug Name": "RIF",
                         "Mutations": [
                             {
@@ -209,7 +150,7 @@
                                 "Alt": "gtc",
                                 "Coverage": [
                                     0,
-                                    58
+                                    75
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -225,41 +166,20 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "Drug Name": "STM",
-                        "Mutations": [
-                            {
-                                "Gene": "rrs",
-                                "Mutation": "g926a",
-                                "Position": 926,
-                                "Ref": "g",
-                                "Alt": "a",
-                                "Coverage": [
-                                    0,
-                                    20
-                                ],
-                                "Prediction": "U",
-                                "Evidence": {
-                                    "reporting_rule": "True"
-                                }
-                            }
-                        ]
                     }
                 ]
             }
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

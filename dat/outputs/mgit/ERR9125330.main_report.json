@@ -2,26 +2,26 @@
     "Pipeline Outcome": "Sufficient reads mapped to M. tuberculosis (H37Rv v3) for genome assembly, resistance prediction and relatedness assessment.",
     "Organism Identification": {
         "Human Reads": null,
-        "Unclassified Reads": 418,
-        "Non-Mycobacterium Bacteria Reads": 6506,
-        "Mycobacterium Reads": 4647724
+        "Unclassified Reads": 414,
+        "Non-Mycobacterium Bacteria Reads": 6498,
+        "Mycobacterium Reads": 4647322
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 4.5)",
-                "Num Reads": 4542701,
-                "Coverage": 99.7044,
+                "Num Reads": 4542617,
+                "Coverage": 99.6992,
                 "Depth": 132.32
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 4542701,
-                "Coverage": 99.7044,
+                "Num Reads": 4542617,
+                "Coverage": 99.6992,
                 "Mean Depth": 132.32,
-                "Length": 4411532.0
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage4.5",
                 "Coverage": 100,
-                "Median Depth": 111
+                "Median Depth": 132
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 4542701,
-                "Coverage": 99.3303,
+                "Num Reads": 4542617,
+                "Coverage": 99.3124,
                 "Mean Depth": 132.32,
-                "Mixed calls": 456,
-                "Null calls": 29546,
+                "Mixed calls": 491,
+                "Null calls": 30333,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -78,7 +78,8 @@
                         "Streptomycin (STM)": "U",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -93,7 +94,7 @@
                                 "Alt": "c",
                                 "Coverage": [
                                     0,
-                                    104
+                                    105
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
@@ -141,7 +142,7 @@
                                 "Alt": "acc",
                                 "Coverage": [
                                     0,
-                                    130
+                                    129
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -169,7 +170,7 @@
                                 "Alt": "c",
                                 "Coverage": [
                                     0,
-                                    104
+                                    105
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
@@ -189,7 +190,7 @@
                                 "Alt": "cct",
                                 "Coverage": [
                                     0,
-                                    136
+                                    140
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -217,7 +218,7 @@
                                 "Alt": "cgc",
                                 "Coverage": [
                                     0,
-                                    62
+                                    58
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -272,7 +273,15 @@
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
-                                    "reporting_rule": "True"
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 5,
+                                        "Present_SOLO_R": 2,
+                                        "Present_SOLO_S": 3
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "WHO HGVS": "gid_p.Ala138Thr"
                                 }
                             }
                         ]
@@ -282,15 +291,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

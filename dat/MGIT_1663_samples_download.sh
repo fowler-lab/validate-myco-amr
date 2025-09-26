@@ -1,3326 +1,3326 @@
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992611/ERR9992611_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992611/ERR9992611_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289349/ERR13289349_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289349/ERR13289349_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992662/ERR9992662_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992662/ERR9992662_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992671/ERR9992671_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992671/ERR9992671_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289366/ERR13289366_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289366/ERR13289366_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993146/ERR9993146_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993146/ERR9993146_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992957/ERR9992957_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992957/ERR9992957_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289340/ERR13289340_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289340/ERR13289340_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286163/ERR13286163_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286163/ERR13286163_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289358/ERR13289358_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289358/ERR13289358_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993089/ERR9993089_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993089/ERR9993089_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289360/ERR13289360_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289360/ERR13289360_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289350/ERR13289350_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289350/ERR13289350_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289351/ERR13289351_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289351/ERR13289351_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993186/ERR9993186_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993186/ERR9993186_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13289380/ERR13289380_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13289380/ERR13289380_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992686/ERR9992686_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992686/ERR9992686_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286153/ERR13286153_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286153/ERR13286153_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992685/ERR9992685_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992685/ERR9992685_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288797/ERR13288797_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288797/ERR13288797_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992967/ERR9992967_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992967/ERR9992967_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289357/ERR13289357_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289357/ERR13289357_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289382/ERR13289382_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289382/ERR13289382_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289384/ERR13289384_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289384/ERR13289384_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993202/ERR9993202_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993202/ERR9993202_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286177/ERR13286177_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286177/ERR13286177_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286103/ERR13286103_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286103/ERR13286103_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286181/ERR13286181_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286181/ERR13286181_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992749/ERR9992749_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992749/ERR9992749_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288799/ERR13288799_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288799/ERR13288799_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992982/ERR9992982_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992982/ERR9992982_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993211/ERR9993211_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993211/ERR9993211_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289386/ERR13289386_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289386/ERR13289386_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286049/ERR13286049_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286049/ERR13286049_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286047/ERR13286047_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286047/ERR13286047_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286158/ERR13286158_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286158/ERR13286158_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286053/ERR13286053_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286053/ERR13286053_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286052/ERR13286052_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286052/ERR13286052_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286066/ERR13286066_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286066/ERR13286066_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288964/ERR13288964_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288964/ERR13288964_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13286133/ERR13286133_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13286133/ERR13286133_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286147/ERR13286147_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286147/ERR13286147_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286180/ERR13286180_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286180/ERR13286180_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286168/ERR13286168_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286168/ERR13286168_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13286042/ERR13286042_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13286042/ERR13286042_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288973/ERR13288973_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288973/ERR13288973_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13286179/ERR13286179_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13286179/ERR13286179_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286182/ERR13286182_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286182/ERR13286182_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288978/ERR13288978_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288978/ERR13288978_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288975/ERR13288975_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288975/ERR13288975_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288949/ERR13288949_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288949/ERR13288949_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289335/ERR13289335_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289335/ERR13289335_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288955/ERR13288955_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288955/ERR13288955_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289341/ERR13289341_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289341/ERR13289341_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289342/ERR13289342_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289342/ERR13289342_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289343/ERR13289343_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289343/ERR13289343_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993061/ERR9993061_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993061/ERR9993061_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992650/ERR9992650_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992650/ERR9992650_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992871/ERR9992871_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992871/ERR9992871_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993129/ERR9993129_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993129/ERR9993129_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993023/ERR9993023_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993023/ERR9993023_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993117/ERR9993117_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993117/ERR9993117_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13288794/ERR13288794_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13288794/ERR13288794_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286146/ERR13286146_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286146/ERR13286146_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288968/ERR13288968_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288968/ERR13288968_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289004/ERR13289004_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289004/ERR13289004_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992731/ERR9992731_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992731/ERR9992731_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992839/ERR9992839_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992839/ERR9992839_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992776/ERR9992776_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992776/ERR9992776_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993105/ERR9993105_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993105/ERR9993105_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992833/ERR9992833_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992833/ERR9992833_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992949/ERR9992949_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992949/ERR9992949_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992708/ERR9992708_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992708/ERR9992708_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992709/ERR9992709_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992709/ERR9992709_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992779/ERR9992779_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992779/ERR9992779_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286050/ERR13286050_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286050/ERR13286050_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992733/ERR9992733_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992733/ERR9992733_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992969/ERR9992969_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992969/ERR9992969_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288987/ERR13288987_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288987/ERR13288987_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993150/ERR9993150_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993150/ERR9993150_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993177/ERR9993177_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993177/ERR9993177_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993091/ERR9993091_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993091/ERR9993091_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993080/ERR9993080_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993080/ERR9993080_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993036/ERR9993036_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993036/ERR9993036_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992990/ERR9992990_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992990/ERR9992990_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992991/ERR9992991_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992991/ERR9992991_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993208/ERR9993208_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993208/ERR9993208_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992998/ERR9992998_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992998/ERR9992998_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993209/ERR9993209_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993209/ERR9993209_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992974/ERR9992974_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992974/ERR9992974_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13288966/ERR13288966_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13288966/ERR13288966_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992789/ERR9992789_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992789/ERR9992789_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992830/ERR9992830_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992830/ERR9992830_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993115/ERR9993115_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993115/ERR9993115_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992966/ERR9992966_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992966/ERR9992966_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992787/ERR9992787_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992787/ERR9992787_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993157/ERR9993157_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993157/ERR9993157_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992921/ERR9992921_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992921/ERR9992921_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992897/ERR9992897_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992897/ERR9992897_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992922/ERR9992922_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992922/ERR9992922_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993000/ERR9993000_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993000/ERR9993000_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993014/ERR9993014_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993014/ERR9993014_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993118/ERR9993118_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993118/ERR9993118_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992625/ERR9992625_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992625/ERR9992625_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993120/ERR9993120_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993120/ERR9993120_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992626/ERR9992626_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992626/ERR9992626_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992623/ERR9992623_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992623/ERR9992623_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993173/ERR9993173_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993173/ERR9993173_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993135/ERR9993135_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993135/ERR9993135_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992670/ERR9992670_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992670/ERR9992670_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992960/ERR9992960_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992960/ERR9992960_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993134/ERR9993134_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993134/ERR9993134_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993138/ERR9993138_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993138/ERR9993138_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286039/ERR13286039_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286039/ERR13286039_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993088/ERR9993088_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993088/ERR9993088_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993072/ERR9993072_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993072/ERR9993072_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992950/ERR9992950_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992950/ERR9992950_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993243/ERR9993243_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993243/ERR9993243_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993031/ERR9993031_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993031/ERR9993031_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993142/ERR9993142_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993142/ERR9993142_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993194/ERR9993194_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993194/ERR9993194_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992956/ERR9992956_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992956/ERR9992956_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288962/ERR13288962_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288962/ERR13288962_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288985/ERR13288985_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288985/ERR13288985_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992925/ERR9992925_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992925/ERR9992925_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993195/ERR9993195_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993195/ERR9993195_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992827/ERR9992827_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992827/ERR9992827_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993143/ERR9993143_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993143/ERR9993143_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992989/ERR9992989_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992989/ERR9992989_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992926/ERR9992926_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992926/ERR9992926_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992845/ERR9992845_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992845/ERR9992845_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288926/ERR13288926_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288926/ERR13288926_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992746/ERR9992746_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992746/ERR9992746_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288970/ERR13288970_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288970/ERR13288970_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13288998/ERR13288998_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13288998/ERR13288998_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992840/ERR9992840_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992840/ERR9992840_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288980/ERR13288980_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288980/ERR13288980_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993210/ERR9993210_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993210/ERR9993210_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992780/ERR9992780_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992780/ERR9992780_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993149/ERR9993149_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993149/ERR9993149_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286038/ERR13286038_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286038/ERR13286038_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992695/ERR9992695_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992695/ERR9992695_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992679/ERR9992679_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992679/ERR9992679_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288788/ERR13288788_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288788/ERR13288788_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992717/ERR9992717_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992717/ERR9992717_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992619/ERR9992619_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992619/ERR9992619_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993002/ERR9993002_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993002/ERR9993002_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992831/ERR9992831_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992831/ERR9992831_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992832/ERR9992832_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992832/ERR9992832_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13288791/ERR13288791_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13288791/ERR13288791_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992846/ERR9992846_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992846/ERR9992846_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992834/ERR9992834_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992834/ERR9992834_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992825/ERR9992825_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992825/ERR9992825_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13288950/ERR13288950_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13288950/ERR13288950_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992857/ERR9992857_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992857/ERR9992857_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992788/ERR9992788_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992788/ERR9992788_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993124/ERR9993124_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993124/ERR9993124_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993125/ERR9993125_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993125/ERR9993125_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992971/ERR9992971_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992971/ERR9992971_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992639/ERR9992639_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992639/ERR9992639_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992649/ERR9992649_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992649/ERR9992649_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289006/ERR13289006_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289006/ERR13289006_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992761/ERR9992761_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992761/ERR9992761_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286045/ERR13286045_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286045/ERR13286045_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286178/ERR13286178_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286178/ERR13286178_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288932/ERR13288932_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288932/ERR13288932_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992836/ERR9992836_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992836/ERR9992836_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289345/ERR13289345_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289345/ERR13289345_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289344/ERR13289344_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289344/ERR13289344_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992970/ERR9992970_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992970/ERR9992970_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992643/ERR9992643_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992643/ERR9992643_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992710/ERR9992710_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992710/ERR9992710_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992976/ERR9992976_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992976/ERR9992976_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993018/ERR9993018_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993018/ERR9993018_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286184/ERR13286184_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286184/ERR13286184_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288969/ERR13288969_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288969/ERR13288969_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992617/ERR9992617_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992617/ERR9992617_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992698/ERR9992698_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992698/ERR9992698_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993148/ERR9993148_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993148/ERR9993148_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992693/ERR9992693_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992693/ERR9992693_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288931/ERR13288931_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288931/ERR13288931_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992835/ERR9992835_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992835/ERR9992835_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992812/ERR9992812_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992812/ERR9992812_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992728/ERR9992728_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992728/ERR9992728_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289002/ERR13289002_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289002/ERR13289002_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288974/ERR13288974_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288974/ERR13288974_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13288960/ERR13288960_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13288960/ERR13288960_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288976/ERR13288976_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288976/ERR13288976_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992930/ERR9992930_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992930/ERR9992930_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993012/ERR9993012_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993012/ERR9993012_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992915/ERR9992915_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992915/ERR9992915_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992796/ERR9992796_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992796/ERR9992796_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993059/ERR9993059_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993059/ERR9993059_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993053/ERR9993053_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993053/ERR9993053_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993248/ERR9993248_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993248/ERR9993248_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289377/ERR13289377_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289377/ERR13289377_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992701/ERR9992701_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992701/ERR9992701_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992959/ERR9992959_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992959/ERR9992959_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992702/ERR9992702_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992702/ERR9992702_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992703/ERR9992703_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992703/ERR9992703_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992987/ERR9992987_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992987/ERR9992987_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13288928/ERR13288928_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13288928/ERR13288928_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993001/ERR9993001_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993001/ERR9993001_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992901/ERR9992901_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992901/ERR9992901_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992903/ERR9992903_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992903/ERR9992903_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289339/ERR13289339_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289339/ERR13289339_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992963/ERR9992963_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992963/ERR9992963_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992737/ERR9992737_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992737/ERR9992737_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288930/ERR13288930_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288930/ERR13288930_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993253/ERR9993253_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993253/ERR9993253_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289264/ERR13289264_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289264/ERR13289264_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993235/ERR9993235_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993235/ERR9993235_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992847/ERR9992847_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992847/ERR9992847_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286048/ERR13286048_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286048/ERR13286048_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992938/ERR9992938_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992938/ERR9992938_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992852/ERR9992852_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992852/ERR9992852_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992853/ERR9992853_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992853/ERR9992853_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288954/ERR13288954_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288954/ERR13288954_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992890/ERR9992890_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992890/ERR9992890_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288961/ERR13288961_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288961/ERR13288961_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289008/ERR13289008_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289008/ERR13289008_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992828/ERR9992828_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992828/ERR9992828_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289001/ERR13289001_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289001/ERR13289001_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289000/ERR13289000_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289000/ERR13289000_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993112/ERR9993112_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993112/ERR9993112_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992696/ERR9992696_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992696/ERR9992696_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993052/ERR9993052_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993052/ERR9993052_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993259/ERR9993259_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993259/ERR9993259_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992829/ERR9992829_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992829/ERR9992829_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288929/ERR13288929_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288929/ERR13288929_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992826/ERR9992826_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992826/ERR9992826_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992842/ERR9992842_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992842/ERR9992842_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992961/ERR9992961_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992961/ERR9992961_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993185/ERR9993185_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993185/ERR9993185_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992815/ERR9992815_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992815/ERR9992815_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288946/ERR13288946_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288946/ERR13288946_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993113/ERR9993113_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993113/ERR9993113_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993205/ERR9993205_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993205/ERR9993205_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288971/ERR13288971_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288971/ERR13288971_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993051/ERR9993051_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993051/ERR9993051_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288997/ERR13288997_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288997/ERR13288997_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288972/ERR13288972_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288972/ERR13288972_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992942/ERR9992942_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992942/ERR9992942_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288959/ERR13288959_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288959/ERR13288959_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992743/ERR9992743_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992743/ERR9992743_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993192/ERR9993192_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993192/ERR9993192_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992738/ERR9992738_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992738/ERR9992738_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992735/ERR9992735_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992735/ERR9992735_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992848/ERR9992848_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992848/ERR9992848_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992739/ERR9992739_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992739/ERR9992739_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992740/ERR9992740_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992740/ERR9992740_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992923/ERR9992923_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992923/ERR9992923_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993219/ERR9993219_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993219/ERR9993219_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992904/ERR9992904_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992904/ERR9992904_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992843/ERR9992843_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992843/ERR9992843_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992911/ERR9992911_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992911/ERR9992911_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992912/ERR9992912_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992912/ERR9992912_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992727/ERR9992727_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992727/ERR9992727_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992953/ERR9992953_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992953/ERR9992953_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992824/ERR9992824_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992824/ERR9992824_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992899/ERR9992899_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992899/ERR9992899_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992729/ERR9992729_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992729/ERR9992729_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288988/ERR13288988_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288988/ERR13288988_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13288990/ERR13288990_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13288990/ERR13288990_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288999/ERR13288999_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288999/ERR13288999_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288986/ERR13288986_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288986/ERR13288986_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993251/ERR9993251_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993251/ERR9993251_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288796/ERR13288796_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288796/ERR13288796_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289003/ERR13289003_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289003/ERR13289003_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288984/ERR13288984_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288984/ERR13288984_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288996/ERR13288996_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288996/ERR13288996_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288963/ERR13288963_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288963/ERR13288963_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992837/ERR9992837_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992837/ERR9992837_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992939/ERR9992939_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992939/ERR9992939_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992714/ERR9992714_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992714/ERR9992714_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992715/ERR9992715_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992715/ERR9992715_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992716/ERR9992716_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992716/ERR9992716_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992785/ERR9992785_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992785/ERR9992785_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993132/ERR9993132_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993132/ERR9993132_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993047/ERR9993047_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993047/ERR9993047_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992965/ERR9992965_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992965/ERR9992965_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993236/ERR9993236_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993236/ERR9993236_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993108/ERR9993108_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993108/ERR9993108_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993068/ERR9993068_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993068/ERR9993068_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13288792/ERR13288792_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13288792/ERR13288792_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992651/ERR9992651_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992651/ERR9992651_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993028/ERR9993028_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993028/ERR9993028_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993130/ERR9993130_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993130/ERR9993130_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993041/ERR9993041_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993041/ERR9993041_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993100/ERR9993100_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993100/ERR9993100_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992879/ERR9992879_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992879/ERR9992879_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992629/ERR9992629_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992629/ERR9992629_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993094/ERR9993094_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993094/ERR9993094_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993098/ERR9993098_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993098/ERR9993098_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993078/ERR9993078_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993078/ERR9993078_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993180/ERR9993180_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993180/ERR9993180_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993181/ERR9993181_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993181/ERR9993181_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993079/ERR9993079_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993079/ERR9993079_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993152/ERR9993152_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993152/ERR9993152_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992706/ERR9992706_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992706/ERR9992706_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992994/ERR9992994_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992994/ERR9992994_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992996/ERR9992996_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992996/ERR9992996_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993206/ERR9993206_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993206/ERR9993206_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992997/ERR9992997_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992997/ERR9992997_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993193/ERR9993193_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993193/ERR9993193_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992750/ERR9992750_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992750/ERR9992750_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992806/ERR9992806_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992806/ERR9992806_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992805/ERR9992805_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992805/ERR9992805_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13288989/ERR13288989_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13288989/ERR13288989_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993045/ERR9993045_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993045/ERR9993045_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992798/ERR9992798_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992798/ERR9992798_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993046/ERR9993046_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993046/ERR9993046_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992875/ERR9992875_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992875/ERR9992875_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992800/ERR9992800_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992800/ERR9992800_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993114/ERR9993114_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993114/ERR9993114_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993110/ERR9993110_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993110/ERR9993110_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993070/ERR9993070_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993070/ERR9993070_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993081/ERR9993081_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993081/ERR9993081_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992726/ERR9992726_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992726/ERR9992726_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992730/ERR9992730_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992730/ERR9992730_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993212/ERR9993212_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993212/ERR9993212_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13288993/ERR13288993_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13288993/ERR13288993_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13288795/ERR13288795_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13288795/ERR13288795_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288924/ERR13288924_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288924/ERR13288924_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992801/ERR9992801_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992801/ERR9992801_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992786/ERR9992786_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992786/ERR9992786_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992856/ERR9992856_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992856/ERR9992856_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993111/ERR9993111_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993111/ERR9993111_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289402/ERR13289402_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289402/ERR13289402_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992855/ERR9992855_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992855/ERR9992855_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992892/ERR9992892_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992892/ERR9992892_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993109/ERR9993109_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993109/ERR9993109_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992894/ERR9992894_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992894/ERR9992894_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992854/ERR9992854_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992854/ERR9992854_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992909/ERR9992909_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992909/ERR9992909_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993069/ERR9993069_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993069/ERR9993069_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992910/ERR9992910_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992910/ERR9992910_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993043/ERR9993043_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993043/ERR9993043_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992913/ERR9992913_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992913/ERR9992913_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993172/ERR9993172_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993172/ERR9993172_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992778/ERR9992778_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992778/ERR9992778_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992920/ERR9992920_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992920/ERR9992920_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992891/ERR9992891_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992891/ERR9992891_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993102/ERR9993102_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993102/ERR9993102_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993221/ERR9993221_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993221/ERR9993221_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288944/ERR13288944_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288944/ERR13288944_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992876/ERR9992876_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992876/ERR9992876_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992874/ERR9992874_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992874/ERR9992874_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992873/ERR9992873_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992873/ERR9992873_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993056/ERR9993056_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993056/ERR9993056_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992658/ERR9992658_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992658/ERR9992658_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992659/ERR9992659_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992659/ERR9992659_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992660/ERR9992660_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992660/ERR9992660_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992688/ERR9992688_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992688/ERR9992688_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992707/ERR9992707_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992707/ERR9992707_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992663/ERR9992663_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992663/ERR9992663_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993200/ERR9993200_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993200/ERR9993200_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993201/ERR9993201_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993201/ERR9993201_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993240/ERR9993240_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993240/ERR9993240_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992895/ERR9992895_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992895/ERR9992895_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992718/ERR9992718_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992718/ERR9992718_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993062/ERR9993062_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993062/ERR9993062_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992667/ERR9992667_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992667/ERR9992667_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992689/ERR9992689_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992689/ERR9992689_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992669/ERR9992669_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992669/ERR9992669_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993136/ERR9993136_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993136/ERR9993136_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993137/ERR9993137_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993137/ERR9993137_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992983/ERR9992983_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992983/ERR9992983_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992633/ERR9992633_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992633/ERR9992633_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993197/ERR9993197_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993197/ERR9993197_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993198/ERR9993198_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993198/ERR9993198_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992758/ERR9992758_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992758/ERR9992758_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993226/ERR9993226_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993226/ERR9993226_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992811/ERR9992811_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992811/ERR9992811_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992813/ERR9992813_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992813/ERR9992813_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993196/ERR9993196_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993196/ERR9993196_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992820/ERR9992820_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992820/ERR9992820_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992809/ERR9992809_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992809/ERR9992809_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992810/ERR9992810_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992810/ERR9992810_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993263/ERR9993263_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993263/ERR9993263_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992954/ERR9992954_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992954/ERR9992954_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992782/ERR9992782_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992782/ERR9992782_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993075/ERR9993075_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993075/ERR9993075_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993234/ERR9993234_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993234/ERR9993234_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993227/ERR9993227_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993227/ERR9993227_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993228/ERR9993228_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993228/ERR9993228_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993229/ERR9993229_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993229/ERR9993229_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993231/ERR9993231_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993231/ERR9993231_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993013/ERR9993013_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993013/ERR9993013_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288953/ERR13288953_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288953/ERR13288953_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992720/ERR9992720_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992720/ERR9992720_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992766/ERR9992766_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992766/ERR9992766_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992767/ERR9992767_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992767/ERR9992767_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992768/ERR9992768_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992768/ERR9992768_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993035/ERR9993035_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993035/ERR9993035_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993159/ERR9993159_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993159/ERR9993159_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993245/ERR9993245_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993245/ERR9993245_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992725/ERR9992725_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992725/ERR9992725_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993191/ERR9993191_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993191/ERR9993191_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992958/ERR9992958_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992958/ERR9992958_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992723/ERR9992723_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992723/ERR9992723_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992772/ERR9992772_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992772/ERR9992772_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13288801/ERR13288801_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13288801/ERR13288801_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13286137/ERR13286137_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13286137/ERR13286137_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289406/ERR13289406_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289406/ERR13289406_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992744/ERR9992744_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992744/ERR9992744_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993049/ERR9993049_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993049/ERR9993049_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992865/ERR9992865_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992865/ERR9992865_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993077/ERR9993077_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993077/ERR9993077_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992877/ERR9992877_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992877/ERR9992877_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288983/ERR13288983_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288983/ERR13288983_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13289283/ERR13289283_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13289283/ERR13289283_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289035/ERR13289035_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289035/ERR13289035_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289040/ERR13289040_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289040/ERR13289040_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289297/ERR13289297_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289297/ERR13289297_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289298/ERR13289298_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289298/ERR13289298_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289300/ERR13289300_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289300/ERR13289300_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289055/ERR13289055_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289055/ERR13289055_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289057/ERR13289057_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289057/ERR13289057_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289011/ERR13289011_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289011/ERR13289011_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289294/ERR13289294_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289294/ERR13289294_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289299/ERR13289299_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289299/ERR13289299_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289033/ERR13289033_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289033/ERR13289033_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289041/ERR13289041_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289041/ERR13289041_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289370/ERR13289370_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289370/ERR13289370_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289039/ERR13289039_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289039/ERR13289039_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288783/ERR13288783_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288783/ERR13288783_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289021/ERR13289021_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289021/ERR13289021_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289273/ERR13289273_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289273/ERR13289273_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288785/ERR13288785_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288785/ERR13288785_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289400/ERR13289400_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289400/ERR13289400_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289308/ERR13289308_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289308/ERR13289308_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13286083/ERR13286083_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13286083/ERR13286083_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288778/ERR13288778_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288778/ERR13288778_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289286/ERR13289286_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289286/ERR13289286_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289295/ERR13289295_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289295/ERR13289295_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289323/ERR13289323_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289323/ERR13289323_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289017/ERR13289017_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289017/ERR13289017_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289277/ERR13289277_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289277/ERR13289277_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289049/ERR13289049_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289049/ERR13289049_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289267/ERR13289267_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289267/ERR13289267_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289025/ERR13289025_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289025/ERR13289025_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289063/ERR13289063_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289063/ERR13289063_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289337/ERR13289337_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289337/ERR13289337_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13288809/ERR13288809_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13288809/ERR13288809_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286126/ERR13286126_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286126/ERR13286126_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13286123/ERR13286123_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13286123/ERR13286123_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286138/ERR13286138_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286138/ERR13286138_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286139/ERR13286139_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286139/ERR13286139_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13286144/ERR13286144_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13286144/ERR13286144_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289330/ERR13289330_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289330/ERR13289330_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289272/ERR13289272_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289272/ERR13289272_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289361/ERR13289361_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289361/ERR13289361_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289363/ERR13289363_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289363/ERR13289363_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289367/ERR13289367_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289367/ERR13289367_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286143/ERR13286143_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286143/ERR13286143_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13286134/ERR13286134_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13286134/ERR13286134_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13286132/ERR13286132_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13286132/ERR13286132_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288775/ERR13288775_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288775/ERR13288775_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288787/ERR13288787_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288787/ERR13288787_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13286129/ERR13286129_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13286129/ERR13286129_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13288812/ERR13288812_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13288812/ERR13288812_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289257/ERR13289257_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289257/ERR13289257_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289276/ERR13289276_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289276/ERR13289276_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289261/ERR13289261_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289261/ERR13289261_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286077/ERR13286077_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286077/ERR13286077_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13289265/ERR13289265_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13289265/ERR13289265_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289266/ERR13289266_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289266/ERR13289266_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289061/ERR13289061_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289061/ERR13289061_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289263/ERR13289263_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289263/ERR13289263_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289059/ERR13289059_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289059/ERR13289059_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286059/ERR13286059_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286059/ERR13286059_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286057/ERR13286057_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286057/ERR13286057_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286060/ERR13286060_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286060/ERR13286060_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286063/ERR13286063_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286063/ERR13286063_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289304/ERR13289304_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289304/ERR13289304_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13288748/ERR13288748_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13288748/ERR13288748_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288774/ERR13288774_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288774/ERR13288774_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289322/ERR13289322_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289322/ERR13289322_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13288811/ERR13288811_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13288811/ERR13288811_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289030/ERR13289030_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289030/ERR13289030_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13288721/ERR13288721_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13288721/ERR13288721_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289045/ERR13289045_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289045/ERR13289045_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13289305/ERR13289305_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13289305/ERR13289305_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286209/ERR13286209_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286209/ERR13286209_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13288736/ERR13288736_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13288736/ERR13288736_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289303/ERR13289303_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289303/ERR13289303_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289296/ERR13289296_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289296/ERR13289296_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289347/ERR13289347_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289347/ERR13289347_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286116/ERR13286116_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286116/ERR13286116_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286107/ERR13286107_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286107/ERR13286107_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286170/ERR13286170_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286170/ERR13286170_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286110/ERR13286110_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286110/ERR13286110_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13286130/ERR13286130_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13286130/ERR13286130_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286105/ERR13286105_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286105/ERR13286105_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289326/ERR13289326_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289326/ERR13289326_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289331/ERR13289331_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289331/ERR13289331_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289333/ERR13289333_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289333/ERR13289333_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289334/ERR13289334_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289334/ERR13289334_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13288800/ERR13288800_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13288800/ERR13288800_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13286121/ERR13286121_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13286121/ERR13286121_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286106/ERR13286106_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286106/ERR13286106_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286093/ERR13286093_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286093/ERR13286093_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289387/ERR13289387_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289387/ERR13289387_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286046/ERR13286046_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286046/ERR13286046_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13286051/ERR13286051_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13286051/ERR13286051_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286091/ERR13286091_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286091/ERR13286091_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286056/ERR13286056_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286056/ERR13286056_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286058/ERR13286058_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286058/ERR13286058_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286069/ERR13286069_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286069/ERR13286069_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13286054/ERR13286054_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13286054/ERR13286054_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286171/ERR13286171_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286171/ERR13286171_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286088/ERR13286088_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286088/ERR13286088_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286081/ERR13286081_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286081/ERR13286081_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286193/ERR13286193_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286193/ERR13286193_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13286136/ERR13286136_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13286136/ERR13286136_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13288782/ERR13288782_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13288782/ERR13288782_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289289/ERR13289289_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289289/ERR13289289_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286115/ERR13286115_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286115/ERR13286115_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13286201/ERR13286201_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13286201/ERR13286201_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13289310/ERR13289310_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13289310/ERR13289310_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286062/ERR13286062_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286062/ERR13286062_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286070/ERR13286070_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286070/ERR13286070_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286169/ERR13286169_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286169/ERR13286169_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13288807/ERR13288807_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13288807/ERR13288807_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289397/ERR13289397_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289397/ERR13289397_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13289278/ERR13289278_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13289278/ERR13289278_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289031/ERR13289031_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289031/ERR13289031_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289022/ERR13289022_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289022/ERR13289022_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289287/ERR13289287_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289287/ERR13289287_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289398/ERR13289398_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289398/ERR13289398_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288746/ERR13288746_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288746/ERR13288746_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13288722/ERR13288722_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13288722/ERR13288722_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13288723/ERR13288723_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13288723/ERR13288723_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13286072/ERR13286072_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13286072/ERR13286072_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13288804/ERR13288804_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13288804/ERR13288804_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13288745/ERR13288745_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13288745/ERR13288745_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289329/ERR13289329_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289329/ERR13289329_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289348/ERR13289348_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289348/ERR13289348_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289368/ERR13289368_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289368/ERR13289368_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289375/ERR13289375_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289375/ERR13289375_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289352/ERR13289352_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289352/ERR13289352_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286055/ERR13286055_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286055/ERR13286055_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286071/ERR13286071_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286071/ERR13286071_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288731/ERR13288731_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288731/ERR13288731_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288754/ERR13288754_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288754/ERR13288754_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286157/ERR13286157_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286157/ERR13286157_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13286141/ERR13286141_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13286141/ERR13286141_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286160/ERR13286160_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286160/ERR13286160_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13286186/ERR13286186_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13286186/ERR13286186_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289321/ERR13289321_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289321/ERR13289321_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289314/ERR13289314_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289314/ERR13289314_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13289313/ERR13289313_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13289313/ERR13289313_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289316/ERR13289316_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289316/ERR13289316_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289401/ERR13289401_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289401/ERR13289401_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289369/ERR13289369_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289369/ERR13289369_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13289379/ERR13289379_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13289379/ERR13289379_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289327/ERR13289327_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289327/ERR13289327_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13288739/ERR13288739_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13288739/ERR13288739_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13289381/ERR13289381_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13289381/ERR13289381_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289315/ERR13289315_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289315/ERR13289315_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289394/ERR13289394_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289394/ERR13289394_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288755/ERR13288755_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288755/ERR13288755_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288780/ERR13288780_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288780/ERR13288780_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286203/ERR13286203_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286203/ERR13286203_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289311/ERR13289311_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289311/ERR13289311_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289293/ERR13289293_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289293/ERR13289293_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13289285/ERR13289285_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13289285/ERR13289285_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289338/ERR13289338_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289338/ERR13289338_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289372/ERR13289372_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289372/ERR13289372_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286145/ERR13286145_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286145/ERR13286145_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286076/ERR13286076_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286076/ERR13286076_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286080/ERR13286080_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286080/ERR13286080_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286068/ERR13286068_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286068/ERR13286068_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289023/ERR13289023_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289023/ERR13289023_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289271/ERR13289271_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289271/ERR13289271_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289324/ERR13289324_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289324/ERR13289324_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289325/ERR13289325_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289325/ERR13289325_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286155/ERR13286155_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286155/ERR13286155_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13286064/ERR13286064_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13286064/ERR13286064_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289052/ERR13289052_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289052/ERR13289052_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286217/ERR13286217_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286217/ERR13286217_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286213/ERR13286213_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286213/ERR13286213_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13288725/ERR13288725_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13288725/ERR13288725_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286195/ERR13286195_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286195/ERR13286195_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289019/ERR13289019_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289019/ERR13289019_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289009/ERR13289009_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289009/ERR13289009_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288771/ERR13288771_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288771/ERR13288771_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289014/ERR13289014_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289014/ERR13289014_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286098/ERR13286098_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286098/ERR13286098_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13286118/ERR13286118_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13286118/ERR13286118_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289047/ERR13289047_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289047/ERR13289047_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289292/ERR13289292_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289292/ERR13289292_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289346/ERR13289346_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289346/ERR13289346_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289336/ERR13289336_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289336/ERR13289336_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288764/ERR13288764_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288764/ERR13288764_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286166/ERR13286166_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286166/ERR13286166_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13286074/ERR13286074_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13286074/ERR13286074_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13286075/ERR13286075_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13286075/ERR13286075_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13286067/ERR13286067_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13286067/ERR13286067_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286089/ERR13286089_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286089/ERR13286089_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286082/ERR13286082_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286082/ERR13286082_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288726/ERR13288726_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288726/ERR13288726_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13288805/ERR13288805_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13288805/ERR13288805_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286176/ERR13286176_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286176/ERR13286176_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286094/ERR13286094_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286094/ERR13286094_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289399/ERR13289399_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289399/ERR13289399_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289260/ERR13289260_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289260/ERR13289260_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289301/ERR13289301_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289301/ERR13289301_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13288720/ERR13288720_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13288720/ERR13288720_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13288756/ERR13288756_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13288756/ERR13288756_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289036/ERR13289036_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289036/ERR13289036_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289290/ERR13289290_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289290/ERR13289290_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289043/ERR13289043_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289043/ERR13289043_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289395/ERR13289395_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289395/ERR13289395_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13288747/ERR13288747_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13288747/ERR13288747_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289034/ERR13289034_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289034/ERR13289034_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289056/ERR13289056_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289056/ERR13289056_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13289288/ERR13289288_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13289288/ERR13289288_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289328/ERR13289328_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289328/ERR13289328_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13288758/ERR13288758_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13288758/ERR13288758_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13288765/ERR13288765_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13288765/ERR13288765_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288762/ERR13288762_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288762/ERR13288762_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289029/ERR13289029_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289029/ERR13289029_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289027/ERR13289027_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289027/ERR13289027_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289046/ERR13289046_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289046/ERR13289046_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286210/ERR13286210_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286210/ERR13286210_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286078/ERR13286078_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286078/ERR13286078_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13288741/ERR13288741_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13288741/ERR13288741_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286200/ERR13286200_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286200/ERR13286200_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13286214/ERR13286214_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13286214/ERR13286214_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289062/ERR13289062_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289062/ERR13289062_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288761/ERR13288761_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288761/ERR13288761_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13289054/ERR13289054_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13289054/ERR13289054_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289051/ERR13289051_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289051/ERR13289051_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286159/ERR13286159_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286159/ERR13286159_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286202/ERR13286202_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286202/ERR13286202_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289042/ERR13289042_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289042/ERR13289042_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289269/ERR13289269_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289269/ERR13289269_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289284/ERR13289284_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289284/ERR13289284_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288744/ERR13288744_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288744/ERR13288744_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288776/ERR13288776_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288776/ERR13288776_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289309/ERR13289309_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289309/ERR13289309_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289396/ERR13289396_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289396/ERR13289396_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288768/ERR13288768_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288768/ERR13288768_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288732/ERR13288732_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288732/ERR13288732_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13288779/ERR13288779_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13288779/ERR13288779_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289319/ERR13289319_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289319/ERR13289319_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286197/ERR13286197_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286197/ERR13286197_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286189/ERR13286189_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286189/ERR13286189_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286188/ERR13286188_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286188/ERR13286188_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286211/ERR13286211_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286211/ERR13286211_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288724/ERR13288724_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288724/ERR13288724_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13286192/ERR13286192_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13286192/ERR13286192_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286090/ERR13286090_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286090/ERR13286090_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13288742/ERR13288742_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13288742/ERR13288742_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286084/ERR13286084_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286084/ERR13286084_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286085/ERR13286085_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286085/ERR13286085_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286173/ERR13286173_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286173/ERR13286173_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286096/ERR13286096_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286096/ERR13286096_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286043/ERR13286043_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286043/ERR13286043_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286196/ERR13286196_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286196/ERR13286196_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286205/ERR13286205_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286205/ERR13286205_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289390/ERR13289390_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289390/ERR13289390_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286190/ERR13286190_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286190/ERR13286190_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288772/ERR13288772_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288772/ERR13288772_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288770/ERR13288770_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288770/ERR13288770_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288784/ERR13288784_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288784/ERR13288784_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13288781/ERR13288781_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13288781/ERR13288781_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286152/ERR13286152_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286152/ERR13286152_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288957/ERR13288957_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288957/ERR13288957_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288773/ERR13288773_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288773/ERR13288773_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288786/ERR13288786_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288786/ERR13288786_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288769/ERR13288769_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288769/ERR13288769_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13288777/ERR13288777_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13288777/ERR13288777_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13289312/ERR13289312_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13289312/ERR13289312_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13286119/ERR13286119_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13286119/ERR13286119_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13286120/ERR13286120_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13286120/ERR13286120_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13286122/ERR13286122_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13286122/ERR13286122_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13286125/ERR13286125_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13286125/ERR13286125_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289259/ERR13289259_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289259/ERR13289259_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289053/ERR13289053_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289053/ERR13289053_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289392/ERR13289392_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289392/ERR13289392_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289044/ERR13289044_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289044/ERR13289044_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289393/ERR13289393_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289393/ERR13289393_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289064/ERR13289064_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289064/ERR13289064_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288749/ERR13288749_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288749/ERR13288749_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289389/ERR13289389_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289389/ERR13289389_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286191/ERR13286191_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286191/ERR13286191_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286187/ERR13286187_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286187/ERR13286187_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286198/ERR13286198_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286198/ERR13286198_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286204/ERR13286204_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286204/ERR13286204_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13286208/ERR13286208_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13286208/ERR13286208_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289256/ERR13289256_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289256/ERR13289256_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289262/ERR13289262_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289262/ERR13289262_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289306/ERR13289306_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289306/ERR13289306_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289291/ERR13289291_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289291/ERR13289291_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289058/ERR13289058_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289058/ERR13289058_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13286128/ERR13286128_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13286128/ERR13286128_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13286135/ERR13286135_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13286135/ERR13286135_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13286140/ERR13286140_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13286140/ERR13286140_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286149/ERR13286149_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286149/ERR13286149_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286148/ERR13286148_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286148/ERR13286148_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286206/ERR13286206_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286206/ERR13286206_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289374/ERR13289374_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289374/ERR13289374_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289376/ERR13289376_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289376/ERR13289376_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289371/ERR13289371_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289371/ERR13289371_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289362/ERR13289362_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289362/ERR13289362_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289353/ERR13289353_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289353/ERR13289353_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289373/ERR13289373_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289373/ERR13289373_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286097/ERR13286097_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286097/ERR13286097_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286117/ERR13286117_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286117/ERR13286117_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286150/ERR13286150_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286150/ERR13286150_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288753/ERR13288753_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288753/ERR13288753_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288729/ERR13288729_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288729/ERR13288729_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289048/ERR13289048_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289048/ERR13289048_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289270/ERR13289270_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289270/ERR13289270_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289028/ERR13289028_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289028/ERR13289028_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289268/ERR13289268_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289268/ERR13289268_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286199/ERR13286199_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286199/ERR13286199_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288763/ERR13288763_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288763/ERR13288763_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289037/ERR13289037_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289037/ERR13289037_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289282/ERR13289282_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289282/ERR13289282_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289356/ERR13289356_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289356/ERR13289356_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289359/ERR13289359_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289359/ERR13289359_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13288734/ERR13288734_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13288734/ERR13288734_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13287637/ERR13287637_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13287637/ERR13287637_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286207/ERR13286207_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286207/ERR13286207_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286194/ERR13286194_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286194/ERR13286194_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289258/ERR13289258_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289258/ERR13289258_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286095/ERR13286095_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286095/ERR13286095_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286100/ERR13286100_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286100/ERR13286100_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289274/ERR13289274_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289274/ERR13289274_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13288751/ERR13288751_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13288751/ERR13288751_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13289320/ERR13289320_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13289320/ERR13289320_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289302/ERR13289302_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289302/ERR13289302_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289050/ERR13289050_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289050/ERR13289050_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289275/ERR13289275_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289275/ERR13289275_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289391/ERR13289391_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289391/ERR13289391_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288730/ERR13288730_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288730/ERR13288730_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286215/ERR13286215_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286215/ERR13286215_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13289032/ERR13289032_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13289032/ERR13289032_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13289307/ERR13289307_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13289307/ERR13289307_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13288810/ERR13288810_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13288810/ERR13288810_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288759/ERR13288759_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288759/ERR13288759_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286162/ERR13286162_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286162/ERR13286162_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13289318/ERR13289318_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13289318/ERR13289318_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289038/ERR13289038_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289038/ERR13289038_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289026/ERR13289026_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289026/ERR13289026_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289060/ERR13289060_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289060/ERR13289060_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289317/ERR13289317_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289317/ERR13289317_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286099/ERR13286099_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286099/ERR13286099_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286104/ERR13286104_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286104/ERR13286104_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286111/ERR13286111_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286111/ERR13286111_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13286112/ERR13286112_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13286112/ERR13286112_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286113/ERR13286113_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286113/ERR13286113_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13288740/ERR13288740_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13288740/ERR13288740_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289355/ERR13289355_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289355/ERR13289355_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289364/ERR13289364_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289364/ERR13289364_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286216/ERR13286216_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286216/ERR13286216_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286087/ERR13286087_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286087/ERR13286087_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286156/ERR13286156_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286156/ERR13286156_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286073/ERR13286073_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286073/ERR13286073_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286102/ERR13286102_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286102/ERR13286102_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288757/ERR13288757_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288757/ERR13288757_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13288752/ERR13288752_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13288752/ERR13288752_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289024/ERR13289024_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289024/ERR13289024_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289015/ERR13289015_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289015/ERR13289015_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289016/ERR13289016_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289016/ERR13289016_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13288767/ERR13288767_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13288767/ERR13288767_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13288733/ERR13288733_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13288733/ERR13288733_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13286127/ERR13286127_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13286127/ERR13286127_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286109/ERR13286109_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286109/ERR13286109_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13286161/ERR13286161_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13286161/ERR13286161_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13288727/ERR13288727_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13288727/ERR13288727_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286226/ERR13286226_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286226/ERR13286226_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286185/ERR13286185_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286185/ERR13286185_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13288737/ERR13288737_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13288737/ERR13288737_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992861/ERR9992861_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992861/ERR9992861_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516196/ERR2516196_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516196/ERR2516196_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516243/ERR2516243_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516243/ERR2516243_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516188/ERR2516188_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516188/ERR2516188_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516199/ERR2516199_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516199/ERR2516199_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516396/ERR2516396_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516396/ERR2516396_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516220/ERR2516220_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516220/ERR2516220_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516329/ERR2516329_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516329/ERR2516329_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516397/ERR2516397_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516397/ERR2516397_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516214/ERR2516214_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516214/ERR2516214_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516256/ERR2516256_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516256/ERR2516256_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516399/ERR2516399_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516399/ERR2516399_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516177/ERR2516177_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516177/ERR2516177_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516252/ERR2516252_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516252/ERR2516252_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516373/ERR2516373_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516373/ERR2516373_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516181/ERR2516181_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516181/ERR2516181_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516291/ERR2516291_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516291/ERR2516291_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516206/ERR2516206_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516206/ERR2516206_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516287/ERR2516287_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516287/ERR2516287_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516270/ERR2516270_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516270/ERR2516270_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516364/ERR2516364_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516364/ERR2516364_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516261/ERR2516261_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516261/ERR2516261_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516347/ERR2516347_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516347/ERR2516347_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516365/ERR2516365_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516365/ERR2516365_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516349/ERR2516349_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516349/ERR2516349_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516166/ERR2516166_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516166/ERR2516166_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516175/ERR2516175_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516175/ERR2516175_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516281/ERR2516281_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516281/ERR2516281_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516308/ERR2516308_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516308/ERR2516308_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516345/ERR2516345_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516345/ERR2516345_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516336/ERR2516336_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516336/ERR2516336_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516203/ERR2516203_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516203/ERR2516203_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516239/ERR2516239_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516239/ERR2516239_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516213/ERR2516213_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516213/ERR2516213_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516138/ERR2516138_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516138/ERR2516138_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516135/ERR2516135_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516135/ERR2516135_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516136/ERR2516136_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516136/ERR2516136_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516161/ERR2516161_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516161/ERR2516161_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517166/ERR2517166_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517166/ERR2517166_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517357/ERR2517357_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517357/ERR2517357_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517548/ERR2517548_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517548/ERR2517548_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517179/ERR2517179_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517179/ERR2517179_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517518/ERR2517518_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517518/ERR2517518_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2517495/ERR2517495_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2517495/ERR2517495_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2517304/ERR2517304_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2517304/ERR2517304_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517227/ERR2517227_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517227/ERR2517227_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517436/ERR2517436_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517436/ERR2517436_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2517151/ERR2517151_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2517151/ERR2517151_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517569/ERR2517569_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517569/ERR2517569_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517349/ERR2517349_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517349/ERR2517349_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/005/ERR9119665/ERR9119665_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/005/ERR9119665/ERR9119665_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796390/ERR4796390_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796390/ERR4796390_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796404/ERR4796404_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796404/ERR4796404_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796311/ERR4796311_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796311/ERR4796311_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796408/ERR4796408_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796408/ERR4796408_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796468/ERR4796468_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796468/ERR4796468_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796479/ERR4796479_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796479/ERR4796479_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796506/ERR4796506_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796506/ERR4796506_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796519/ERR4796519_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796519/ERR4796519_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796347/ERR4796347_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796347/ERR4796347_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797227/ERR4797227_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797227/ERR4797227_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796700/ERR4796700_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796700/ERR4796700_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796484/ERR4796484_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796484/ERR4796484_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796666/ERR4796666_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796666/ERR4796666_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796623/ERR4796623_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796623/ERR4796623_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796637/ERR4796637_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796637/ERR4796637_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796452/ERR4796452_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796452/ERR4796452_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796665/ERR4796665_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796665/ERR4796665_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796409/ERR4796409_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796409/ERR4796409_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796324/ERR4796324_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796324/ERR4796324_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797149/ERR4797149_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797149/ERR4797149_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796326/ERR4796326_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796326/ERR4796326_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796969/ERR4796969_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796969/ERR4796969_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796654/ERR4796654_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796654/ERR4796654_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796572/ERR4796572_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796572/ERR4796572_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796800/ERR4796800_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796800/ERR4796800_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796766/ERR4796766_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796766/ERR4796766_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796863/ERR4796863_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796863/ERR4796863_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796730/ERR4796730_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796730/ERR4796730_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796671/ERR4796671_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796671/ERR4796671_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796819/ERR4796819_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796819/ERR4796819_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796835/ERR4796835_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796835/ERR4796835_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796818/ERR4796818_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796818/ERR4796818_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797027/ERR4797027_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797027/ERR4797027_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796657/ERR4796657_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796657/ERR4796657_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797044/ERR4797044_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797044/ERR4797044_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797203/ERR4797203_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797203/ERR4797203_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796816/ERR4796816_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796816/ERR4796816_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796894/ERR4796894_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796894/ERR4796894_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797003/ERR4797003_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797003/ERR4797003_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796926/ERR4796926_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796926/ERR4796926_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796853/ERR4796853_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796853/ERR4796853_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796676/ERR4796676_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796676/ERR4796676_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796877/ERR4796877_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796877/ERR4796877_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796858/ERR4796858_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796858/ERR4796858_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796896/ERR4796896_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796896/ERR4796896_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796742/ERR4796742_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796742/ERR4796742_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797054/ERR4797054_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797054/ERR4797054_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797059/ERR4797059_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797059/ERR4797059_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797171/ERR4797171_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797171/ERR4797171_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797311/ERR4797311_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797311/ERR4797311_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797503/ERR4797503_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797503/ERR4797503_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797445/ERR4797445_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797445/ERR4797445_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797495/ERR4797495_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797495/ERR4797495_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797838/ERR4797838_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797838/ERR4797838_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797263/ERR4797263_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797263/ERR4797263_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797262/ERR4797262_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797262/ERR4797262_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797329/ERR4797329_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797329/ERR4797329_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797285/ERR4797285_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797285/ERR4797285_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797833/ERR4797833_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797833/ERR4797833_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797457/ERR4797457_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797457/ERR4797457_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797493/ERR4797493_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797493/ERR4797493_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797268/ERR4797268_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797268/ERR4797268_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797391/ERR4797391_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797391/ERR4797391_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797998/ERR4797998_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797998/ERR4797998_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797642/ERR4797642_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797642/ERR4797642_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797622/ERR4797622_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797622/ERR4797622_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797669/ERR4797669_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797669/ERR4797669_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797627/ERR4797627_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797627/ERR4797627_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797589/ERR4797589_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797589/ERR4797589_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798344/ERR4798344_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798344/ERR4798344_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798355/ERR4798355_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798355/ERR4798355_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797647/ERR4797647_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797647/ERR4797647_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797645/ERR4797645_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797645/ERR4797645_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4797680/ERR4797680_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4797680/ERR4797680_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797753/ERR4797753_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797753/ERR4797753_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797772/ERR4797772_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797772/ERR4797772_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797578/ERR4797578_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797578/ERR4797578_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797865/ERR4797865_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797865/ERR4797865_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797279/ERR4797279_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797279/ERR4797279_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797875/ERR4797875_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797875/ERR4797875_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797965/ERR4797965_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797965/ERR4797965_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797971/ERR4797971_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797971/ERR4797971_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797902/ERR4797902_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797902/ERR4797902_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798137/ERR4798137_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798137/ERR4798137_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798135/ERR4798135_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798135/ERR4798135_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798183/ERR4798183_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798183/ERR4798183_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798187/ERR4798187_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798187/ERR4798187_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798366/ERR4798366_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798366/ERR4798366_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798368/ERR4798368_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798368/ERR4798368_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797845/ERR4797845_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797845/ERR4797845_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798304/ERR4798304_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798304/ERR4798304_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798254/ERR4798254_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798254/ERR4798254_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798230/ERR4798230_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798230/ERR4798230_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798292/ERR4798292_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798292/ERR4798292_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798261/ERR4798261_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798261/ERR4798261_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798243/ERR4798243_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798243/ERR4798243_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798265/ERR4798265_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798265/ERR4798265_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798281/ERR4798281_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798281/ERR4798281_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798212/ERR4798212_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798212/ERR4798212_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798500/ERR4798500_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798500/ERR4798500_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798425/ERR4798425_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798425/ERR4798425_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798422/ERR4798422_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798422/ERR4798422_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798523/ERR4798523_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798523/ERR4798523_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798473/ERR4798473_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798473/ERR4798473_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798419/ERR4798419_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798419/ERR4798419_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798434/ERR4798434_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798434/ERR4798434_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798563/ERR4798563_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798563/ERR4798563_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798423/ERR4798423_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798423/ERR4798423_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798843/ERR4798843_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798843/ERR4798843_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798581/ERR4798581_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798581/ERR4798581_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799790/ERR4799790_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799790/ERR4799790_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798653/ERR4798653_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798653/ERR4798653_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798691/ERR4798691_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798691/ERR4798691_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798694/ERR4798694_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798694/ERR4798694_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798617/ERR4798617_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798617/ERR4798617_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798658/ERR4798658_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798658/ERR4798658_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798723/ERR4798723_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798723/ERR4798723_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798686/ERR4798686_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798686/ERR4798686_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798685/ERR4798685_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798685/ERR4798685_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798736/ERR4798736_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798736/ERR4798736_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798823/ERR4798823_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798823/ERR4798823_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798828/ERR4798828_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798828/ERR4798828_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798831/ERR4798831_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798831/ERR4798831_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798760/ERR4798760_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798760/ERR4798760_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798787/ERR4798787_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798787/ERR4798787_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798890/ERR4798890_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798890/ERR4798890_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798969/ERR4798969_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798969/ERR4798969_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798875/ERR4798875_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798875/ERR4798875_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798936/ERR4798936_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798936/ERR4798936_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798968/ERR4798968_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798968/ERR4798968_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799815/ERR4799815_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799815/ERR4799815_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799051/ERR4799051_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799051/ERR4799051_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799066/ERR4799066_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799066/ERR4799066_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799021/ERR4799021_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799021/ERR4799021_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799027/ERR4799027_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799027/ERR4799027_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799830/ERR4799830_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799830/ERR4799830_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799841/ERR4799841_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799841/ERR4799841_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799874/ERR4799874_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799874/ERR4799874_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799849/ERR4799849_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799849/ERR4799849_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799077/ERR4799077_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799077/ERR4799077_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799162/ERR4799162_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799162/ERR4799162_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799556/ERR4799556_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799556/ERR4799556_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800471/ERR4800471_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800471/ERR4800471_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800440/ERR4800440_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800440/ERR4800440_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799379/ERR4799379_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799379/ERR4799379_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799554/ERR4799554_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799554/ERR4799554_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799886/ERR4799886_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799886/ERR4799886_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799991/ERR4799991_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799991/ERR4799991_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799356/ERR4799356_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799356/ERR4799356_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799348/ERR4799348_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799348/ERR4799348_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799984/ERR4799984_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799984/ERR4799984_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799106/ERR4799106_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799106/ERR4799106_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799081/ERR4799081_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799081/ERR4799081_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799028/ERR4799028_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799028/ERR4799028_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799155/ERR4799155_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799155/ERR4799155_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799206/ERR4799206_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799206/ERR4799206_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799098/ERR4799098_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799098/ERR4799098_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799222/ERR4799222_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799222/ERR4799222_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800480/ERR4800480_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800480/ERR4800480_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799578/ERR4799578_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799578/ERR4799578_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799267/ERR4799267_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799267/ERR4799267_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799252/ERR4799252_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799252/ERR4799252_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799131/ERR4799131_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799131/ERR4799131_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799214/ERR4799214_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799214/ERR4799214_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799178/ERR4799178_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799178/ERR4799178_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799276/ERR4799276_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799276/ERR4799276_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799245/ERR4799245_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799245/ERR4799245_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799302/ERR4799302_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799302/ERR4799302_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799226/ERR4799226_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799226/ERR4799226_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799896/ERR4799896_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799896/ERR4799896_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800460/ERR4800460_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800460/ERR4800460_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799901/ERR4799901_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799901/ERR4799901_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799491/ERR4799491_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799491/ERR4799491_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799456/ERR4799456_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799456/ERR4799456_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799472/ERR4799472_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799472/ERR4799472_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799517/ERR4799517_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799517/ERR4799517_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799493/ERR4799493_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799493/ERR4799493_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799436/ERR4799436_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799436/ERR4799436_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799508/ERR4799508_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799508/ERR4799508_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799463/ERR4799463_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799463/ERR4799463_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799433/ERR4799433_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799433/ERR4799433_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799900/ERR4799900_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799900/ERR4799900_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799529/ERR4799529_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799529/ERR4799529_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799503/ERR4799503_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799503/ERR4799503_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799948/ERR4799948_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799948/ERR4799948_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799681/ERR4799681_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799681/ERR4799681_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799625/ERR4799625_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799625/ERR4799625_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799622/ERR4799622_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799622/ERR4799622_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799651/ERR4799651_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799651/ERR4799651_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799682/ERR4799682_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799682/ERR4799682_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800199/ERR4800199_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800199/ERR4800199_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799587/ERR4799587_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799587/ERR4799587_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800189/ERR4800189_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800189/ERR4800189_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799719/ERR4799719_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799719/ERR4799719_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799961/ERR4799961_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799961/ERR4799961_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799657/ERR4799657_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799657/ERR4799657_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799951/ERR4799951_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799951/ERR4799951_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799952/ERR4799952_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799952/ERR4799952_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799634/ERR4799634_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799634/ERR4799634_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799711/ERR4799711_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799711/ERR4799711_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799689/ERR4799689_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799689/ERR4799689_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799754/ERR4799754_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799754/ERR4799754_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799670/ERR4799670_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799670/ERR4799670_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/006/ERR4800476/ERR4800476_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/006/ERR4800476/ERR4800476_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800034/ERR4800034_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800034/ERR4800034_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800060/ERR4800060_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800060/ERR4800060_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800300/ERR4800300_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800300/ERR4800300_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800309/ERR4800309_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800309/ERR4800309_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800249/ERR4800249_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800249/ERR4800249_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800399/ERR4800399_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800399/ERR4800399_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800083/ERR4800083_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800083/ERR4800083_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800091/ERR4800091_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800091/ERR4800091_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800375/ERR4800375_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800375/ERR4800375_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800293/ERR4800293_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800293/ERR4800293_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800373/ERR4800373_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800373/ERR4800373_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800353/ERR4800353_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800353/ERR4800353_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/007/ERR4800477/ERR4800477_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/007/ERR4800477/ERR4800477_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800381/ERR4800381_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800381/ERR4800381_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800455/ERR4800455_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800455/ERR4800455_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800579/ERR4800579_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800579/ERR4800579_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800543/ERR4800543_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800543/ERR4800543_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800564/ERR4800564_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800564/ERR4800564_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800605/ERR4800605_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800605/ERR4800605_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4811965/ERR4811965_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4811965/ERR4811965_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/006/ERR4812006/ERR4812006_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/006/ERR4812006/ERR4812006_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4812021/ERR4812021_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4812021/ERR4812021_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4811881/ERR4811881_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4811881/ERR4811881_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4812115/ERR4812115_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4812115/ERR4812115_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510279/ERR2510279_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510279/ERR2510279_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510329/ERR2510329_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510329/ERR2510329_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510682/ERR2510682_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510682/ERR2510682_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510654/ERR2510654_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510654/ERR2510654_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510686/ERR2510686_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510686/ERR2510686_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510690/ERR2510690_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510690/ERR2510690_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510702/ERR2510702_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510702/ERR2510702_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510703/ERR2510703_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510703/ERR2510703_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510709/ERR2510709_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510709/ERR2510709_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510723/ERR2510723_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510723/ERR2510723_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510655/ERR2510655_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510655/ERR2510655_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510711/ERR2510711_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510711/ERR2510711_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510657/ERR2510657_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510657/ERR2510657_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510658/ERR2510658_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510658/ERR2510658_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510660/ERR2510660_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510660/ERR2510660_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510668/ERR2510668_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510668/ERR2510668_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510669/ERR2510669_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510669/ERR2510669_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510670/ERR2510670_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510670/ERR2510670_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510671/ERR2510671_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510671/ERR2510671_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510672/ERR2510672_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510672/ERR2510672_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510673/ERR2510673_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510673/ERR2510673_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510856/ERR2510856_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510856/ERR2510856_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510676/ERR2510676_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510676/ERR2510676_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510725/ERR2510725_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510725/ERR2510725_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510685/ERR2510685_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510685/ERR2510685_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510729/ERR2510729_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510729/ERR2510729_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510689/ERR2510689_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510689/ERR2510689_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510733/ERR2510733_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510733/ERR2510733_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510735/ERR2510735_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510735/ERR2510735_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510693/ERR2510693_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510693/ERR2510693_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510694/ERR2510694_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510694/ERR2510694_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510695/ERR2510695_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510695/ERR2510695_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510696/ERR2510696_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510696/ERR2510696_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510710/ERR2510710_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510710/ERR2510710_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510704/ERR2510704_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510704/ERR2510704_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510705/ERR2510705_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510705/ERR2510705_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510707/ERR2510707_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510707/ERR2510707_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510714/ERR2510714_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510714/ERR2510714_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510732/ERR2510732_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510732/ERR2510732_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510823/ERR2510823_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510823/ERR2510823_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510734/ERR2510734_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510734/ERR2510734_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510826/ERR2510826_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510826/ERR2510826_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510827/ERR2510827_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510827/ERR2510827_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510764/ERR2510764_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510764/ERR2510764_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510798/ERR2510798_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510798/ERR2510798_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510841/ERR2510841_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510841/ERR2510841_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510843/ERR2510843_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510843/ERR2510843_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510845/ERR2510845_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510845/ERR2510845_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510846/ERR2510846_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510846/ERR2510846_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510832/ERR2510832_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510832/ERR2510832_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510834/ERR2510834_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510834/ERR2510834_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510848/ERR2510848_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510848/ERR2510848_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510850/ERR2510850_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510850/ERR2510850_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510844/ERR2510844_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510844/ERR2510844_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510849/ERR2510849_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510849/ERR2510849_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510852/ERR2510852_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510852/ERR2510852_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510853/ERR2510853_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510853/ERR2510853_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510854/ERR2510854_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510854/ERR2510854_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510855/ERR2510855_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510855/ERR2510855_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510857/ERR2510857_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510857/ERR2510857_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510862/ERR2510862_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510862/ERR2510862_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510863/ERR2510863_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510863/ERR2510863_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510864/ERR2510864_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510864/ERR2510864_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510865/ERR2510865_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510865/ERR2510865_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510867/ERR2510867_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510867/ERR2510867_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510851/ERR2510851_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510851/ERR2510851_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510872/ERR2510872_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510872/ERR2510872_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510880/ERR2510880_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510880/ERR2510880_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510881/ERR2510881_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510881/ERR2510881_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510882/ERR2510882_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510882/ERR2510882_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/004/ERR4829604/ERR4829604_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/004/ERR4829604/ERR4829604_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917717/ERR5917717_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917717/ERR5917717_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917716/ERR5917716_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917716/ERR5917716_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917763/ERR5917763_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917763/ERR5917763_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917753/ERR5917753_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917753/ERR5917753_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917750/ERR5917750_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917750/ERR5917750_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917749/ERR5917749_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917749/ERR5917749_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917670/ERR5917670_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917670/ERR5917670_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917672/ERR5917672_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917672/ERR5917672_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917756/ERR5917756_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917756/ERR5917756_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917711/ERR5917711_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917711/ERR5917711_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917667/ERR5917667_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917667/ERR5917667_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917705/ERR5917705_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917705/ERR5917705_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917719/ERR5917719_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917719/ERR5917719_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917720/ERR5917720_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917720/ERR5917720_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917721/ERR5917721_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917721/ERR5917721_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917706/ERR5917706_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917706/ERR5917706_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917722/ERR5917722_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917722/ERR5917722_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917723/ERR5917723_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917723/ERR5917723_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917724/ERR5917724_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917724/ERR5917724_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917725/ERR5917725_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917725/ERR5917725_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917686/ERR5917686_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917686/ERR5917686_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917682/ERR5917682_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917682/ERR5917682_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917754/ERR5917754_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917754/ERR5917754_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917748/ERR5917748_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917748/ERR5917748_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917747/ERR5917747_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917747/ERR5917747_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917687/ERR5917687_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917687/ERR5917687_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917762/ERR5917762_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917762/ERR5917762_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917746/ERR5917746_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917746/ERR5917746_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917745/ERR5917745_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917745/ERR5917745_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917744/ERR5917744_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917744/ERR5917744_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917689/ERR5917689_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917689/ERR5917689_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917697/ERR5917697_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917697/ERR5917697_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917675/ERR5917675_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917675/ERR5917675_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917700/ERR5917700_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917700/ERR5917700_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917742/ERR5917742_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917742/ERR5917742_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917741/ERR5917741_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917741/ERR5917741_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917707/ERR5917707_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917707/ERR5917707_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917712/ERR5917712_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917712/ERR5917712_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917702/ERR5917702_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917702/ERR5917702_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917669/ERR5917669_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917669/ERR5917669_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917703/ERR5917703_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917703/ERR5917703_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917757/ERR5917757_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917757/ERR5917757_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917758/ERR5917758_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917758/ERR5917758_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917736/ERR5917736_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917736/ERR5917736_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917728/ERR5917728_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917728/ERR5917728_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917769/ERR5917769_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917769/ERR5917769_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917678/ERR5917678_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917678/ERR5917678_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917767/ERR5917767_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917767/ERR5917767_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917692/ERR5917692_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917692/ERR5917692_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917733/ERR5917733_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917733/ERR5917733_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917734/ERR5917734_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917734/ERR5917734_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917664/ERR5917664_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917664/ERR5917664_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917666/ERR5917666_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917666/ERR5917666_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917738/ERR5917738_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917738/ERR5917738_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917730/ERR5917730_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917730/ERR5917730_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917760/ERR5917760_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917760/ERR5917760_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917731/ERR5917731_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917731/ERR5917731_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917765/ERR5917765_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917765/ERR5917765_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917732/ERR5917732_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917732/ERR5917732_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4815604/ERR4815604_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4815604/ERR4815604_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/009/ERR4816369/ERR4816369_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/009/ERR4816369/ERR4816369_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4816380/ERR4816380_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4816380/ERR4816380_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/008/ERR4817208/ERR4817208_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/008/ERR4817208/ERR4817208_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4817820/ERR4817820_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4817820/ERR4817820_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4818911/ERR4818911_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4818911/ERR4818911_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4819115/ERR4819115_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4819115/ERR4819115_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4819204/ERR4819204_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4819204/ERR4819204_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4819360/ERR4819360_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4819360/ERR4819360_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/006/ERR4820776/ERR4820776_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/006/ERR4820776/ERR4820776_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/005/ERR4820865/ERR4820865_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/005/ERR4820865/ERR4820865_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/009/ERR4821059/ERR4821059_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/009/ERR4821059/ERR4821059_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/000/ERR8975760/ERR8975760_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/000/ERR8975760/ERR8975760_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975816/ERR8975816_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975816/ERR8975816_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515330/ERR2515330_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515330/ERR2515330_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516016/ERR2516016_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516016/ERR2516016_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515272/ERR2515272_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515272/ERR2515272_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515795/ERR2515795_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515795/ERR2515795_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515556/ERR2515556_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515556/ERR2515556_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515957/ERR2515957_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515957/ERR2515957_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515662/ERR2515662_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515662/ERR2515662_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516015/ERR2516015_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516015/ERR2516015_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515607/ERR2515607_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515607/ERR2515607_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515678/ERR2515678_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515678/ERR2515678_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516083/ERR2516083_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516083/ERR2516083_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515939/ERR2515939_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515939/ERR2515939_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515630/ERR2515630_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515630/ERR2515630_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515216/ERR2515216_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515216/ERR2515216_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515418/ERR2515418_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515418/ERR2515418_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515452/ERR2515452_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515452/ERR2515452_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515766/ERR2515766_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515766/ERR2515766_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516043/ERR2516043_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516043/ERR2516043_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516027/ERR2516027_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516027/ERR2516027_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515474/ERR2515474_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515474/ERR2515474_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515548/ERR2515548_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515548/ERR2515548_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515694/ERR2515694_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515694/ERR2515694_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515921/ERR2515921_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515921/ERR2515921_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516013/ERR2516013_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516013/ERR2516013_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515753/ERR2515753_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515753/ERR2515753_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515799/ERR2515799_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515799/ERR2515799_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515922/ERR2515922_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515922/ERR2515922_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516009/ERR2516009_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516009/ERR2516009_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515549/ERR2515549_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515549/ERR2515549_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515947/ERR2515947_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515947/ERR2515947_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515495/ERR2515495_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515495/ERR2515495_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515281/ERR2515281_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515281/ERR2515281_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515760/ERR2515760_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515760/ERR2515760_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515850/ERR2515850_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515850/ERR2515850_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516033/ERR2516033_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516033/ERR2516033_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515557/ERR2515557_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515557/ERR2515557_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515601/ERR2515601_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515601/ERR2515601_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515472/ERR2515472_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515472/ERR2515472_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515750/ERR2515750_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515750/ERR2515750_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515987/ERR2515987_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515987/ERR2515987_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515994/ERR2515994_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515994/ERR2515994_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516038/ERR2516038_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516038/ERR2516038_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515844/ERR2515844_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515844/ERR2515844_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515825/ERR2515825_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515825/ERR2515825_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515637/ERR2515637_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515637/ERR2515637_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515500/ERR2515500_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515500/ERR2515500_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515113/ERR2515113_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515113/ERR2515113_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515230/ERR2515230_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515230/ERR2515230_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516070/ERR2516070_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516070/ERR2516070_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515470/ERR2515470_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515470/ERR2515470_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515318/ERR2515318_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515318/ERR2515318_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515108/ERR2515108_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515108/ERR2515108_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516044/ERR2516044_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516044/ERR2516044_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515908/ERR2515908_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515908/ERR2515908_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515274/ERR2515274_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515274/ERR2515274_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515671/ERR2515671_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515671/ERR2515671_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515641/ERR2515641_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515641/ERR2515641_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515976/ERR2515976_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515976/ERR2515976_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515713/ERR2515713_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515713/ERR2515713_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515208/ERR2515208_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515208/ERR2515208_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515610/ERR2515610_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515610/ERR2515610_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515685/ERR2515685_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515685/ERR2515685_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516047/ERR2516047_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516047/ERR2516047_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515169/ERR2515169_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515169/ERR2515169_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515875/ERR2515875_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515875/ERR2515875_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515587/ERR2515587_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515587/ERR2515587_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515532/ERR2515532_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515532/ERR2515532_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515728/ERR2515728_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515728/ERR2515728_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515385/ERR2515385_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515385/ERR2515385_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515158/ERR2515158_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515158/ERR2515158_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515326/ERR2515326_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515326/ERR2515326_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515327/ERR2515327_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515327/ERR2515327_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515397/ERR2515397_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515397/ERR2515397_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515403/ERR2515403_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515403/ERR2515403_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515734/ERR2515734_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515734/ERR2515734_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515505/ERR2515505_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515505/ERR2515505_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515602/ERR2515602_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515602/ERR2515602_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515847/ERR2515847_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515847/ERR2515847_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515992/ERR2515992_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515992/ERR2515992_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515871/ERR2515871_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515871/ERR2515871_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515275/ERR2515275_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515275/ERR2515275_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515946/ERR2515946_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515946/ERR2515946_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516008/ERR2516008_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516008/ERR2516008_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515412/ERR2515412_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515412/ERR2515412_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515214/ERR2515214_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515214/ERR2515214_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515669/ERR2515669_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515669/ERR2515669_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515167/ERR2515167_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515167/ERR2515167_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515431/ERR2515431_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515431/ERR2515431_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515260/ERR2515260_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515260/ERR2515260_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515566/ERR2515566_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515566/ERR2515566_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515717/ERR2515717_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515717/ERR2515717_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515432/ERR2515432_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515432/ERR2515432_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515884/ERR2515884_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515884/ERR2515884_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515570/ERR2515570_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515570/ERR2515570_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515733/ERR2515733_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515733/ERR2515733_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515295/ERR2515295_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515295/ERR2515295_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515443/ERR2515443_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515443/ERR2515443_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515383/ERR2515383_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515383/ERR2515383_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515529/ERR2515529_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515529/ERR2515529_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515974/ERR2515974_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515974/ERR2515974_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515782/ERR2515782_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515782/ERR2515782_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515222/ERR2515222_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515222/ERR2515222_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515975/ERR2515975_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515975/ERR2515975_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516075/ERR2516075_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516075/ERR2516075_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515399/ERR2515399_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515399/ERR2515399_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515265/ERR2515265_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515265/ERR2515265_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515499/ERR2515499_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515499/ERR2515499_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515823/ERR2515823_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515823/ERR2515823_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515655/ERR2515655_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515655/ERR2515655_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516096/ERR2516096_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516096/ERR2516096_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515420/ERR2515420_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515420/ERR2515420_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515240/ERR2515240_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515240/ERR2515240_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515502/ERR2515502_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515502/ERR2515502_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516058/ERR2516058_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516058/ERR2516058_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515881/ERR2515881_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515881/ERR2515881_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515808/ERR2515808_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515808/ERR2515808_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515578/ERR2515578_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515578/ERR2515578_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515676/ERR2515676_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515676/ERR2515676_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515712/ERR2515712_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515712/ERR2515712_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515447/ERR2515447_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515447/ERR2515447_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516061/ERR2516061_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516061/ERR2516061_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515538/ERR2515538_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515538/ERR2515538_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515635/ERR2515635_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515635/ERR2515635_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516021/ERR2516021_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516021/ERR2516021_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515444/ERR2515444_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515444/ERR2515444_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515300/ERR2515300_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515300/ERR2515300_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515740/ERR2515740_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515740/ERR2515740_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515467/ERR2515467_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515467/ERR2515467_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515114/ERR2515114_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515114/ERR2515114_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515118/ERR2515118_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515118/ERR2515118_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515190/ERR2515190_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515190/ERR2515190_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515954/ERR2515954_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515954/ERR2515954_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515349/ERR2515349_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515349/ERR2515349_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515377/ERR2515377_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515377/ERR2515377_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515353/ERR2515353_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515353/ERR2515353_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515811/ERR2515811_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515811/ERR2515811_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515818/ERR2515818_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515818/ERR2515818_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515652/ERR2515652_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515652/ERR2515652_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515622/ERR2515622_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515622/ERR2515622_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515845/ERR2515845_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515845/ERR2515845_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515537/ERR2515537_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515537/ERR2515537_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516048/ERR2516048_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516048/ERR2516048_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515656/ERR2515656_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515656/ERR2515656_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515522/ERR2515522_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515522/ERR2515522_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515916/ERR2515916_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515916/ERR2515916_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515257/ERR2515257_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515257/ERR2515257_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515572/ERR2515572_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515572/ERR2515572_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515461/ERR2515461_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515461/ERR2515461_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515964/ERR2515964_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515964/ERR2515964_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515278/ERR2515278_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515278/ERR2515278_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515596/ERR2515596_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515596/ERR2515596_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515608/ERR2515608_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515608/ERR2515608_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515793/ERR2515793_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515793/ERR2515793_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515160/ERR2515160_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515160/ERR2515160_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516062/ERR2516062_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516062/ERR2516062_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515972/ERR2515972_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515972/ERR2515972_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515125/ERR2515125_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515125/ERR2515125_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515289/ERR2515289_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515289/ERR2515289_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515261/ERR2515261_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515261/ERR2515261_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516050/ERR2516050_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516050/ERR2516050_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515731/ERR2515731_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515731/ERR2515731_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515951/ERR2515951_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515951/ERR2515951_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515303/ERR2515303_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515303/ERR2515303_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515858/ERR2515858_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515858/ERR2515858_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515932/ERR2515932_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515932/ERR2515932_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515714/ERR2515714_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515714/ERR2515714_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515187/ERR2515187_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515187/ERR2515187_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515985/ERR2515985_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515985/ERR2515985_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515831/ERR2515831_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515831/ERR2515831_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515504/ERR2515504_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515504/ERR2515504_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515582/ERR2515582_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515582/ERR2515582_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515381/ERR2515381_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515381/ERR2515381_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516073/ERR2516073_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516073/ERR2516073_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515780/ERR2515780_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515780/ERR2515780_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515468/ERR2515468_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515468/ERR2515468_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515677/ERR2515677_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515677/ERR2515677_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515893/ERR2515893_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515893/ERR2515893_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515767/ERR2515767_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515767/ERR2515767_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515434/ERR2515434_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515434/ERR2515434_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515429/ERR2515429_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515429/ERR2515429_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515255/ERR2515255_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515255/ERR2515255_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516052/ERR2516052_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516052/ERR2516052_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515264/ERR2515264_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515264/ERR2515264_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515379/ERR2515379_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515379/ERR2515379_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516074/ERR2516074_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516074/ERR2516074_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515730/ERR2515730_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515730/ERR2515730_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515168/ERR2515168_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515168/ERR2515168_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515638/ERR2515638_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515638/ERR2515638_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515459/ERR2515459_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515459/ERR2515459_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515843/ERR2515843_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515843/ERR2515843_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515207/ERR2515207_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515207/ERR2515207_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515769/ERR2515769_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515769/ERR2515769_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515813/ERR2515813_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515813/ERR2515813_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515388/ERR2515388_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515388/ERR2515388_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515359/ERR2515359_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515359/ERR2515359_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515336/ERR2515336_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515336/ERR2515336_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515692/ERR2515692_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515692/ERR2515692_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515574/ERR2515574_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515574/ERR2515574_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515185/ERR2515185_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515185/ERR2515185_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515127/ERR2515127_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515127/ERR2515127_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515889/ERR2515889_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515889/ERR2515889_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515392/ERR2515392_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515392/ERR2515392_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516071/ERR2516071_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516071/ERR2516071_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515707/ERR2515707_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515707/ERR2515707_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515620/ERR2515620_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515620/ERR2515620_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515394/ERR2515394_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515394/ERR2515394_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515516/ERR2515516_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515516/ERR2515516_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515621/ERR2515621_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515621/ERR2515621_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515913/ERR2515913_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515913/ERR2515913_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515370/ERR2515370_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515370/ERR2515370_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515424/ERR2515424_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515424/ERR2515424_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515251/ERR2515251_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515251/ERR2515251_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516039/ERR2516039_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516039/ERR2516039_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515775/ERR2515775_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515775/ERR2515775_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515357/ERR2515357_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515357/ERR2515357_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515428/ERR2515428_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515428/ERR2515428_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515400/ERR2515400_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515400/ERR2515400_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516000/ERR2516000_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516000/ERR2516000_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515555/ERR2515555_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515555/ERR2515555_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515193/ERR2515193_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515193/ERR2515193_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515367/ERR2515367_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515367/ERR2515367_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515624/ERR2515624_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515624/ERR2515624_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515171/ERR2515171_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515171/ERR2515171_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515687/ERR2515687_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515687/ERR2515687_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515164/ERR2515164_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515164/ERR2515164_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515991/ERR2515991_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515991/ERR2515991_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515409/ERR2515409_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515409/ERR2515409_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515478/ERR2515478_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515478/ERR2515478_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515363/ERR2515363_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515363/ERR2515363_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515718/ERR2515718_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515718/ERR2515718_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515865/ERR2515865_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515865/ERR2515865_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515618/ERR2515618_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515618/ERR2515618_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515343/ERR2515343_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515343/ERR2515343_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515202/ERR2515202_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515202/ERR2515202_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515691/ERR2515691_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515691/ERR2515691_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515451/ERR2515451_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515451/ERR2515451_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515748/ERR2515748_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515748/ERR2515748_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515130/ERR2515130_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515130/ERR2515130_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515247/ERR2515247_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515247/ERR2515247_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515679/ERR2515679_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515679/ERR2515679_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515870/ERR2515870_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515870/ERR2515870_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515332/ERR2515332_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515332/ERR2515332_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515323/ERR2515323_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515323/ERR2515323_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515352/ERR2515352_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515352/ERR2515352_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515900/ERR2515900_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515900/ERR2515900_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515701/ERR2515701_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515701/ERR2515701_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515438/ERR2515438_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515438/ERR2515438_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515661/ERR2515661_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515661/ERR2515661_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516086/ERR2516086_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516086/ERR2516086_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515603/ERR2515603_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515603/ERR2515603_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515445/ERR2515445_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515445/ERR2515445_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515777/ERR2515777_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515777/ERR2515777_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515506/ERR2515506_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515506/ERR2515506_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515266/ERR2515266_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515266/ERR2515266_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515407/ERR2515407_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515407/ERR2515407_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515917/ERR2515917_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515917/ERR2515917_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515119/ERR2515119_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515119/ERR2515119_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515643/ERR2515643_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515643/ERR2515643_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515552/ERR2515552_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515552/ERR2515552_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516067/ERR2516067_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516067/ERR2516067_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515342/ERR2515342_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515342/ERR2515342_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515970/ERR2515970_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515970/ERR2515970_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515948/ERR2515948_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515948/ERR2515948_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515442/ERR2515442_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515442/ERR2515442_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515791/ERR2515791_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515791/ERR2515791_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515209/ERR2515209_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515209/ERR2515209_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515301/ERR2515301_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515301/ERR2515301_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516025/ERR2516025_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516025/ERR2516025_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515623/ERR2515623_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515623/ERR2515623_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515995/ERR2515995_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515995/ERR2515995_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515774/ERR2515774_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515774/ERR2515774_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515482/ERR2515482_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515482/ERR2515482_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515356/ERR2515356_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515356/ERR2515356_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515166/ERR2515166_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515166/ERR2515166_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515246/ERR2515246_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515246/ERR2515246_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515937/ERR2515937_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515937/ERR2515937_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515709/ERR2515709_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515709/ERR2515709_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515882/ERR2515882_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515882/ERR2515882_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515737/ERR2515737_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515737/ERR2515737_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515890/ERR2515890_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515890/ERR2515890_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515612/ERR2515612_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515612/ERR2515612_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515417/ERR2515417_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515417/ERR2515417_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515371/ERR2515371_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515371/ERR2515371_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515571/ERR2515571_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515571/ERR2515571_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515228/ERR2515228_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515228/ERR2515228_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515112/ERR2515112_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515112/ERR2515112_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515304/ERR2515304_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515304/ERR2515304_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515252/ERR2515252_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515252/ERR2515252_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515488/ERR2515488_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515488/ERR2515488_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516007/ERR2516007_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516007/ERR2516007_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515606/ERR2515606_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515606/ERR2515606_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516020/ERR2516020_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516020/ERR2516020_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515874/ERR2515874_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515874/ERR2515874_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515963/ERR2515963_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515963/ERR2515963_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515781/ERR2515781_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515781/ERR2515781_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515664/ERR2515664_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515664/ERR2515664_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516001/ERR2516001_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516001/ERR2516001_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515949/ERR2515949_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515949/ERR2515949_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515390/ERR2515390_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515390/ERR2515390_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516031/ERR2516031_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516031/ERR2516031_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515117/ERR2515117_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515117/ERR2515117_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515360/ERR2515360_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515360/ERR2515360_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515755/ERR2515755_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515755/ERR2515755_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515938/ERR2515938_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515938/ERR2515938_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515903/ERR2515903_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515903/ERR2515903_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515126/ERR2515126_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515126/ERR2515126_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515189/ERR2515189_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515189/ERR2515189_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515565/ERR2515565_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515565/ERR2515565_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515952/ERR2515952_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515952/ERR2515952_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515423/ERR2515423_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515423/ERR2515423_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515218/ERR2515218_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515218/ERR2515218_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516069/ERR2516069_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516069/ERR2516069_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515147/ERR2515147_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515147/ERR2515147_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515682/ERR2515682_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515682/ERR2515682_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515107/ERR2515107_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515107/ERR2515107_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515997/ERR2515997_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515997/ERR2515997_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515759/ERR2515759_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515759/ERR2515759_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515628/ERR2515628_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515628/ERR2515628_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515486/ERR2515486_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515486/ERR2515486_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515310/ERR2515310_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515310/ERR2515310_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515284/ERR2515284_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515284/ERR2515284_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515614/ERR2515614_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515614/ERR2515614_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516004/ERR2516004_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516004/ERR2516004_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515634/ERR2515634_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515634/ERR2515634_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515615/ERR2515615_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515615/ERR2515615_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515724/ERR2515724_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515724/ERR2515724_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515249/ERR2515249_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515249/ERR2515249_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515163/ERR2515163_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515163/ERR2515163_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515346/ERR2515346_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515346/ERR2515346_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515554/ERR2515554_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515554/ERR2515554_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515933/ERR2515933_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515933/ERR2515933_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515705/ERR2515705_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515705/ERR2515705_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515633/ERR2515633_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515633/ERR2515633_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515227/ERR2515227_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515227/ERR2515227_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515109/ERR2515109_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515109/ERR2515109_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515410/ERR2515410_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515410/ERR2515410_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515915/ERR2515915_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515915/ERR2515915_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516057/ERR2516057_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516057/ERR2516057_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515210/ERR2515210_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515210/ERR2515210_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516063/ERR2516063_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516063/ERR2516063_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515182/ERR2515182_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515182/ERR2515182_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515754/ERR2515754_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515754/ERR2515754_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515213/ERR2515213_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515213/ERR2515213_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515361/ERR2515361_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515361/ERR2515361_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515541/ERR2515541_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515541/ERR2515541_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515864/ERR2515864_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515864/ERR2515864_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515544/ERR2515544_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515544/ERR2515544_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515910/ERR2515910_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515910/ERR2515910_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516005/ERR2516005_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516005/ERR2516005_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515658/ERR2515658_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515658/ERR2515658_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515839/ERR2515839_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515839/ERR2515839_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515248/ERR2515248_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515248/ERR2515248_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515199/ERR2515199_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515199/ERR2515199_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515965/ERR2515965_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515965/ERR2515965_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515739/ERR2515739_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515739/ERR2515739_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515319/ERR2515319_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515319/ERR2515319_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515473/ERR2515473_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515473/ERR2515473_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515331/ERR2515331_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515331/ERR2515331_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515152/ERR2515152_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515152/ERR2515152_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516019/ERR2516019_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516019/ERR2516019_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515325/ERR2515325_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515325/ERR2515325_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515238/ERR2515238_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515238/ERR2515238_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515735/ERR2515735_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515735/ERR2515735_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515758/ERR2515758_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515758/ERR2515758_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515448/ERR2515448_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515448/ERR2515448_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515744/ERR2515744_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515744/ERR2515744_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516091/ERR2516091_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516091/ERR2516091_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515466/ERR2515466_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515466/ERR2515466_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515720/ERR2515720_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515720/ERR2515720_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515909/ERR2515909_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515909/ERR2515909_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975916/ERR8975916_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975916/ERR8975916_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975688/ERR8975688_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975688/ERR8975688_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975668/ERR8975668_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975668/ERR8975668_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/002/ERR8975672/ERR8975672_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/002/ERR8975672/ERR8975672_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1162725/SRR1162725_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1162725/SRR1162725_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1163085/SRR1163085_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1163085/SRR1163085_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/003/SRR1144753/SRR1144753_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/003/SRR1144753/SRR1144753_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1162958/SRR1162958_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1162958/SRR1162958_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163093/SRR1163093_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163093/SRR1163093_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/006/SRR1144816/SRR1144816_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/006/SRR1144816/SRR1144816_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1163360/SRR1163360_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1163360/SRR1163360_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163218/SRR1163218_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163218/SRR1163218_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1163087/SRR1163087_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1163087/SRR1163087_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1146278/SRR1146278_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1146278/SRR1146278_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144758/SRR1144758_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144758/SRR1144758_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/004/SRR1144784/SRR1144784_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/004/SRR1144784/SRR1144784_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/002/SRR1144772/SRR1144772_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/002/SRR1144772/SRR1144772_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144788/SRR1144788_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144788/SRR1144788_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163078/SRR1163078_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163078/SRR1163078_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165546/SRR1165546_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165546/SRR1165546_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1165369/SRR1165369_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1165369/SRR1165369_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1165525/SRR1165525_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1165525/SRR1165525_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162822/SRR1162822_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162822/SRR1162822_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1165572/SRR1165572_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1165572/SRR1165572_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1165427/SRR1165427_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1165427/SRR1165427_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162887/SRR1162887_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162887/SRR1162887_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162867/SRR1162867_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162867/SRR1162867_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162842/SRR1162842_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162842/SRR1162842_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1165601/SRR1165601_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1165601/SRR1165601_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1162829/SRR1162829_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1162829/SRR1162829_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163288/SRR1163288_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163288/SRR1163288_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165530/SRR1165530_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165530/SRR1165530_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1163294/SRR1163294_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1163294/SRR1163294_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162873/SRR1162873_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162873/SRR1162873_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1163462/SRR1163462_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1163462/SRR1163462_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163031/SRR1163031_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163031/SRR1163031_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165366/SRR1165366_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165366/SRR1165366_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163223/SRR1163223_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163223/SRR1163223_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1162900/SRR1162900_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1162900/SRR1162900_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165450/SRR1165450_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165450/SRR1165450_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162812/SRR1162812_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162812/SRR1162812_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163041/SRR1163041_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163041/SRR1163041_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162803/SRR1162803_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162803/SRR1162803_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1162754/SRR1162754_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1162754/SRR1162754_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1162726/SRR1162726_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1162726/SRR1162726_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125843/ERR9125843_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125843/ERR9125843_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125714/ERR9125714_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125714/ERR9125714_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125036/ERR9125036_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125036/ERR9125036_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125069/ERR9125069_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125069/ERR9125069_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125184/ERR9125184_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125184/ERR9125184_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125123/ERR9125123_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125123/ERR9125123_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125213/ERR9125213_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125213/ERR9125213_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125268/ERR9125268_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125268/ERR9125268_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125281/ERR9125281_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125281/ERR9125281_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125282/ERR9125282_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125282/ERR9125282_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9125285/ERR9125285_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9125285/ERR9125285_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125301/ERR9125301_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125301/ERR9125301_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125303/ERR9125303_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125303/ERR9125303_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125306/ERR9125306_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125306/ERR9125306_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125330/ERR9125330_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125330/ERR9125330_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125331/ERR9125331_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125331/ERR9125331_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125342/ERR9125342_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125342/ERR9125342_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125443/ERR9125443_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125443/ERR9125443_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125454/ERR9125454_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125454/ERR9125454_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125456/ERR9125456_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125456/ERR9125456_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125459/ERR9125459_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125459/ERR9125459_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125468/ERR9125468_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125468/ERR9125468_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125470/ERR9125470_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125470/ERR9125470_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125473/ERR9125473_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125473/ERR9125473_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125476/ERR9125476_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125476/ERR9125476_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125479/ERR9125479_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125479/ERR9125479_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125480/ERR9125480_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125480/ERR9125480_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125498/ERR9125498_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125498/ERR9125498_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125253/ERR9125253_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125253/ERR9125253_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125510/ERR9125510_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125510/ERR9125510_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125418/ERR9125418_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125418/ERR9125418_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125718/ERR9125718_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125718/ERR9125718_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9125427/ERR9125427_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9125427/ERR9125427_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125486/ERR9125486_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125486/ERR9125486_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9121240/ERR9121240_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9121240/ERR9121240_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9121538/ERR9121538_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9121538/ERR9121538_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121655/ERR9121655_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121655/ERR9121655_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9121714/ERR9121714_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9121714/ERR9121714_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121745/ERR9121745_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121745/ERR9121745_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9121747/ERR9121747_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9121747/ERR9121747_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121205/ERR9121205_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121205/ERR9121205_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/006/ERR9119126/ERR9119126_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/006/ERR9119126/ERR9119126_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/007/ERR9119127/ERR9119127_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/007/ERR9119127/ERR9119127_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/008/ERR9119128/ERR9119128_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/008/ERR9119128/ERR9119128_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/009/ERR9119129/ERR9119129_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/009/ERR9119129/ERR9119129_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/000/ERR9119130/ERR9119130_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/000/ERR9119130/ERR9119130_2.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/001/ERR9119131/ERR9119131_1.fastq.gz
-wget ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/001/ERR9119131/ERR9119131_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992611/ERR9992611_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992611/ERR9992611_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289349/ERR13289349_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289349/ERR13289349_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992662/ERR9992662_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992662/ERR9992662_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992671/ERR9992671_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992671/ERR9992671_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289366/ERR13289366_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289366/ERR13289366_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993146/ERR9993146_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993146/ERR9993146_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992957/ERR9992957_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992957/ERR9992957_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289340/ERR13289340_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289340/ERR13289340_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286163/ERR13286163_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286163/ERR13286163_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289358/ERR13289358_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289358/ERR13289358_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993089/ERR9993089_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993089/ERR9993089_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289360/ERR13289360_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289360/ERR13289360_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289350/ERR13289350_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289350/ERR13289350_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289351/ERR13289351_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289351/ERR13289351_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993186/ERR9993186_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993186/ERR9993186_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13289380/ERR13289380_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13289380/ERR13289380_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992686/ERR9992686_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992686/ERR9992686_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286153/ERR13286153_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286153/ERR13286153_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992685/ERR9992685_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992685/ERR9992685_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288797/ERR13288797_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288797/ERR13288797_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992967/ERR9992967_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992967/ERR9992967_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289357/ERR13289357_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289357/ERR13289357_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289382/ERR13289382_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289382/ERR13289382_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289384/ERR13289384_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289384/ERR13289384_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993202/ERR9993202_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993202/ERR9993202_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286177/ERR13286177_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286177/ERR13286177_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286103/ERR13286103_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286103/ERR13286103_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286181/ERR13286181_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286181/ERR13286181_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992749/ERR9992749_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992749/ERR9992749_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288799/ERR13288799_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288799/ERR13288799_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992982/ERR9992982_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992982/ERR9992982_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993211/ERR9993211_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993211/ERR9993211_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289386/ERR13289386_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289386/ERR13289386_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286049/ERR13286049_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286049/ERR13286049_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286047/ERR13286047_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286047/ERR13286047_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286158/ERR13286158_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286158/ERR13286158_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286053/ERR13286053_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13286053/ERR13286053_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286052/ERR13286052_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286052/ERR13286052_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286066/ERR13286066_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286066/ERR13286066_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288964/ERR13288964_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288964/ERR13288964_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13286133/ERR13286133_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13286133/ERR13286133_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286147/ERR13286147_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13286147/ERR13286147_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286180/ERR13286180_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286180/ERR13286180_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286168/ERR13286168_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286168/ERR13286168_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13286042/ERR13286042_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13286042/ERR13286042_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288973/ERR13288973_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288973/ERR13288973_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13286179/ERR13286179_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13286179/ERR13286179_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286182/ERR13286182_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286182/ERR13286182_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288978/ERR13288978_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288978/ERR13288978_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288975/ERR13288975_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288975/ERR13288975_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288949/ERR13288949_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288949/ERR13288949_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289335/ERR13289335_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289335/ERR13289335_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288955/ERR13288955_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288955/ERR13288955_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289341/ERR13289341_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289341/ERR13289341_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289342/ERR13289342_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289342/ERR13289342_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289343/ERR13289343_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289343/ERR13289343_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993061/ERR9993061_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993061/ERR9993061_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992650/ERR9992650_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992650/ERR9992650_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992871/ERR9992871_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992871/ERR9992871_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993129/ERR9993129_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993129/ERR9993129_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993023/ERR9993023_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993023/ERR9993023_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993117/ERR9993117_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993117/ERR9993117_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13288794/ERR13288794_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13288794/ERR13288794_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286146/ERR13286146_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286146/ERR13286146_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288968/ERR13288968_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288968/ERR13288968_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289004/ERR13289004_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289004/ERR13289004_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992731/ERR9992731_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992731/ERR9992731_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992839/ERR9992839_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992839/ERR9992839_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992776/ERR9992776_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992776/ERR9992776_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993105/ERR9993105_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993105/ERR9993105_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992833/ERR9992833_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992833/ERR9992833_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992949/ERR9992949_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992949/ERR9992949_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992708/ERR9992708_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992708/ERR9992708_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992709/ERR9992709_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992709/ERR9992709_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992779/ERR9992779_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992779/ERR9992779_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286050/ERR13286050_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286050/ERR13286050_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992733/ERR9992733_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992733/ERR9992733_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992969/ERR9992969_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992969/ERR9992969_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288987/ERR13288987_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288987/ERR13288987_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993150/ERR9993150_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993150/ERR9993150_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993177/ERR9993177_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993177/ERR9993177_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993091/ERR9993091_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993091/ERR9993091_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993080/ERR9993080_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993080/ERR9993080_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993036/ERR9993036_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993036/ERR9993036_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992990/ERR9992990_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992990/ERR9992990_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992991/ERR9992991_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992991/ERR9992991_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993208/ERR9993208_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993208/ERR9993208_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992998/ERR9992998_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992998/ERR9992998_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993209/ERR9993209_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993209/ERR9993209_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992974/ERR9992974_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992974/ERR9992974_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13288966/ERR13288966_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13288966/ERR13288966_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992789/ERR9992789_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992789/ERR9992789_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992830/ERR9992830_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992830/ERR9992830_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993115/ERR9993115_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993115/ERR9993115_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992966/ERR9992966_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992966/ERR9992966_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992787/ERR9992787_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992787/ERR9992787_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993157/ERR9993157_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993157/ERR9993157_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992921/ERR9992921_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992921/ERR9992921_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992897/ERR9992897_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992897/ERR9992897_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992922/ERR9992922_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992922/ERR9992922_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993000/ERR9993000_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993000/ERR9993000_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993014/ERR9993014_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993014/ERR9993014_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993118/ERR9993118_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993118/ERR9993118_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992625/ERR9992625_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992625/ERR9992625_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993120/ERR9993120_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993120/ERR9993120_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992626/ERR9992626_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992626/ERR9992626_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992623/ERR9992623_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992623/ERR9992623_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993173/ERR9993173_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993173/ERR9993173_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993135/ERR9993135_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993135/ERR9993135_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992670/ERR9992670_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992670/ERR9992670_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992960/ERR9992960_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992960/ERR9992960_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993134/ERR9993134_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993134/ERR9993134_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993138/ERR9993138_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993138/ERR9993138_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286039/ERR13286039_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286039/ERR13286039_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993088/ERR9993088_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993088/ERR9993088_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993072/ERR9993072_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993072/ERR9993072_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992950/ERR9992950_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992950/ERR9992950_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993243/ERR9993243_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993243/ERR9993243_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993031/ERR9993031_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993031/ERR9993031_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993142/ERR9993142_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993142/ERR9993142_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993194/ERR9993194_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993194/ERR9993194_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992956/ERR9992956_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992956/ERR9992956_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288962/ERR13288962_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288962/ERR13288962_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288985/ERR13288985_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288985/ERR13288985_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992925/ERR9992925_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992925/ERR9992925_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993195/ERR9993195_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993195/ERR9993195_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992827/ERR9992827_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992827/ERR9992827_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993143/ERR9993143_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993143/ERR9993143_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992989/ERR9992989_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992989/ERR9992989_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992926/ERR9992926_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992926/ERR9992926_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992845/ERR9992845_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992845/ERR9992845_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288926/ERR13288926_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288926/ERR13288926_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992746/ERR9992746_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992746/ERR9992746_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288970/ERR13288970_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288970/ERR13288970_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13288998/ERR13288998_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13288998/ERR13288998_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992840/ERR9992840_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992840/ERR9992840_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288980/ERR13288980_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288980/ERR13288980_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993210/ERR9993210_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993210/ERR9993210_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992780/ERR9992780_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992780/ERR9992780_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993149/ERR9993149_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993149/ERR9993149_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286038/ERR13286038_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286038/ERR13286038_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992695/ERR9992695_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992695/ERR9992695_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992679/ERR9992679_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992679/ERR9992679_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288788/ERR13288788_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288788/ERR13288788_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992717/ERR9992717_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992717/ERR9992717_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992619/ERR9992619_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992619/ERR9992619_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993002/ERR9993002_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993002/ERR9993002_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992831/ERR9992831_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992831/ERR9992831_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992832/ERR9992832_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992832/ERR9992832_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13288791/ERR13288791_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13288791/ERR13288791_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992846/ERR9992846_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992846/ERR9992846_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992834/ERR9992834_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992834/ERR9992834_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992825/ERR9992825_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992825/ERR9992825_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13288950/ERR13288950_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13288950/ERR13288950_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992857/ERR9992857_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992857/ERR9992857_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992788/ERR9992788_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992788/ERR9992788_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993124/ERR9993124_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993124/ERR9993124_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993125/ERR9993125_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993125/ERR9993125_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992971/ERR9992971_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992971/ERR9992971_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992639/ERR9992639_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992639/ERR9992639_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992649/ERR9992649_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992649/ERR9992649_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289006/ERR13289006_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289006/ERR13289006_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992761/ERR9992761_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992761/ERR9992761_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286045/ERR13286045_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286045/ERR13286045_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286178/ERR13286178_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286178/ERR13286178_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288932/ERR13288932_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288932/ERR13288932_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992836/ERR9992836_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992836/ERR9992836_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289345/ERR13289345_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289345/ERR13289345_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289344/ERR13289344_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289344/ERR13289344_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992970/ERR9992970_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992970/ERR9992970_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992643/ERR9992643_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992643/ERR9992643_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992710/ERR9992710_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992710/ERR9992710_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992976/ERR9992976_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992976/ERR9992976_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993018/ERR9993018_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993018/ERR9993018_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286184/ERR13286184_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286184/ERR13286184_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288969/ERR13288969_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288969/ERR13288969_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992617/ERR9992617_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992617/ERR9992617_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992698/ERR9992698_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992698/ERR9992698_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993148/ERR9993148_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993148/ERR9993148_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992693/ERR9992693_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992693/ERR9992693_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288931/ERR13288931_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288931/ERR13288931_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992835/ERR9992835_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992835/ERR9992835_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992812/ERR9992812_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992812/ERR9992812_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992728/ERR9992728_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992728/ERR9992728_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289002/ERR13289002_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289002/ERR13289002_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288974/ERR13288974_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288974/ERR13288974_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13288960/ERR13288960_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13288960/ERR13288960_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288976/ERR13288976_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288976/ERR13288976_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992930/ERR9992930_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992930/ERR9992930_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993012/ERR9993012_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993012/ERR9993012_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992915/ERR9992915_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992915/ERR9992915_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992796/ERR9992796_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992796/ERR9992796_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993059/ERR9993059_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993059/ERR9993059_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993053/ERR9993053_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993053/ERR9993053_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993248/ERR9993248_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993248/ERR9993248_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289377/ERR13289377_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289377/ERR13289377_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992701/ERR9992701_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992701/ERR9992701_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992959/ERR9992959_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992959/ERR9992959_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992702/ERR9992702_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992702/ERR9992702_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992703/ERR9992703_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992703/ERR9992703_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992987/ERR9992987_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992987/ERR9992987_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13288928/ERR13288928_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13288928/ERR13288928_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993001/ERR9993001_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993001/ERR9993001_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992901/ERR9992901_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992901/ERR9992901_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992903/ERR9992903_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992903/ERR9992903_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289339/ERR13289339_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289339/ERR13289339_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992963/ERR9992963_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992963/ERR9992963_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992737/ERR9992737_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992737/ERR9992737_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288930/ERR13288930_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288930/ERR13288930_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993253/ERR9993253_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993253/ERR9993253_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289264/ERR13289264_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289264/ERR13289264_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993235/ERR9993235_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993235/ERR9993235_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992847/ERR9992847_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992847/ERR9992847_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286048/ERR13286048_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286048/ERR13286048_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992938/ERR9992938_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992938/ERR9992938_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992852/ERR9992852_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992852/ERR9992852_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992853/ERR9992853_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992853/ERR9992853_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288954/ERR13288954_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288954/ERR13288954_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992890/ERR9992890_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992890/ERR9992890_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288961/ERR13288961_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288961/ERR13288961_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289008/ERR13289008_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289008/ERR13289008_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992828/ERR9992828_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992828/ERR9992828_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289001/ERR13289001_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289001/ERR13289001_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289000/ERR13289000_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289000/ERR13289000_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993112/ERR9993112_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993112/ERR9993112_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992696/ERR9992696_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992696/ERR9992696_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993052/ERR9993052_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993052/ERR9993052_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993259/ERR9993259_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993259/ERR9993259_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992829/ERR9992829_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992829/ERR9992829_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288929/ERR13288929_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288929/ERR13288929_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992826/ERR9992826_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992826/ERR9992826_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992842/ERR9992842_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992842/ERR9992842_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992961/ERR9992961_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992961/ERR9992961_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993185/ERR9993185_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993185/ERR9993185_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992815/ERR9992815_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992815/ERR9992815_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288946/ERR13288946_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288946/ERR13288946_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993113/ERR9993113_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993113/ERR9993113_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993205/ERR9993205_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993205/ERR9993205_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288971/ERR13288971_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288971/ERR13288971_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993051/ERR9993051_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993051/ERR9993051_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288997/ERR13288997_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13288997/ERR13288997_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288972/ERR13288972_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288972/ERR13288972_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992942/ERR9992942_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992942/ERR9992942_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288959/ERR13288959_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288959/ERR13288959_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992743/ERR9992743_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992743/ERR9992743_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993192/ERR9993192_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993192/ERR9993192_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992738/ERR9992738_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992738/ERR9992738_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992735/ERR9992735_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992735/ERR9992735_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992848/ERR9992848_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992848/ERR9992848_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992739/ERR9992739_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992739/ERR9992739_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992740/ERR9992740_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992740/ERR9992740_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992923/ERR9992923_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992923/ERR9992923_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993219/ERR9993219_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993219/ERR9993219_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992904/ERR9992904_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992904/ERR9992904_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992843/ERR9992843_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992843/ERR9992843_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992911/ERR9992911_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992911/ERR9992911_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992912/ERR9992912_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992912/ERR9992912_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992727/ERR9992727_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992727/ERR9992727_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992953/ERR9992953_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992953/ERR9992953_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992824/ERR9992824_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992824/ERR9992824_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992899/ERR9992899_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992899/ERR9992899_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992729/ERR9992729_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992729/ERR9992729_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288988/ERR13288988_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13288988/ERR13288988_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13288990/ERR13288990_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13288990/ERR13288990_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288999/ERR13288999_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13288999/ERR13288999_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288986/ERR13288986_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288986/ERR13288986_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993251/ERR9993251_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993251/ERR9993251_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288796/ERR13288796_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288796/ERR13288796_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289003/ERR13289003_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289003/ERR13289003_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288984/ERR13288984_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288984/ERR13288984_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288996/ERR13288996_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13288996/ERR13288996_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288963/ERR13288963_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288963/ERR13288963_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992837/ERR9992837_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992837/ERR9992837_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992939/ERR9992939_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992939/ERR9992939_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992714/ERR9992714_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992714/ERR9992714_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992715/ERR9992715_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992715/ERR9992715_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992716/ERR9992716_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992716/ERR9992716_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992785/ERR9992785_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992785/ERR9992785_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993132/ERR9993132_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993132/ERR9993132_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993047/ERR9993047_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993047/ERR9993047_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992965/ERR9992965_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992965/ERR9992965_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993236/ERR9993236_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993236/ERR9993236_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993108/ERR9993108_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993108/ERR9993108_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993068/ERR9993068_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993068/ERR9993068_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13288792/ERR13288792_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13288792/ERR13288792_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992651/ERR9992651_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992651/ERR9992651_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993028/ERR9993028_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993028/ERR9993028_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993130/ERR9993130_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993130/ERR9993130_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993041/ERR9993041_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993041/ERR9993041_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993100/ERR9993100_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993100/ERR9993100_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992879/ERR9992879_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992879/ERR9992879_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992629/ERR9992629_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992629/ERR9992629_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993094/ERR9993094_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993094/ERR9993094_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993098/ERR9993098_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993098/ERR9993098_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993078/ERR9993078_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993078/ERR9993078_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993180/ERR9993180_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993180/ERR9993180_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993181/ERR9993181_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993181/ERR9993181_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993079/ERR9993079_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993079/ERR9993079_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993152/ERR9993152_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993152/ERR9993152_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992706/ERR9992706_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992706/ERR9992706_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992994/ERR9992994_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992994/ERR9992994_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992996/ERR9992996_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992996/ERR9992996_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993206/ERR9993206_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993206/ERR9993206_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992997/ERR9992997_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992997/ERR9992997_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993193/ERR9993193_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993193/ERR9993193_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992750/ERR9992750_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992750/ERR9992750_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992806/ERR9992806_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992806/ERR9992806_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992805/ERR9992805_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992805/ERR9992805_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13288989/ERR13288989_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13288989/ERR13288989_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993045/ERR9993045_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993045/ERR9993045_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992798/ERR9992798_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992798/ERR9992798_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993046/ERR9993046_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993046/ERR9993046_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992875/ERR9992875_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992875/ERR9992875_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992800/ERR9992800_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992800/ERR9992800_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993114/ERR9993114_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993114/ERR9993114_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993110/ERR9993110_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993110/ERR9993110_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993070/ERR9993070_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993070/ERR9993070_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993081/ERR9993081_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993081/ERR9993081_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992726/ERR9992726_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992726/ERR9992726_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992730/ERR9992730_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992730/ERR9992730_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993212/ERR9993212_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993212/ERR9993212_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13288993/ERR13288993_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13288993/ERR13288993_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13288795/ERR13288795_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13288795/ERR13288795_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288924/ERR13288924_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288924/ERR13288924_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992801/ERR9992801_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992801/ERR9992801_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992786/ERR9992786_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992786/ERR9992786_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992856/ERR9992856_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992856/ERR9992856_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993111/ERR9993111_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993111/ERR9993111_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289402/ERR13289402_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289402/ERR13289402_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992855/ERR9992855_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992855/ERR9992855_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992892/ERR9992892_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992892/ERR9992892_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993109/ERR9993109_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993109/ERR9993109_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992894/ERR9992894_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992894/ERR9992894_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992854/ERR9992854_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992854/ERR9992854_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992909/ERR9992909_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992909/ERR9992909_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993069/ERR9993069_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993069/ERR9993069_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992910/ERR9992910_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992910/ERR9992910_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993043/ERR9993043_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993043/ERR9993043_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992913/ERR9992913_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992913/ERR9992913_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993172/ERR9993172_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993172/ERR9993172_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992778/ERR9992778_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992778/ERR9992778_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992920/ERR9992920_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992920/ERR9992920_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992891/ERR9992891_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992891/ERR9992891_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993102/ERR9993102_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993102/ERR9993102_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993221/ERR9993221_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993221/ERR9993221_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288944/ERR13288944_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288944/ERR13288944_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992876/ERR9992876_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992876/ERR9992876_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992874/ERR9992874_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992874/ERR9992874_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992873/ERR9992873_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992873/ERR9992873_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993056/ERR9993056_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993056/ERR9993056_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992658/ERR9992658_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992658/ERR9992658_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992659/ERR9992659_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992659/ERR9992659_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992660/ERR9992660_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992660/ERR9992660_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992688/ERR9992688_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992688/ERR9992688_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992707/ERR9992707_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992707/ERR9992707_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992663/ERR9992663_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992663/ERR9992663_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993200/ERR9993200_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993200/ERR9993200_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993201/ERR9993201_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993201/ERR9993201_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993240/ERR9993240_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9993240/ERR9993240_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992895/ERR9992895_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992895/ERR9992895_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992718/ERR9992718_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992718/ERR9992718_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993062/ERR9993062_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9993062/ERR9993062_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992667/ERR9992667_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992667/ERR9992667_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992689/ERR9992689_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992689/ERR9992689_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992669/ERR9992669_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992669/ERR9992669_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993136/ERR9993136_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993136/ERR9993136_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993137/ERR9993137_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993137/ERR9993137_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992983/ERR9992983_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992983/ERR9992983_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992633/ERR9992633_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992633/ERR9992633_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993197/ERR9993197_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993197/ERR9993197_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993198/ERR9993198_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993198/ERR9993198_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992758/ERR9992758_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992758/ERR9992758_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993226/ERR9993226_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993226/ERR9993226_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992811/ERR9992811_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992811/ERR9992811_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992813/ERR9992813_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992813/ERR9992813_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993196/ERR9993196_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9993196/ERR9993196_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992820/ERR9992820_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992820/ERR9992820_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992809/ERR9992809_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9992809/ERR9992809_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992810/ERR9992810_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992810/ERR9992810_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993263/ERR9993263_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993263/ERR9993263_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992954/ERR9992954_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992954/ERR9992954_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992782/ERR9992782_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992782/ERR9992782_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993075/ERR9993075_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993075/ERR9993075_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993234/ERR9993234_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9993234/ERR9993234_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993227/ERR9993227_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993227/ERR9993227_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993228/ERR9993228_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9993228/ERR9993228_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993229/ERR9993229_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993229/ERR9993229_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993231/ERR9993231_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993231/ERR9993231_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993013/ERR9993013_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9993013/ERR9993013_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288953/ERR13288953_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288953/ERR13288953_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992720/ERR9992720_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/000/ERR9992720/ERR9992720_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992766/ERR9992766_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/006/ERR9992766/ERR9992766_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992767/ERR9992767_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992767/ERR9992767_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992768/ERR9992768_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992768/ERR9992768_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993035/ERR9993035_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993035/ERR9993035_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993159/ERR9993159_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993159/ERR9993159_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993245/ERR9993245_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9993245/ERR9993245_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992725/ERR9992725_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992725/ERR9992725_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993191/ERR9993191_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9993191/ERR9993191_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992958/ERR9992958_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/008/ERR9992958/ERR9992958_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992723/ERR9992723_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/003/ERR9992723/ERR9992723_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992772/ERR9992772_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/002/ERR9992772/ERR9992772_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13288801/ERR13288801_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13288801/ERR13288801_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13286137/ERR13286137_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13286137/ERR13286137_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289406/ERR13289406_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289406/ERR13289406_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992744/ERR9992744_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/004/ERR9992744/ERR9992744_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993049/ERR9993049_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/009/ERR9993049/ERR9993049_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992865/ERR9992865_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/005/ERR9992865/ERR9992865_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993077/ERR9993077_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9993077/ERR9993077_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992877/ERR9992877_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/007/ERR9992877/ERR9992877_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288983/ERR13288983_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288983/ERR13288983_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13289283/ERR13289283_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13289283/ERR13289283_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289035/ERR13289035_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13289035/ERR13289035_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289040/ERR13289040_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13289040/ERR13289040_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289297/ERR13289297_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289297/ERR13289297_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289298/ERR13289298_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289298/ERR13289298_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289300/ERR13289300_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289300/ERR13289300_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289055/ERR13289055_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289055/ERR13289055_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289057/ERR13289057_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289057/ERR13289057_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289011/ERR13289011_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289011/ERR13289011_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289294/ERR13289294_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289294/ERR13289294_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289299/ERR13289299_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289299/ERR13289299_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289033/ERR13289033_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289033/ERR13289033_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289041/ERR13289041_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13289041/ERR13289041_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289370/ERR13289370_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289370/ERR13289370_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289039/ERR13289039_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13289039/ERR13289039_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288783/ERR13288783_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13288783/ERR13288783_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289021/ERR13289021_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289021/ERR13289021_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289273/ERR13289273_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289273/ERR13289273_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288785/ERR13288785_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13288785/ERR13288785_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289400/ERR13289400_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13289400/ERR13289400_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289308/ERR13289308_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13289308/ERR13289308_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13286083/ERR13286083_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/083/ERR13286083/ERR13286083_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288778/ERR13288778_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13288778/ERR13288778_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289286/ERR13289286_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13289286/ERR13289286_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289295/ERR13289295_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289295/ERR13289295_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289323/ERR13289323_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289323/ERR13289323_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289017/ERR13289017_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289017/ERR13289017_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289277/ERR13289277_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13289277/ERR13289277_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289049/ERR13289049_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13289049/ERR13289049_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289267/ERR13289267_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289267/ERR13289267_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289025/ERR13289025_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289025/ERR13289025_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289063/ERR13289063_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289063/ERR13289063_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289337/ERR13289337_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289337/ERR13289337_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13288809/ERR13288809_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13288809/ERR13288809_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286126/ERR13286126_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286126/ERR13286126_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13286123/ERR13286123_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13286123/ERR13286123_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286138/ERR13286138_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13286138/ERR13286138_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286139/ERR13286139_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13286139/ERR13286139_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13286144/ERR13286144_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13286144/ERR13286144_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289330/ERR13289330_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289330/ERR13289330_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289272/ERR13289272_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289272/ERR13289272_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289361/ERR13289361_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289361/ERR13289361_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289363/ERR13289363_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289363/ERR13289363_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289367/ERR13289367_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13289367/ERR13289367_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286143/ERR13286143_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286143/ERR13286143_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13286134/ERR13286134_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13286134/ERR13286134_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13286132/ERR13286132_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13286132/ERR13286132_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288775/ERR13288775_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13288775/ERR13288775_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288787/ERR13288787_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13288787/ERR13288787_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13286129/ERR13286129_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13286129/ERR13286129_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13288812/ERR13288812_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13288812/ERR13288812_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289257/ERR13289257_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13289257/ERR13289257_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289276/ERR13289276_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289276/ERR13289276_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289261/ERR13289261_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289261/ERR13289261_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286077/ERR13286077_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13286077/ERR13286077_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13289265/ERR13289265_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13289265/ERR13289265_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289266/ERR13289266_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13289266/ERR13289266_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289061/ERR13289061_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13289061/ERR13289061_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289263/ERR13289263_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13289263/ERR13289263_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289059/ERR13289059_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289059/ERR13289059_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286059/ERR13286059_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286059/ERR13286059_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286057/ERR13286057_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286057/ERR13286057_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286060/ERR13286060_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286060/ERR13286060_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286063/ERR13286063_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13286063/ERR13286063_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289304/ERR13289304_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13289304/ERR13289304_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13288748/ERR13288748_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13288748/ERR13288748_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288774/ERR13288774_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13288774/ERR13288774_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289322/ERR13289322_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289322/ERR13289322_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13288811/ERR13288811_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13288811/ERR13288811_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289030/ERR13289030_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13289030/ERR13289030_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13288721/ERR13288721_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13288721/ERR13288721_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289045/ERR13289045_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13289045/ERR13289045_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13289305/ERR13289305_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13289305/ERR13289305_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286209/ERR13286209_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286209/ERR13286209_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13288736/ERR13288736_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13288736/ERR13288736_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289303/ERR13289303_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13289303/ERR13289303_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289296/ERR13289296_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289296/ERR13289296_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289347/ERR13289347_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289347/ERR13289347_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286116/ERR13286116_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286116/ERR13286116_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286107/ERR13286107_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286107/ERR13286107_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286170/ERR13286170_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286170/ERR13286170_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286110/ERR13286110_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286110/ERR13286110_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13286130/ERR13286130_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13286130/ERR13286130_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286105/ERR13286105_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286105/ERR13286105_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289326/ERR13289326_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289326/ERR13289326_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289331/ERR13289331_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289331/ERR13289331_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289333/ERR13289333_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13289333/ERR13289333_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289334/ERR13289334_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289334/ERR13289334_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13288800/ERR13288800_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13288800/ERR13288800_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13286121/ERR13286121_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13286121/ERR13286121_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286106/ERR13286106_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286106/ERR13286106_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286093/ERR13286093_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286093/ERR13286093_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289387/ERR13289387_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289387/ERR13289387_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286046/ERR13286046_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13286046/ERR13286046_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13286051/ERR13286051_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13286051/ERR13286051_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286091/ERR13286091_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286091/ERR13286091_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286056/ERR13286056_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286056/ERR13286056_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286058/ERR13286058_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13286058/ERR13286058_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286069/ERR13286069_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286069/ERR13286069_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13286054/ERR13286054_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13286054/ERR13286054_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286171/ERR13286171_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286171/ERR13286171_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286088/ERR13286088_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286088/ERR13286088_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286081/ERR13286081_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13286081/ERR13286081_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286193/ERR13286193_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13286193/ERR13286193_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13286136/ERR13286136_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13286136/ERR13286136_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13288782/ERR13288782_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13288782/ERR13288782_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289289/ERR13289289_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289289/ERR13289289_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286115/ERR13286115_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286115/ERR13286115_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13286201/ERR13286201_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13286201/ERR13286201_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13289310/ERR13289310_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13289310/ERR13289310_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286062/ERR13286062_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286062/ERR13286062_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286070/ERR13286070_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13286070/ERR13286070_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286169/ERR13286169_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13286169/ERR13286169_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13288807/ERR13288807_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13288807/ERR13288807_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289397/ERR13289397_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13289397/ERR13289397_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13289278/ERR13289278_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13289278/ERR13289278_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289031/ERR13289031_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13289031/ERR13289031_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289022/ERR13289022_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13289022/ERR13289022_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289287/ERR13289287_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13289287/ERR13289287_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289398/ERR13289398_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13289398/ERR13289398_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288746/ERR13288746_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13288746/ERR13288746_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13288722/ERR13288722_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13288722/ERR13288722_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13288723/ERR13288723_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13288723/ERR13288723_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13286072/ERR13286072_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13286072/ERR13286072_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13288804/ERR13288804_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13288804/ERR13288804_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13288745/ERR13288745_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13288745/ERR13288745_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289329/ERR13289329_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289329/ERR13289329_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289348/ERR13289348_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289348/ERR13289348_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289368/ERR13289368_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289368/ERR13289368_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289375/ERR13289375_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289375/ERR13289375_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289352/ERR13289352_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289352/ERR13289352_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286055/ERR13286055_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286055/ERR13286055_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286071/ERR13286071_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13286071/ERR13286071_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288731/ERR13288731_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/031/ERR13288731/ERR13288731_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288754/ERR13288754_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13288754/ERR13288754_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286157/ERR13286157_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13286157/ERR13286157_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13286141/ERR13286141_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13286141/ERR13286141_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286160/ERR13286160_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13286160/ERR13286160_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13286186/ERR13286186_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13286186/ERR13286186_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289321/ERR13289321_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/021/ERR13289321/ERR13289321_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289314/ERR13289314_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289314/ERR13289314_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13289313/ERR13289313_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13289313/ERR13289313_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289316/ERR13289316_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289316/ERR13289316_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289401/ERR13289401_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289401/ERR13289401_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289369/ERR13289369_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289369/ERR13289369_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13289379/ERR13289379_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13289379/ERR13289379_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289327/ERR13289327_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289327/ERR13289327_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13288739/ERR13288739_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/039/ERR13288739/ERR13288739_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13289381/ERR13289381_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13289381/ERR13289381_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289315/ERR13289315_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289315/ERR13289315_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289394/ERR13289394_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13289394/ERR13289394_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288755/ERR13288755_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13288755/ERR13288755_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288780/ERR13288780_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13288780/ERR13288780_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286203/ERR13286203_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/003/ERR13286203/ERR13286203_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289311/ERR13289311_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13289311/ERR13289311_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289293/ERR13289293_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289293/ERR13289293_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13289285/ERR13289285_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13289285/ERR13289285_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289338/ERR13289338_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289338/ERR13289338_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289372/ERR13289372_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13289372/ERR13289372_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286145/ERR13286145_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/045/ERR13286145/ERR13286145_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286076/ERR13286076_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286076/ERR13286076_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286080/ERR13286080_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/080/ERR13286080/ERR13286080_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286068/ERR13286068_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13286068/ERR13286068_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289023/ERR13289023_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/023/ERR13289023/ERR13289023_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289271/ERR13289271_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289271/ERR13289271_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289324/ERR13289324_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289324/ERR13289324_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289325/ERR13289325_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13289325/ERR13289325_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286155/ERR13286155_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13286155/ERR13286155_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13286064/ERR13286064_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13286064/ERR13286064_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289052/ERR13289052_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13289052/ERR13289052_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286217/ERR13286217_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286217/ERR13286217_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286213/ERR13286213_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286213/ERR13286213_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13288725/ERR13288725_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13288725/ERR13288725_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286195/ERR13286195_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286195/ERR13286195_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289019/ERR13289019_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289019/ERR13289019_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289009/ERR13289009_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289009/ERR13289009_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288771/ERR13288771_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13288771/ERR13288771_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289014/ERR13289014_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13289014/ERR13289014_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286098/ERR13286098_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286098/ERR13286098_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13286118/ERR13286118_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13286118/ERR13286118_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289047/ERR13289047_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13289047/ERR13289047_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289292/ERR13289292_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289292/ERR13289292_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289346/ERR13289346_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289346/ERR13289346_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289336/ERR13289336_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289336/ERR13289336_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288764/ERR13288764_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13288764/ERR13288764_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286166/ERR13286166_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/066/ERR13286166/ERR13286166_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13286074/ERR13286074_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13286074/ERR13286074_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13286075/ERR13286075_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13286075/ERR13286075_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13286067/ERR13286067_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13286067/ERR13286067_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286089/ERR13286089_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286089/ERR13286089_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286082/ERR13286082_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13286082/ERR13286082_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288726/ERR13288726_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13288726/ERR13288726_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13288805/ERR13288805_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13288805/ERR13288805_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286176/ERR13286176_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13286176/ERR13286176_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286094/ERR13286094_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286094/ERR13286094_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289399/ERR13289399_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13289399/ERR13289399_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289260/ERR13289260_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289260/ERR13289260_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289301/ERR13289301_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/001/ERR13289301/ERR13289301_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13288720/ERR13288720_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13288720/ERR13288720_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13288756/ERR13288756_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13288756/ERR13288756_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289036/ERR13289036_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/036/ERR13289036/ERR13289036_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289290/ERR13289290_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289290/ERR13289290_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289043/ERR13289043_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13289043/ERR13289043_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289395/ERR13289395_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13289395/ERR13289395_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13288747/ERR13288747_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/047/ERR13288747/ERR13288747_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289034/ERR13289034_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13289034/ERR13289034_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289056/ERR13289056_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289056/ERR13289056_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13289288/ERR13289288_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13289288/ERR13289288_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289328/ERR13289328_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289328/ERR13289328_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13288758/ERR13288758_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13288758/ERR13288758_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13288765/ERR13288765_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/065/ERR13288765/ERR13288765_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288762/ERR13288762_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13288762/ERR13288762_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289029/ERR13289029_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13289029/ERR13289029_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289027/ERR13289027_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13289027/ERR13289027_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289046/ERR13289046_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/046/ERR13289046/ERR13289046_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286210/ERR13286210_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13286210/ERR13286210_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286078/ERR13286078_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/078/ERR13286078/ERR13286078_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13288741/ERR13288741_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/041/ERR13288741/ERR13288741_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286200/ERR13286200_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286200/ERR13286200_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13286214/ERR13286214_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/014/ERR13286214/ERR13286214_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289062/ERR13289062_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289062/ERR13289062_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288761/ERR13288761_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13288761/ERR13288761_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13289054/ERR13289054_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/054/ERR13289054/ERR13289054_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289051/ERR13289051_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13289051/ERR13289051_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286159/ERR13286159_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13286159/ERR13286159_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286202/ERR13286202_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286202/ERR13286202_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289042/ERR13289042_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13289042/ERR13289042_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289269/ERR13289269_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13289269/ERR13289269_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289284/ERR13289284_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13289284/ERR13289284_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288744/ERR13288744_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13288744/ERR13288744_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288776/ERR13288776_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13288776/ERR13288776_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289309/ERR13289309_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13289309/ERR13289309_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289396/ERR13289396_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13289396/ERR13289396_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288768/ERR13288768_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13288768/ERR13288768_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288732/ERR13288732_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13288732/ERR13288732_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13288779/ERR13288779_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/079/ERR13288779/ERR13288779_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289319/ERR13289319_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13289319/ERR13289319_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286197/ERR13286197_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286197/ERR13286197_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286189/ERR13286189_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13286189/ERR13286189_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286188/ERR13286188_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/088/ERR13286188/ERR13286188_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286211/ERR13286211_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286211/ERR13286211_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288724/ERR13288724_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13288724/ERR13288724_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13286192/ERR13286192_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13286192/ERR13286192_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286090/ERR13286090_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286090/ERR13286090_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13288742/ERR13288742_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/042/ERR13288742/ERR13288742_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286084/ERR13286084_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13286084/ERR13286084_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286085/ERR13286085_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286085/ERR13286085_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286173/ERR13286173_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286173/ERR13286173_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286096/ERR13286096_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286096/ERR13286096_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286043/ERR13286043_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/043/ERR13286043/ERR13286043_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286196/ERR13286196_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/096/ERR13286196/ERR13286196_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286205/ERR13286205_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/005/ERR13286205/ERR13286205_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289390/ERR13289390_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13289390/ERR13289390_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286190/ERR13286190_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/090/ERR13286190/ERR13286190_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288772/ERR13288772_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/072/ERR13288772/ERR13288772_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288770/ERR13288770_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13288770/ERR13288770_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288784/ERR13288784_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/084/ERR13288784/ERR13288784_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13288781/ERR13288781_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/081/ERR13288781/ERR13288781_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286152/ERR13286152_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13286152/ERR13286152_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288957/ERR13288957_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288957/ERR13288957_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288773/ERR13288773_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13288773/ERR13288773_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288786/ERR13288786_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/086/ERR13288786/ERR13288786_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288769/ERR13288769_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/069/ERR13288769/ERR13288769_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13288777/ERR13288777_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/077/ERR13288777/ERR13288777_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13289312/ERR13289312_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13289312/ERR13289312_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13286119/ERR13286119_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/019/ERR13286119/ERR13286119_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13286120/ERR13286120_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13286120/ERR13286120_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13286122/ERR13286122_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/022/ERR13286122/ERR13286122_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13286125/ERR13286125_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/025/ERR13286125/ERR13286125_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289259/ERR13289259_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289259/ERR13289259_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289053/ERR13289053_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289053/ERR13289053_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289392/ERR13289392_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/092/ERR13289392/ERR13289392_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289044/ERR13289044_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/044/ERR13289044/ERR13289044_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289393/ERR13289393_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/093/ERR13289393/ERR13289393_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289064/ERR13289064_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289064/ERR13289064_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288749/ERR13288749_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13288749/ERR13288749_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289389/ERR13289389_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/089/ERR13289389/ERR13289389_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286191/ERR13286191_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13286191/ERR13286191_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286187/ERR13286187_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286187/ERR13286187_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286198/ERR13286198_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/098/ERR13286198/ERR13286198_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286204/ERR13286204_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286204/ERR13286204_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13286208/ERR13286208_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/008/ERR13286208/ERR13286208_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289256/ERR13289256_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289256/ERR13289256_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289262/ERR13289262_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289262/ERR13289262_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289306/ERR13289306_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13289306/ERR13289306_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289291/ERR13289291_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289291/ERR13289291_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289058/ERR13289058_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289058/ERR13289058_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13286128/ERR13286128_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13286128/ERR13286128_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13286135/ERR13286135_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/035/ERR13286135/ERR13286135_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13286140/ERR13286140_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13286140/ERR13286140_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286149/ERR13286149_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/049/ERR13286149/ERR13286149_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286148/ERR13286148_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13286148/ERR13286148_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286206/ERR13286206_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/006/ERR13286206/ERR13286206_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289374/ERR13289374_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289374/ERR13289374_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289376/ERR13289376_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/076/ERR13289376/ERR13289376_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289371/ERR13289371_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/071/ERR13289371/ERR13289371_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289362/ERR13289362_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13289362/ERR13289362_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289353/ERR13289353_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13289353/ERR13289353_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289373/ERR13289373_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13289373/ERR13289373_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286097/ERR13286097_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/097/ERR13286097/ERR13286097_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286117/ERR13286117_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13286117/ERR13286117_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286150/ERR13286150_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13286150/ERR13286150_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288753/ERR13288753_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/053/ERR13288753/ERR13288753_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288729/ERR13288729_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/029/ERR13288729/ERR13288729_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289048/ERR13289048_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/048/ERR13289048/ERR13289048_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289270/ERR13289270_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/070/ERR13289270/ERR13289270_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289028/ERR13289028_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/028/ERR13289028/ERR13289028_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289268/ERR13289268_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/068/ERR13289268/ERR13289268_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286199/ERR13286199_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286199/ERR13286199_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288763/ERR13288763_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/063/ERR13288763/ERR13288763_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289037/ERR13289037_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13289037/ERR13289037_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289282/ERR13289282_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/082/ERR13289282/ERR13289282_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289356/ERR13289356_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13289356/ERR13289356_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289359/ERR13289359_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13289359/ERR13289359_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13288734/ERR13288734_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/034/ERR13288734/ERR13288734_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13287637/ERR13287637_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13287637/ERR13287637_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286207/ERR13286207_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13286207/ERR13286207_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286194/ERR13286194_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/094/ERR13286194/ERR13286194_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289258/ERR13289258_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/058/ERR13289258/ERR13289258_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286095/ERR13286095_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/095/ERR13286095/ERR13286095_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286100/ERR13286100_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/000/ERR13286100/ERR13286100_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289274/ERR13289274_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/074/ERR13289274/ERR13289274_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13288751/ERR13288751_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/051/ERR13288751/ERR13288751_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13289320/ERR13289320_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/020/ERR13289320/ERR13289320_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289302/ERR13289302_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13289302/ERR13289302_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289050/ERR13289050_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/050/ERR13289050/ERR13289050_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289275/ERR13289275_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/075/ERR13289275/ERR13289275_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289391/ERR13289391_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/091/ERR13289391/ERR13289391_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288730/ERR13288730_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/030/ERR13288730/ERR13288730_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286215/ERR13286215_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13286215/ERR13286215_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13289032/ERR13289032_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/032/ERR13289032/ERR13289032_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13289307/ERR13289307_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/007/ERR13289307/ERR13289307_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13288810/ERR13288810_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/010/ERR13288810/ERR13288810_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288759/ERR13288759_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/059/ERR13288759/ERR13288759_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286162/ERR13286162_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/062/ERR13286162/ERR13286162_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13289318/ERR13289318_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/018/ERR13289318/ERR13289318_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289038/ERR13289038_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/038/ERR13289038/ERR13289038_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289026/ERR13289026_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13289026/ERR13289026_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289060/ERR13289060_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/060/ERR13289060/ERR13289060_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289317/ERR13289317_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/017/ERR13289317/ERR13289317_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286099/ERR13286099_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/099/ERR13286099/ERR13286099_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286104/ERR13286104_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/004/ERR13286104/ERR13286104_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286111/ERR13286111_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/011/ERR13286111/ERR13286111_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13286112/ERR13286112_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/012/ERR13286112/ERR13286112_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286113/ERR13286113_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/013/ERR13286113/ERR13286113_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13288740/ERR13288740_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/040/ERR13288740/ERR13288740_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289355/ERR13289355_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/055/ERR13289355/ERR13289355_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289364/ERR13289364_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/064/ERR13289364/ERR13289364_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286216/ERR13286216_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13286216/ERR13286216_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286087/ERR13286087_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/087/ERR13286087/ERR13286087_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286156/ERR13286156_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/056/ERR13286156/ERR13286156_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286073/ERR13286073_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/073/ERR13286073/ERR13286073_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286102/ERR13286102_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/002/ERR13286102/ERR13286102_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288757/ERR13288757_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/057/ERR13288757/ERR13288757_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13288752/ERR13288752_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/052/ERR13288752/ERR13288752_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289024/ERR13289024_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/024/ERR13289024/ERR13289024_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289015/ERR13289015_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/015/ERR13289015/ERR13289015_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289016/ERR13289016_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/016/ERR13289016/ERR13289016_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13288767/ERR13288767_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/067/ERR13288767/ERR13288767_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13288733/ERR13288733_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/033/ERR13288733/ERR13288733_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13286127/ERR13286127_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13286127/ERR13286127_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286109/ERR13286109_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/009/ERR13286109/ERR13286109_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13286161/ERR13286161_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/061/ERR13286161/ERR13286161_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13288727/ERR13288727_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/027/ERR13288727/ERR13288727_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286226/ERR13286226_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/026/ERR13286226/ERR13286226_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286185/ERR13286185_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/085/ERR13286185/ERR13286185_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13288737/ERR13288737_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR132/037/ERR13288737/ERR13288737_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992861/ERR9992861_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR999/001/ERR9992861/ERR9992861_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516196/ERR2516196_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516196/ERR2516196_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516243/ERR2516243_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516243/ERR2516243_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516188/ERR2516188_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516188/ERR2516188_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516199/ERR2516199_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516199/ERR2516199_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516396/ERR2516396_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516396/ERR2516396_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516220/ERR2516220_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516220/ERR2516220_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516329/ERR2516329_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516329/ERR2516329_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516397/ERR2516397_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516397/ERR2516397_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516214/ERR2516214_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516214/ERR2516214_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516256/ERR2516256_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516256/ERR2516256_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516399/ERR2516399_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516399/ERR2516399_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516177/ERR2516177_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516177/ERR2516177_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516252/ERR2516252_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516252/ERR2516252_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516373/ERR2516373_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516373/ERR2516373_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516181/ERR2516181_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516181/ERR2516181_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516291/ERR2516291_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516291/ERR2516291_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516206/ERR2516206_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516206/ERR2516206_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516287/ERR2516287_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516287/ERR2516287_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516270/ERR2516270_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516270/ERR2516270_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516364/ERR2516364_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516364/ERR2516364_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516261/ERR2516261_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516261/ERR2516261_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516347/ERR2516347_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516347/ERR2516347_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516365/ERR2516365_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516365/ERR2516365_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516349/ERR2516349_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516349/ERR2516349_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516166/ERR2516166_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516166/ERR2516166_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516175/ERR2516175_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516175/ERR2516175_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516281/ERR2516281_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516281/ERR2516281_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516308/ERR2516308_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516308/ERR2516308_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516345/ERR2516345_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516345/ERR2516345_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516336/ERR2516336_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516336/ERR2516336_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516203/ERR2516203_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516203/ERR2516203_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516239/ERR2516239_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516239/ERR2516239_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516213/ERR2516213_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516213/ERR2516213_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516138/ERR2516138_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516138/ERR2516138_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516135/ERR2516135_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516135/ERR2516135_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516136/ERR2516136_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516136/ERR2516136_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516161/ERR2516161_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516161/ERR2516161_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517166/ERR2517166_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517166/ERR2517166_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517357/ERR2517357_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517357/ERR2517357_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517548/ERR2517548_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517548/ERR2517548_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517179/ERR2517179_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517179/ERR2517179_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517518/ERR2517518_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2517518/ERR2517518_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2517495/ERR2517495_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2517495/ERR2517495_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2517304/ERR2517304_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2517304/ERR2517304_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517227/ERR2517227_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2517227/ERR2517227_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517436/ERR2517436_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2517436/ERR2517436_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2517151/ERR2517151_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2517151/ERR2517151_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517569/ERR2517569_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517569/ERR2517569_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517349/ERR2517349_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2517349/ERR2517349_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/005/ERR9119665/ERR9119665_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/005/ERR9119665/ERR9119665_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796390/ERR4796390_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796390/ERR4796390_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796404/ERR4796404_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796404/ERR4796404_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796311/ERR4796311_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796311/ERR4796311_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796408/ERR4796408_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796408/ERR4796408_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796468/ERR4796468_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796468/ERR4796468_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796479/ERR4796479_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796479/ERR4796479_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796506/ERR4796506_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796506/ERR4796506_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796519/ERR4796519_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796519/ERR4796519_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796347/ERR4796347_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796347/ERR4796347_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797227/ERR4797227_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797227/ERR4797227_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796700/ERR4796700_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796700/ERR4796700_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796484/ERR4796484_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796484/ERR4796484_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796666/ERR4796666_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796666/ERR4796666_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796623/ERR4796623_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796623/ERR4796623_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796637/ERR4796637_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796637/ERR4796637_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796452/ERR4796452_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796452/ERR4796452_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796665/ERR4796665_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796665/ERR4796665_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796409/ERR4796409_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796409/ERR4796409_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796324/ERR4796324_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796324/ERR4796324_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797149/ERR4797149_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797149/ERR4797149_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796326/ERR4796326_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796326/ERR4796326_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796969/ERR4796969_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796969/ERR4796969_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796654/ERR4796654_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796654/ERR4796654_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796572/ERR4796572_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796572/ERR4796572_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796800/ERR4796800_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796800/ERR4796800_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796766/ERR4796766_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796766/ERR4796766_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796863/ERR4796863_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796863/ERR4796863_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796730/ERR4796730_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4796730/ERR4796730_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796671/ERR4796671_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4796671/ERR4796671_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796819/ERR4796819_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4796819/ERR4796819_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796835/ERR4796835_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4796835/ERR4796835_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796818/ERR4796818_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796818/ERR4796818_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797027/ERR4797027_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797027/ERR4797027_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796657/ERR4796657_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796657/ERR4796657_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797044/ERR4797044_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797044/ERR4797044_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797203/ERR4797203_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797203/ERR4797203_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796816/ERR4796816_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796816/ERR4796816_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796894/ERR4796894_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4796894/ERR4796894_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797003/ERR4797003_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797003/ERR4797003_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796926/ERR4796926_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796926/ERR4796926_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796853/ERR4796853_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4796853/ERR4796853_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796676/ERR4796676_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796676/ERR4796676_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796877/ERR4796877_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4796877/ERR4796877_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796858/ERR4796858_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4796858/ERR4796858_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796896/ERR4796896_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4796896/ERR4796896_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796742/ERR4796742_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4796742/ERR4796742_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797054/ERR4797054_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4797054/ERR4797054_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797059/ERR4797059_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797059/ERR4797059_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797171/ERR4797171_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797171/ERR4797171_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797311/ERR4797311_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797311/ERR4797311_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797503/ERR4797503_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797503/ERR4797503_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797445/ERR4797445_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797445/ERR4797445_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797495/ERR4797495_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797495/ERR4797495_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797838/ERR4797838_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797838/ERR4797838_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797263/ERR4797263_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797263/ERR4797263_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797262/ERR4797262_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797262/ERR4797262_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797329/ERR4797329_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797329/ERR4797329_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797285/ERR4797285_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797285/ERR4797285_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797833/ERR4797833_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797833/ERR4797833_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797457/ERR4797457_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797457/ERR4797457_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797493/ERR4797493_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797493/ERR4797493_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797268/ERR4797268_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797268/ERR4797268_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797391/ERR4797391_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797391/ERR4797391_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797998/ERR4797998_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797998/ERR4797998_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797642/ERR4797642_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797642/ERR4797642_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797622/ERR4797622_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797622/ERR4797622_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797669/ERR4797669_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797669/ERR4797669_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797627/ERR4797627_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797627/ERR4797627_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797589/ERR4797589_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797589/ERR4797589_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798344/ERR4798344_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798344/ERR4798344_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798355/ERR4798355_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798355/ERR4798355_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797647/ERR4797647_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4797647/ERR4797647_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797645/ERR4797645_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797645/ERR4797645_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4797680/ERR4797680_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4797680/ERR4797680_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797753/ERR4797753_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4797753/ERR4797753_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797772/ERR4797772_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797772/ERR4797772_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797578/ERR4797578_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4797578/ERR4797578_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797865/ERR4797865_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797865/ERR4797865_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797279/ERR4797279_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4797279/ERR4797279_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797875/ERR4797875_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797875/ERR4797875_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797965/ERR4797965_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797965/ERR4797965_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797971/ERR4797971_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4797971/ERR4797971_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797902/ERR4797902_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4797902/ERR4797902_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798137/ERR4798137_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798137/ERR4798137_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798135/ERR4798135_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798135/ERR4798135_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798183/ERR4798183_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798183/ERR4798183_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798187/ERR4798187_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798187/ERR4798187_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798366/ERR4798366_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798366/ERR4798366_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798368/ERR4798368_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798368/ERR4798368_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797845/ERR4797845_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4797845/ERR4797845_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798304/ERR4798304_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798304/ERR4798304_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798254/ERR4798254_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798254/ERR4798254_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798230/ERR4798230_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798230/ERR4798230_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798292/ERR4798292_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798292/ERR4798292_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798261/ERR4798261_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798261/ERR4798261_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798243/ERR4798243_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798243/ERR4798243_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798265/ERR4798265_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798265/ERR4798265_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798281/ERR4798281_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798281/ERR4798281_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798212/ERR4798212_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798212/ERR4798212_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798500/ERR4798500_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798500/ERR4798500_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798425/ERR4798425_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798425/ERR4798425_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798422/ERR4798422_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4798422/ERR4798422_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798523/ERR4798523_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798523/ERR4798523_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798473/ERR4798473_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798473/ERR4798473_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798419/ERR4798419_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798419/ERR4798419_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798434/ERR4798434_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798434/ERR4798434_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798563/ERR4798563_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798563/ERR4798563_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798423/ERR4798423_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798423/ERR4798423_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798843/ERR4798843_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798843/ERR4798843_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798581/ERR4798581_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798581/ERR4798581_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799790/ERR4799790_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799790/ERR4799790_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798653/ERR4798653_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798653/ERR4798653_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798691/ERR4798691_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798691/ERR4798691_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798694/ERR4798694_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4798694/ERR4798694_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798617/ERR4798617_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798617/ERR4798617_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798658/ERR4798658_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798658/ERR4798658_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798723/ERR4798723_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798723/ERR4798723_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798686/ERR4798686_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798686/ERR4798686_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798685/ERR4798685_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798685/ERR4798685_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798736/ERR4798736_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798736/ERR4798736_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798823/ERR4798823_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4798823/ERR4798823_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798828/ERR4798828_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798828/ERR4798828_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798831/ERR4798831_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4798831/ERR4798831_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798760/ERR4798760_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798760/ERR4798760_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798787/ERR4798787_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4798787/ERR4798787_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798890/ERR4798890_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4798890/ERR4798890_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798969/ERR4798969_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4798969/ERR4798969_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798875/ERR4798875_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4798875/ERR4798875_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798936/ERR4798936_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4798936/ERR4798936_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798968/ERR4798968_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4798968/ERR4798968_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799815/ERR4799815_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799815/ERR4799815_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799051/ERR4799051_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799051/ERR4799051_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799066/ERR4799066_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799066/ERR4799066_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799021/ERR4799021_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799021/ERR4799021_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799027/ERR4799027_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799027/ERR4799027_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799830/ERR4799830_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799830/ERR4799830_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799841/ERR4799841_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799841/ERR4799841_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799874/ERR4799874_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799874/ERR4799874_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799849/ERR4799849_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799849/ERR4799849_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799077/ERR4799077_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799077/ERR4799077_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799162/ERR4799162_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799162/ERR4799162_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799556/ERR4799556_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799556/ERR4799556_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800471/ERR4800471_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800471/ERR4800471_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800440/ERR4800440_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800440/ERR4800440_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799379/ERR4799379_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799379/ERR4799379_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799554/ERR4799554_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799554/ERR4799554_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799886/ERR4799886_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799886/ERR4799886_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799991/ERR4799991_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799991/ERR4799991_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799356/ERR4799356_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799356/ERR4799356_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799348/ERR4799348_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799348/ERR4799348_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799984/ERR4799984_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799984/ERR4799984_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799106/ERR4799106_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799106/ERR4799106_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799081/ERR4799081_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799081/ERR4799081_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799028/ERR4799028_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799028/ERR4799028_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799155/ERR4799155_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799155/ERR4799155_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799206/ERR4799206_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799206/ERR4799206_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799098/ERR4799098_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799098/ERR4799098_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799222/ERR4799222_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799222/ERR4799222_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800480/ERR4800480_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800480/ERR4800480_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799578/ERR4799578_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799578/ERR4799578_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799267/ERR4799267_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799267/ERR4799267_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799252/ERR4799252_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799252/ERR4799252_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799131/ERR4799131_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799131/ERR4799131_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799214/ERR4799214_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799214/ERR4799214_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799178/ERR4799178_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799178/ERR4799178_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799276/ERR4799276_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799276/ERR4799276_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799245/ERR4799245_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799245/ERR4799245_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799302/ERR4799302_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799302/ERR4799302_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799226/ERR4799226_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799226/ERR4799226_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799896/ERR4799896_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799896/ERR4799896_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800460/ERR4800460_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800460/ERR4800460_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799901/ERR4799901_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799901/ERR4799901_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799491/ERR4799491_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799491/ERR4799491_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799456/ERR4799456_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799456/ERR4799456_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799472/ERR4799472_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799472/ERR4799472_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799517/ERR4799517_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799517/ERR4799517_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799493/ERR4799493_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799493/ERR4799493_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799436/ERR4799436_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/006/ERR4799436/ERR4799436_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799508/ERR4799508_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799508/ERR4799508_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799463/ERR4799463_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799463/ERR4799463_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799433/ERR4799433_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799433/ERR4799433_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799900/ERR4799900_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799900/ERR4799900_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799529/ERR4799529_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799529/ERR4799529_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799503/ERR4799503_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/003/ERR4799503/ERR4799503_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799948/ERR4799948_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/008/ERR4799948/ERR4799948_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799681/ERR4799681_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799681/ERR4799681_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799625/ERR4799625_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/005/ERR4799625/ERR4799625_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799622/ERR4799622_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799622/ERR4799622_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799651/ERR4799651_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799651/ERR4799651_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799682/ERR4799682_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799682/ERR4799682_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800199/ERR4800199_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800199/ERR4800199_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799587/ERR4799587_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799587/ERR4799587_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800189/ERR4800189_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800189/ERR4800189_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799719/ERR4799719_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799719/ERR4799719_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799961/ERR4799961_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799961/ERR4799961_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799657/ERR4799657_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/007/ERR4799657/ERR4799657_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799951/ERR4799951_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799951/ERR4799951_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799952/ERR4799952_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/002/ERR4799952/ERR4799952_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799634/ERR4799634_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799634/ERR4799634_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799711/ERR4799711_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/001/ERR4799711/ERR4799711_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799689/ERR4799689_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/009/ERR4799689/ERR4799689_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799754/ERR4799754_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/004/ERR4799754/ERR4799754_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799670/ERR4799670_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR479/000/ERR4799670/ERR4799670_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/006/ERR4800476/ERR4800476_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/006/ERR4800476/ERR4800476_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800034/ERR4800034_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800034/ERR4800034_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800060/ERR4800060_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800060/ERR4800060_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800300/ERR4800300_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/000/ERR4800300/ERR4800300_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800309/ERR4800309_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800309/ERR4800309_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800249/ERR4800249_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800249/ERR4800249_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800399/ERR4800399_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800399/ERR4800399_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800083/ERR4800083_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800083/ERR4800083_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800091/ERR4800091_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800091/ERR4800091_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800375/ERR4800375_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800375/ERR4800375_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800293/ERR4800293_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800293/ERR4800293_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800373/ERR4800373_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800373/ERR4800373_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800353/ERR4800353_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800353/ERR4800353_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/007/ERR4800477/ERR4800477_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/007/ERR4800477/ERR4800477_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800381/ERR4800381_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/001/ERR4800381/ERR4800381_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800455/ERR4800455_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800455/ERR4800455_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800579/ERR4800579_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/009/ERR4800579/ERR4800579_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800543/ERR4800543_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/003/ERR4800543/ERR4800543_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800564/ERR4800564_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/004/ERR4800564/ERR4800564_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800605/ERR4800605_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR480/005/ERR4800605/ERR4800605_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4811965/ERR4811965_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4811965/ERR4811965_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/006/ERR4812006/ERR4812006_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/006/ERR4812006/ERR4812006_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4812021/ERR4812021_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4812021/ERR4812021_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4811881/ERR4811881_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4811881/ERR4811881_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4812115/ERR4812115_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4812115/ERR4812115_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510279/ERR2510279_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510279/ERR2510279_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510329/ERR2510329_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510329/ERR2510329_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510682/ERR2510682_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510682/ERR2510682_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510654/ERR2510654_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510654/ERR2510654_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510686/ERR2510686_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510686/ERR2510686_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510690/ERR2510690_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510690/ERR2510690_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510702/ERR2510702_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510702/ERR2510702_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510703/ERR2510703_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510703/ERR2510703_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510709/ERR2510709_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510709/ERR2510709_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510723/ERR2510723_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510723/ERR2510723_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510655/ERR2510655_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510655/ERR2510655_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510711/ERR2510711_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510711/ERR2510711_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510657/ERR2510657_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510657/ERR2510657_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510658/ERR2510658_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510658/ERR2510658_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510660/ERR2510660_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510660/ERR2510660_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510668/ERR2510668_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510668/ERR2510668_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510669/ERR2510669_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510669/ERR2510669_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510670/ERR2510670_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510670/ERR2510670_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510671/ERR2510671_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510671/ERR2510671_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510672/ERR2510672_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510672/ERR2510672_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510673/ERR2510673_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510673/ERR2510673_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510856/ERR2510856_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510856/ERR2510856_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510676/ERR2510676_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510676/ERR2510676_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510725/ERR2510725_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510725/ERR2510725_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510685/ERR2510685_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510685/ERR2510685_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510729/ERR2510729_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510729/ERR2510729_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510689/ERR2510689_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510689/ERR2510689_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510733/ERR2510733_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510733/ERR2510733_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510735/ERR2510735_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510735/ERR2510735_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510693/ERR2510693_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510693/ERR2510693_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510694/ERR2510694_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510694/ERR2510694_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510695/ERR2510695_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510695/ERR2510695_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510696/ERR2510696_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510696/ERR2510696_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510710/ERR2510710_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510710/ERR2510710_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510704/ERR2510704_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510704/ERR2510704_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510705/ERR2510705_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510705/ERR2510705_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510707/ERR2510707_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510707/ERR2510707_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510714/ERR2510714_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510714/ERR2510714_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510732/ERR2510732_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510732/ERR2510732_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510823/ERR2510823_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510823/ERR2510823_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510734/ERR2510734_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510734/ERR2510734_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510826/ERR2510826_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510826/ERR2510826_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510827/ERR2510827_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510827/ERR2510827_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510764/ERR2510764_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510764/ERR2510764_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510798/ERR2510798_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510798/ERR2510798_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510841/ERR2510841_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510841/ERR2510841_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510843/ERR2510843_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510843/ERR2510843_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510845/ERR2510845_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510845/ERR2510845_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510846/ERR2510846_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2510846/ERR2510846_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510832/ERR2510832_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510832/ERR2510832_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510834/ERR2510834_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510834/ERR2510834_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510848/ERR2510848_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2510848/ERR2510848_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510850/ERR2510850_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510850/ERR2510850_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510844/ERR2510844_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510844/ERR2510844_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510849/ERR2510849_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2510849/ERR2510849_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510852/ERR2510852_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510852/ERR2510852_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510853/ERR2510853_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510853/ERR2510853_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510854/ERR2510854_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510854/ERR2510854_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510855/ERR2510855_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510855/ERR2510855_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510857/ERR2510857_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510857/ERR2510857_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510862/ERR2510862_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510862/ERR2510862_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510863/ERR2510863_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2510863/ERR2510863_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510864/ERR2510864_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2510864/ERR2510864_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510865/ERR2510865_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2510865/ERR2510865_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510867/ERR2510867_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2510867/ERR2510867_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510851/ERR2510851_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510851/ERR2510851_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510872/ERR2510872_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510872/ERR2510872_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510880/ERR2510880_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2510880/ERR2510880_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510881/ERR2510881_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2510881/ERR2510881_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510882/ERR2510882_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2510882/ERR2510882_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/004/ERR4829604/ERR4829604_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/004/ERR4829604/ERR4829604_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917717/ERR5917717_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917717/ERR5917717_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917716/ERR5917716_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917716/ERR5917716_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917763/ERR5917763_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917763/ERR5917763_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917753/ERR5917753_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917753/ERR5917753_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917750/ERR5917750_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917750/ERR5917750_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917749/ERR5917749_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917749/ERR5917749_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917670/ERR5917670_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917670/ERR5917670_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917672/ERR5917672_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917672/ERR5917672_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917756/ERR5917756_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917756/ERR5917756_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917711/ERR5917711_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917711/ERR5917711_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917667/ERR5917667_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917667/ERR5917667_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917705/ERR5917705_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917705/ERR5917705_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917719/ERR5917719_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917719/ERR5917719_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917720/ERR5917720_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917720/ERR5917720_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917721/ERR5917721_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917721/ERR5917721_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917706/ERR5917706_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917706/ERR5917706_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917722/ERR5917722_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917722/ERR5917722_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917723/ERR5917723_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917723/ERR5917723_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917724/ERR5917724_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917724/ERR5917724_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917725/ERR5917725_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917725/ERR5917725_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917686/ERR5917686_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917686/ERR5917686_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917682/ERR5917682_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917682/ERR5917682_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917754/ERR5917754_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917754/ERR5917754_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917748/ERR5917748_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917748/ERR5917748_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917747/ERR5917747_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917747/ERR5917747_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917687/ERR5917687_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917687/ERR5917687_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917762/ERR5917762_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917762/ERR5917762_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917746/ERR5917746_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917746/ERR5917746_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917745/ERR5917745_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917745/ERR5917745_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917744/ERR5917744_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917744/ERR5917744_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917689/ERR5917689_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917689/ERR5917689_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917697/ERR5917697_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917697/ERR5917697_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917675/ERR5917675_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917675/ERR5917675_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917700/ERR5917700_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917700/ERR5917700_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917742/ERR5917742_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917742/ERR5917742_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917741/ERR5917741_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917741/ERR5917741_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917707/ERR5917707_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917707/ERR5917707_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917712/ERR5917712_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917712/ERR5917712_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917702/ERR5917702_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917702/ERR5917702_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917669/ERR5917669_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917669/ERR5917669_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917703/ERR5917703_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917703/ERR5917703_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917757/ERR5917757_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917757/ERR5917757_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917758/ERR5917758_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917758/ERR5917758_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917736/ERR5917736_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917736/ERR5917736_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917728/ERR5917728_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917728/ERR5917728_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917769/ERR5917769_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/009/ERR5917769/ERR5917769_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917678/ERR5917678_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917678/ERR5917678_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917767/ERR5917767_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/007/ERR5917767/ERR5917767_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917692/ERR5917692_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917692/ERR5917692_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917733/ERR5917733_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/003/ERR5917733/ERR5917733_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917734/ERR5917734_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917734/ERR5917734_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917664/ERR5917664_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/004/ERR5917664/ERR5917664_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917666/ERR5917666_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/006/ERR5917666/ERR5917666_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917738/ERR5917738_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/008/ERR5917738/ERR5917738_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917730/ERR5917730_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917730/ERR5917730_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917760/ERR5917760_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/000/ERR5917760/ERR5917760_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917731/ERR5917731_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/001/ERR5917731/ERR5917731_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917765/ERR5917765_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/005/ERR5917765/ERR5917765_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917732/ERR5917732_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR591/002/ERR5917732/ERR5917732_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4815604/ERR4815604_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4815604/ERR4815604_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/009/ERR4816369/ERR4816369_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/009/ERR4816369/ERR4816369_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4816380/ERR4816380_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4816380/ERR4816380_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/008/ERR4817208/ERR4817208_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/008/ERR4817208/ERR4817208_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4817820/ERR4817820_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4817820/ERR4817820_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4818911/ERR4818911_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/001/ERR4818911/ERR4818911_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4819115/ERR4819115_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/005/ERR4819115/ERR4819115_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4819204/ERR4819204_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/004/ERR4819204/ERR4819204_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4819360/ERR4819360_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR481/000/ERR4819360/ERR4819360_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/006/ERR4820776/ERR4820776_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/006/ERR4820776/ERR4820776_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/005/ERR4820865/ERR4820865_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/005/ERR4820865/ERR4820865_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/009/ERR4821059/ERR4821059_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR482/009/ERR4821059/ERR4821059_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/000/ERR8975760/ERR8975760_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/000/ERR8975760/ERR8975760_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975816/ERR8975816_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975816/ERR8975816_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515330/ERR2515330_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515330/ERR2515330_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516016/ERR2516016_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516016/ERR2516016_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515272/ERR2515272_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515272/ERR2515272_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515795/ERR2515795_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515795/ERR2515795_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515556/ERR2515556_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515556/ERR2515556_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515957/ERR2515957_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515957/ERR2515957_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515662/ERR2515662_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515662/ERR2515662_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516015/ERR2516015_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516015/ERR2516015_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515607/ERR2515607_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515607/ERR2515607_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515678/ERR2515678_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515678/ERR2515678_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516083/ERR2516083_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516083/ERR2516083_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515939/ERR2515939_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515939/ERR2515939_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515630/ERR2515630_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515630/ERR2515630_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515216/ERR2515216_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515216/ERR2515216_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515418/ERR2515418_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515418/ERR2515418_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515452/ERR2515452_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515452/ERR2515452_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515766/ERR2515766_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515766/ERR2515766_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516043/ERR2516043_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516043/ERR2516043_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516027/ERR2516027_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516027/ERR2516027_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515474/ERR2515474_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515474/ERR2515474_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515548/ERR2515548_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515548/ERR2515548_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515694/ERR2515694_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515694/ERR2515694_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515921/ERR2515921_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515921/ERR2515921_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516013/ERR2516013_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516013/ERR2516013_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515753/ERR2515753_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515753/ERR2515753_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515799/ERR2515799_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515799/ERR2515799_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515922/ERR2515922_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515922/ERR2515922_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516009/ERR2516009_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516009/ERR2516009_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515549/ERR2515549_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515549/ERR2515549_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515947/ERR2515947_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515947/ERR2515947_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515495/ERR2515495_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515495/ERR2515495_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515281/ERR2515281_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515281/ERR2515281_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515760/ERR2515760_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515760/ERR2515760_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515850/ERR2515850_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515850/ERR2515850_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516033/ERR2516033_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516033/ERR2516033_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515557/ERR2515557_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515557/ERR2515557_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515601/ERR2515601_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515601/ERR2515601_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515472/ERR2515472_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515472/ERR2515472_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515750/ERR2515750_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515750/ERR2515750_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515987/ERR2515987_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515987/ERR2515987_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515994/ERR2515994_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515994/ERR2515994_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516038/ERR2516038_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516038/ERR2516038_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515844/ERR2515844_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515844/ERR2515844_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515825/ERR2515825_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515825/ERR2515825_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515637/ERR2515637_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515637/ERR2515637_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515500/ERR2515500_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515500/ERR2515500_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515113/ERR2515113_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515113/ERR2515113_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515230/ERR2515230_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515230/ERR2515230_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516070/ERR2516070_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516070/ERR2516070_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515470/ERR2515470_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515470/ERR2515470_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515318/ERR2515318_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515318/ERR2515318_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515108/ERR2515108_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515108/ERR2515108_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516044/ERR2516044_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516044/ERR2516044_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515908/ERR2515908_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515908/ERR2515908_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515274/ERR2515274_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515274/ERR2515274_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515671/ERR2515671_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515671/ERR2515671_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515641/ERR2515641_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515641/ERR2515641_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515976/ERR2515976_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515976/ERR2515976_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515713/ERR2515713_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515713/ERR2515713_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515208/ERR2515208_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515208/ERR2515208_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515610/ERR2515610_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515610/ERR2515610_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515685/ERR2515685_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515685/ERR2515685_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516047/ERR2516047_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516047/ERR2516047_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515169/ERR2515169_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515169/ERR2515169_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515875/ERR2515875_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515875/ERR2515875_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515587/ERR2515587_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515587/ERR2515587_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515532/ERR2515532_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515532/ERR2515532_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515728/ERR2515728_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515728/ERR2515728_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515385/ERR2515385_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515385/ERR2515385_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515158/ERR2515158_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515158/ERR2515158_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515326/ERR2515326_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515326/ERR2515326_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515327/ERR2515327_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515327/ERR2515327_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515397/ERR2515397_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515397/ERR2515397_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515403/ERR2515403_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515403/ERR2515403_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515734/ERR2515734_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515734/ERR2515734_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515505/ERR2515505_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515505/ERR2515505_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515602/ERR2515602_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515602/ERR2515602_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515847/ERR2515847_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515847/ERR2515847_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515992/ERR2515992_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515992/ERR2515992_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515871/ERR2515871_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515871/ERR2515871_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515275/ERR2515275_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515275/ERR2515275_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515946/ERR2515946_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515946/ERR2515946_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516008/ERR2516008_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516008/ERR2516008_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515412/ERR2515412_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515412/ERR2515412_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515214/ERR2515214_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515214/ERR2515214_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515669/ERR2515669_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515669/ERR2515669_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515167/ERR2515167_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515167/ERR2515167_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515431/ERR2515431_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515431/ERR2515431_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515260/ERR2515260_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515260/ERR2515260_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515566/ERR2515566_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515566/ERR2515566_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515717/ERR2515717_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515717/ERR2515717_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515432/ERR2515432_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515432/ERR2515432_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515884/ERR2515884_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515884/ERR2515884_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515570/ERR2515570_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515570/ERR2515570_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515733/ERR2515733_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515733/ERR2515733_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515295/ERR2515295_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515295/ERR2515295_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515443/ERR2515443_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515443/ERR2515443_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515383/ERR2515383_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515383/ERR2515383_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515529/ERR2515529_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515529/ERR2515529_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515974/ERR2515974_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515974/ERR2515974_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515782/ERR2515782_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515782/ERR2515782_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515222/ERR2515222_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515222/ERR2515222_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515975/ERR2515975_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515975/ERR2515975_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516075/ERR2516075_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516075/ERR2516075_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515399/ERR2515399_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515399/ERR2515399_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515265/ERR2515265_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515265/ERR2515265_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515499/ERR2515499_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515499/ERR2515499_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515823/ERR2515823_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515823/ERR2515823_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515655/ERR2515655_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515655/ERR2515655_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516096/ERR2516096_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516096/ERR2516096_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515420/ERR2515420_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515420/ERR2515420_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515240/ERR2515240_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515240/ERR2515240_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515502/ERR2515502_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515502/ERR2515502_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516058/ERR2516058_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516058/ERR2516058_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515881/ERR2515881_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515881/ERR2515881_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515808/ERR2515808_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515808/ERR2515808_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515578/ERR2515578_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515578/ERR2515578_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515676/ERR2515676_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515676/ERR2515676_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515712/ERR2515712_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515712/ERR2515712_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515447/ERR2515447_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515447/ERR2515447_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516061/ERR2516061_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516061/ERR2516061_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515538/ERR2515538_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515538/ERR2515538_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515635/ERR2515635_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515635/ERR2515635_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516021/ERR2516021_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516021/ERR2516021_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515444/ERR2515444_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515444/ERR2515444_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515300/ERR2515300_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515300/ERR2515300_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515740/ERR2515740_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515740/ERR2515740_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515467/ERR2515467_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515467/ERR2515467_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515114/ERR2515114_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515114/ERR2515114_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515118/ERR2515118_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515118/ERR2515118_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515190/ERR2515190_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515190/ERR2515190_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515954/ERR2515954_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515954/ERR2515954_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515349/ERR2515349_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515349/ERR2515349_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515377/ERR2515377_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515377/ERR2515377_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515353/ERR2515353_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515353/ERR2515353_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515811/ERR2515811_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515811/ERR2515811_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515818/ERR2515818_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515818/ERR2515818_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515652/ERR2515652_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515652/ERR2515652_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515622/ERR2515622_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515622/ERR2515622_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515845/ERR2515845_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515845/ERR2515845_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515537/ERR2515537_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515537/ERR2515537_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516048/ERR2516048_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2516048/ERR2516048_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515656/ERR2515656_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515656/ERR2515656_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515522/ERR2515522_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515522/ERR2515522_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515916/ERR2515916_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515916/ERR2515916_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515257/ERR2515257_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515257/ERR2515257_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515572/ERR2515572_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515572/ERR2515572_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515461/ERR2515461_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515461/ERR2515461_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515964/ERR2515964_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515964/ERR2515964_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515278/ERR2515278_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515278/ERR2515278_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515596/ERR2515596_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515596/ERR2515596_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515608/ERR2515608_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515608/ERR2515608_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515793/ERR2515793_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515793/ERR2515793_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515160/ERR2515160_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515160/ERR2515160_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516062/ERR2516062_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516062/ERR2516062_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515972/ERR2515972_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515972/ERR2515972_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515125/ERR2515125_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515125/ERR2515125_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515289/ERR2515289_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515289/ERR2515289_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515261/ERR2515261_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515261/ERR2515261_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516050/ERR2516050_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516050/ERR2516050_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515731/ERR2515731_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515731/ERR2515731_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515951/ERR2515951_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515951/ERR2515951_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515303/ERR2515303_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515303/ERR2515303_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515858/ERR2515858_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515858/ERR2515858_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515932/ERR2515932_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515932/ERR2515932_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515714/ERR2515714_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515714/ERR2515714_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515187/ERR2515187_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515187/ERR2515187_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515985/ERR2515985_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515985/ERR2515985_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515831/ERR2515831_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515831/ERR2515831_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515504/ERR2515504_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515504/ERR2515504_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515582/ERR2515582_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515582/ERR2515582_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515381/ERR2515381_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515381/ERR2515381_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516073/ERR2516073_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516073/ERR2516073_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515780/ERR2515780_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515780/ERR2515780_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515468/ERR2515468_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515468/ERR2515468_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515677/ERR2515677_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515677/ERR2515677_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515893/ERR2515893_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515893/ERR2515893_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515767/ERR2515767_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515767/ERR2515767_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515434/ERR2515434_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515434/ERR2515434_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515429/ERR2515429_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515429/ERR2515429_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515255/ERR2515255_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515255/ERR2515255_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516052/ERR2516052_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2516052/ERR2516052_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515264/ERR2515264_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515264/ERR2515264_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515379/ERR2515379_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515379/ERR2515379_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516074/ERR2516074_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516074/ERR2516074_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515730/ERR2515730_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515730/ERR2515730_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515168/ERR2515168_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515168/ERR2515168_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515638/ERR2515638_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515638/ERR2515638_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515459/ERR2515459_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515459/ERR2515459_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515843/ERR2515843_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515843/ERR2515843_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515207/ERR2515207_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515207/ERR2515207_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515769/ERR2515769_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515769/ERR2515769_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515813/ERR2515813_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515813/ERR2515813_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515388/ERR2515388_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515388/ERR2515388_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515359/ERR2515359_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515359/ERR2515359_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515336/ERR2515336_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515336/ERR2515336_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515692/ERR2515692_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515692/ERR2515692_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515574/ERR2515574_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515574/ERR2515574_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515185/ERR2515185_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515185/ERR2515185_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515127/ERR2515127_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515127/ERR2515127_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515889/ERR2515889_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515889/ERR2515889_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515392/ERR2515392_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515392/ERR2515392_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516071/ERR2516071_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516071/ERR2516071_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515707/ERR2515707_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515707/ERR2515707_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515620/ERR2515620_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515620/ERR2515620_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515394/ERR2515394_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515394/ERR2515394_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515516/ERR2515516_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515516/ERR2515516_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515621/ERR2515621_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515621/ERR2515621_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515913/ERR2515913_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515913/ERR2515913_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515370/ERR2515370_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515370/ERR2515370_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515424/ERR2515424_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515424/ERR2515424_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515251/ERR2515251_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515251/ERR2515251_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516039/ERR2516039_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516039/ERR2516039_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515775/ERR2515775_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515775/ERR2515775_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515357/ERR2515357_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515357/ERR2515357_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515428/ERR2515428_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515428/ERR2515428_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515400/ERR2515400_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515400/ERR2515400_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516000/ERR2516000_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516000/ERR2516000_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515555/ERR2515555_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515555/ERR2515555_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515193/ERR2515193_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515193/ERR2515193_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515367/ERR2515367_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515367/ERR2515367_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515624/ERR2515624_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515624/ERR2515624_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515171/ERR2515171_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515171/ERR2515171_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515687/ERR2515687_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515687/ERR2515687_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515164/ERR2515164_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515164/ERR2515164_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515991/ERR2515991_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515991/ERR2515991_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515409/ERR2515409_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515409/ERR2515409_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515478/ERR2515478_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515478/ERR2515478_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515363/ERR2515363_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515363/ERR2515363_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515718/ERR2515718_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515718/ERR2515718_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515865/ERR2515865_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515865/ERR2515865_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515618/ERR2515618_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515618/ERR2515618_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515343/ERR2515343_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515343/ERR2515343_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515202/ERR2515202_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515202/ERR2515202_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515691/ERR2515691_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515691/ERR2515691_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515451/ERR2515451_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515451/ERR2515451_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515748/ERR2515748_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515748/ERR2515748_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515130/ERR2515130_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515130/ERR2515130_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515247/ERR2515247_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515247/ERR2515247_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515679/ERR2515679_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515679/ERR2515679_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515870/ERR2515870_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515870/ERR2515870_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515332/ERR2515332_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515332/ERR2515332_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515323/ERR2515323_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515323/ERR2515323_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515352/ERR2515352_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515352/ERR2515352_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515900/ERR2515900_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515900/ERR2515900_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515701/ERR2515701_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515701/ERR2515701_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515438/ERR2515438_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515438/ERR2515438_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515661/ERR2515661_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515661/ERR2515661_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516086/ERR2516086_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2516086/ERR2516086_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515603/ERR2515603_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515603/ERR2515603_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515445/ERR2515445_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515445/ERR2515445_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515777/ERR2515777_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515777/ERR2515777_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515506/ERR2515506_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515506/ERR2515506_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515266/ERR2515266_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515266/ERR2515266_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515407/ERR2515407_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515407/ERR2515407_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515917/ERR2515917_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515917/ERR2515917_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515119/ERR2515119_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515119/ERR2515119_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515643/ERR2515643_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515643/ERR2515643_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515552/ERR2515552_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515552/ERR2515552_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516067/ERR2516067_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516067/ERR2516067_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515342/ERR2515342_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515342/ERR2515342_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515970/ERR2515970_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515970/ERR2515970_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515948/ERR2515948_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515948/ERR2515948_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515442/ERR2515442_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515442/ERR2515442_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515791/ERR2515791_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515791/ERR2515791_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515209/ERR2515209_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515209/ERR2515209_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515301/ERR2515301_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515301/ERR2515301_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516025/ERR2516025_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516025/ERR2516025_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515623/ERR2515623_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515623/ERR2515623_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515995/ERR2515995_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515995/ERR2515995_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515774/ERR2515774_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515774/ERR2515774_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515482/ERR2515482_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515482/ERR2515482_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515356/ERR2515356_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515356/ERR2515356_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515166/ERR2515166_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515166/ERR2515166_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515246/ERR2515246_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515246/ERR2515246_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515937/ERR2515937_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515937/ERR2515937_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515709/ERR2515709_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515709/ERR2515709_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515882/ERR2515882_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515882/ERR2515882_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515737/ERR2515737_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515737/ERR2515737_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515890/ERR2515890_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515890/ERR2515890_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515612/ERR2515612_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515612/ERR2515612_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515417/ERR2515417_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515417/ERR2515417_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515371/ERR2515371_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515371/ERR2515371_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515571/ERR2515571_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515571/ERR2515571_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515228/ERR2515228_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515228/ERR2515228_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515112/ERR2515112_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515112/ERR2515112_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515304/ERR2515304_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515304/ERR2515304_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515252/ERR2515252_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515252/ERR2515252_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515488/ERR2515488_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515488/ERR2515488_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516007/ERR2516007_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516007/ERR2516007_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515606/ERR2515606_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515606/ERR2515606_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516020/ERR2516020_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2516020/ERR2516020_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515874/ERR2515874_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515874/ERR2515874_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515963/ERR2515963_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515963/ERR2515963_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515781/ERR2515781_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515781/ERR2515781_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515664/ERR2515664_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515664/ERR2515664_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516001/ERR2516001_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516001/ERR2516001_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515949/ERR2515949_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515949/ERR2515949_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515390/ERR2515390_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515390/ERR2515390_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516031/ERR2516031_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516031/ERR2516031_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515117/ERR2515117_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515117/ERR2515117_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515360/ERR2515360_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515360/ERR2515360_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515755/ERR2515755_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515755/ERR2515755_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515938/ERR2515938_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515938/ERR2515938_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515903/ERR2515903_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515903/ERR2515903_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515126/ERR2515126_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515126/ERR2515126_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515189/ERR2515189_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515189/ERR2515189_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515565/ERR2515565_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515565/ERR2515565_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515952/ERR2515952_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515952/ERR2515952_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515423/ERR2515423_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515423/ERR2515423_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515218/ERR2515218_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515218/ERR2515218_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516069/ERR2516069_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516069/ERR2516069_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515147/ERR2515147_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515147/ERR2515147_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515682/ERR2515682_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515682/ERR2515682_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515107/ERR2515107_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515107/ERR2515107_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515997/ERR2515997_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515997/ERR2515997_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515759/ERR2515759_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515759/ERR2515759_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515628/ERR2515628_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515628/ERR2515628_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515486/ERR2515486_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515486/ERR2515486_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515310/ERR2515310_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515310/ERR2515310_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515284/ERR2515284_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515284/ERR2515284_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515614/ERR2515614_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515614/ERR2515614_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516004/ERR2516004_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2516004/ERR2516004_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515634/ERR2515634_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515634/ERR2515634_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515615/ERR2515615_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515615/ERR2515615_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515724/ERR2515724_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515724/ERR2515724_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515249/ERR2515249_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515249/ERR2515249_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515163/ERR2515163_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515163/ERR2515163_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515346/ERR2515346_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515346/ERR2515346_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515554/ERR2515554_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515554/ERR2515554_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515933/ERR2515933_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515933/ERR2515933_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515705/ERR2515705_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515705/ERR2515705_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515633/ERR2515633_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515633/ERR2515633_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515227/ERR2515227_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2515227/ERR2515227_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515109/ERR2515109_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515109/ERR2515109_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515410/ERR2515410_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515410/ERR2515410_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515915/ERR2515915_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515915/ERR2515915_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516057/ERR2516057_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/007/ERR2516057/ERR2516057_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515210/ERR2515210_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515210/ERR2515210_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516063/ERR2516063_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2516063/ERR2516063_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515182/ERR2515182_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515182/ERR2515182_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515754/ERR2515754_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515754/ERR2515754_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515213/ERR2515213_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515213/ERR2515213_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515361/ERR2515361_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515361/ERR2515361_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515541/ERR2515541_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515541/ERR2515541_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515864/ERR2515864_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515864/ERR2515864_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515544/ERR2515544_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515544/ERR2515544_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515910/ERR2515910_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515910/ERR2515910_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516005/ERR2516005_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2516005/ERR2516005_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515658/ERR2515658_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515658/ERR2515658_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515839/ERR2515839_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515839/ERR2515839_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515248/ERR2515248_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515248/ERR2515248_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515199/ERR2515199_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515199/ERR2515199_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515965/ERR2515965_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515965/ERR2515965_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515739/ERR2515739_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515739/ERR2515739_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515319/ERR2515319_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515319/ERR2515319_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515473/ERR2515473_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/003/ERR2515473/ERR2515473_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515331/ERR2515331_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2515331/ERR2515331_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515152/ERR2515152_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/002/ERR2515152/ERR2515152_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516019/ERR2516019_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2516019/ERR2516019_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515325/ERR2515325_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515325/ERR2515325_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515238/ERR2515238_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515238/ERR2515238_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515735/ERR2515735_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/005/ERR2515735/ERR2515735_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515758/ERR2515758_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515758/ERR2515758_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515448/ERR2515448_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/008/ERR2515448/ERR2515448_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515744/ERR2515744_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/004/ERR2515744/ERR2515744_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516091/ERR2516091_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/001/ERR2516091/ERR2516091_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515466/ERR2515466_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/006/ERR2515466/ERR2515466_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515720/ERR2515720_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/000/ERR2515720/ERR2515720_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515909/ERR2515909_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR251/009/ERR2515909/ERR2515909_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975916/ERR8975916_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/006/ERR8975916/ERR8975916_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975688/ERR8975688_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975688/ERR8975688_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975668/ERR8975668_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/008/ERR8975668/ERR8975668_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/002/ERR8975672/ERR8975672_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR897/002/ERR8975672/ERR8975672_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1162725/SRR1162725_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1162725/SRR1162725_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1163085/SRR1163085_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1163085/SRR1163085_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/003/SRR1144753/SRR1144753_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/003/SRR1144753/SRR1144753_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1162958/SRR1162958_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1162958/SRR1162958_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163093/SRR1163093_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163093/SRR1163093_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/006/SRR1144816/SRR1144816_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/006/SRR1144816/SRR1144816_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1163360/SRR1163360_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1163360/SRR1163360_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163218/SRR1163218_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163218/SRR1163218_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1163087/SRR1163087_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1163087/SRR1163087_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1146278/SRR1146278_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1146278/SRR1146278_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144758/SRR1144758_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144758/SRR1144758_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/004/SRR1144784/SRR1144784_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/004/SRR1144784/SRR1144784_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/002/SRR1144772/SRR1144772_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/002/SRR1144772/SRR1144772_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144788/SRR1144788_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR114/008/SRR1144788/SRR1144788_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163078/SRR1163078_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163078/SRR1163078_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165546/SRR1165546_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165546/SRR1165546_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1165369/SRR1165369_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1165369/SRR1165369_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1165525/SRR1165525_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/005/SRR1165525/SRR1165525_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162822/SRR1162822_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162822/SRR1162822_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1165572/SRR1165572_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1165572/SRR1165572_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1165427/SRR1165427_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1165427/SRR1165427_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162887/SRR1162887_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162887/SRR1162887_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162867/SRR1162867_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/007/SRR1162867/SRR1162867_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162842/SRR1162842_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162842/SRR1162842_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1165601/SRR1165601_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1165601/SRR1165601_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1162829/SRR1162829_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/009/SRR1162829/SRR1162829_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163288/SRR1163288_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/008/SRR1163288/SRR1163288_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165530/SRR1165530_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165530/SRR1165530_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1163294/SRR1163294_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1163294/SRR1163294_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162873/SRR1162873_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162873/SRR1162873_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1163462/SRR1163462_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1163462/SRR1163462_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163031/SRR1163031_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163031/SRR1163031_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165366/SRR1165366_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1165366/SRR1165366_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163223/SRR1163223_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1163223/SRR1163223_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1162900/SRR1162900_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1162900/SRR1162900_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165450/SRR1165450_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/000/SRR1165450/SRR1165450_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162812/SRR1162812_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/002/SRR1162812/SRR1162812_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163041/SRR1163041_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/001/SRR1163041/SRR1163041_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162803/SRR1162803_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/003/SRR1162803/SRR1162803_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1162754/SRR1162754_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/004/SRR1162754/SRR1162754_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1162726/SRR1162726_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/SRR116/006/SRR1162726/SRR1162726_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125843/ERR9125843_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125843/ERR9125843_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125714/ERR9125714_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125714/ERR9125714_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125036/ERR9125036_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125036/ERR9125036_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125069/ERR9125069_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125069/ERR9125069_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125184/ERR9125184_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125184/ERR9125184_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125123/ERR9125123_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125123/ERR9125123_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125213/ERR9125213_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125213/ERR9125213_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125268/ERR9125268_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125268/ERR9125268_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125281/ERR9125281_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125281/ERR9125281_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125282/ERR9125282_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125282/ERR9125282_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9125285/ERR9125285_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9125285/ERR9125285_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125301/ERR9125301_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125301/ERR9125301_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125303/ERR9125303_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125303/ERR9125303_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125306/ERR9125306_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125306/ERR9125306_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125330/ERR9125330_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125330/ERR9125330_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125331/ERR9125331_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/001/ERR9125331/ERR9125331_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125342/ERR9125342_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/002/ERR9125342/ERR9125342_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125443/ERR9125443_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125443/ERR9125443_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125454/ERR9125454_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9125454/ERR9125454_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125456/ERR9125456_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125456/ERR9125456_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125459/ERR9125459_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125459/ERR9125459_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125468/ERR9125468_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125468/ERR9125468_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125470/ERR9125470_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125470/ERR9125470_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125473/ERR9125473_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125473/ERR9125473_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125476/ERR9125476_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125476/ERR9125476_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125479/ERR9125479_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/009/ERR9125479/ERR9125479_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125480/ERR9125480_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125480/ERR9125480_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125498/ERR9125498_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125498/ERR9125498_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125253/ERR9125253_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/003/ERR9125253/ERR9125253_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125510/ERR9125510_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9125510/ERR9125510_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125418/ERR9125418_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125418/ERR9125418_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125718/ERR9125718_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9125718/ERR9125718_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9125427/ERR9125427_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9125427/ERR9125427_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125486/ERR9125486_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/006/ERR9125486/ERR9125486_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9121240/ERR9121240_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/000/ERR9121240/ERR9121240_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9121538/ERR9121538_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/008/ERR9121538/ERR9121538_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121655/ERR9121655_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121655/ERR9121655_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9121714/ERR9121714_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/004/ERR9121714/ERR9121714_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121745/ERR9121745_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121745/ERR9121745_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9121747/ERR9121747_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/007/ERR9121747/ERR9121747_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121205/ERR9121205_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR912/005/ERR9121205/ERR9121205_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/006/ERR9119126/ERR9119126_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/006/ERR9119126/ERR9119126_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/007/ERR9119127/ERR9119127_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/007/ERR9119127/ERR9119127_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/008/ERR9119128/ERR9119128_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/008/ERR9119128/ERR9119128_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/009/ERR9119129/ERR9119129_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/009/ERR9119129/ERR9119129_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/000/ERR9119130/ERR9119130_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/000/ERR9119130/ERR9119130_2.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/001/ERR9119131/ERR9119131_1.fastq.gz
+wget --tries=3 --no-clobber --retry-connrefused ftp.sra.ebi.ac.uk/vol1/fastq/ERR911/001/ERR9119131/ERR9119131_2.fastq.gz

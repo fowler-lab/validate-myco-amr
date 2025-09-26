@@ -3,25 +3,25 @@
     "Organism Identification": {
         "Human Reads": null,
         "Unclassified Reads": 36,
-        "Non-Mycobacterium Bacteria Reads": 1224,
-        "Mycobacterium Reads": 3002454
+        "Non-Mycobacterium Bacteria Reads": 1176,
+        "Mycobacterium Reads": 3002318
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 4.3.4.2)",
-                "Num Reads": 2959294,
-                "Coverage": 92.5415,
-                "Depth": 95.8541
+                "Num Reads": 2959288,
+                "Coverage": 92.5419,
+                "Depth": 95.8539
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 2959294,
-                "Coverage": 92.5415,
-                "Mean Depth": 95.8541,
-                "Length": 4411532.0
+                "Num Reads": 2959288,
+                "Coverage": 92.5419,
+                "Mean Depth": 95.8539,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -34,7 +34,7 @@
         "Subspecies": [
             {
                 "Name": "Mycobacterium_tuberculosis",
-                "Coverage": 89.76,
+                "Coverage": 89.747,
                 "Median Depth": 97
             }
         ],
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage4.3.4.2",
                 "Coverage": 100,
-                "Median Depth": 203
+                "Median Depth": 63
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 2959294,
-                "Coverage": 90.0097,
-                "Mean Depth": 95.8541,
-                "Mixed calls": 75,
-                "Null calls": 440724,
+                "Num Reads": 2959288,
+                "Coverage": 90.009,
+                "Mean Depth": 95.8539,
+                "Mixed calls": 78,
+                "Null calls": 440757,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -64,7 +64,7 @@
                         "Isoniazid (INH)": "S",
                         "Rifampicin (RIF)": "S",
                         "Pyrazinamide (PZA)": "S",
-                        "Ethambutol (EMB)": "S"
+                        "Ethambutol (EMB)": "F"
                     },
                     "Second-line treatment": {
                         "Moxifloxacin (MXF)": "S",
@@ -78,10 +78,40 @@
                         "Streptomycin (STM)": "S",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "S",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
+                    {
+                        "Drug Name": "EMB",
+                        "Mutations": [
+                            {
+                                "Gene": "embB",
+                                "Mutation": "G406X",
+                                "Position": 406,
+                                "Ref": "ggc",
+                                "Alt": "xxx",
+                                "Coverage": [
+                                    null,
+                                    null
+                                ],
+                                "Prediction": "F",
+                                "Evidence": {
+                                    "Resistant prediction": "G406A",
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 279,
+                                        "Present_SOLO_R": 148,
+                                        "Present_SOLO_S": 131
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "embB_p.Gly406Ala"
+                                }
+                            }
+                        ]
+                    },
                     {
                         "Drug Name": "LZD",
                         "Mutations": [
@@ -107,15 +137,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

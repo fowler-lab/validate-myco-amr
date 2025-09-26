@@ -2,15 +2,15 @@
   "meta": {
     "status": "success",
     "workflow_name": "gnomonicus",
-    "workflow_version": "2.6.8",
+    "workflow_version": "3.0.10",
     "workflow_task": "resistance_prediction",
-    "guid": "final",
-    "UTC-datetime-completed": "2024-07-13T06:33:10.198133",
-    "time_taken_s": 79.11009764671326,
+    "guid": "101acf77-607b-45bf-940e-002023fcbc70.clean",
+    "UTC-datetime-completed": "2025-09-20T09:31:14.468979",
+    "time_taken_s": 4.822513580322266,
     "reference": "NC_000962",
-    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
+    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
     "reference_file": "NC_000962.3.gbk",
-    "vcf_file": "final.vcf",
+    "vcf_file": "101acf77-607b-45bf-940e-002023fcbc70.clean.vcf",
     "catalogue_type": "RFUS",
     "catalogue_name": "WHO-UCN-GTB-PCI-2023.5",
     "catalogue_version": 2.0
@@ -35,33 +35,97 @@
     },
     "variants": [
       {
+        "variant": "1304322c>x",
+        "nucleotide_index": 1304322,
+        "gene_name": "fbiC",
+        "gene_position": 464,
+        "codon_idx": 2,
+        "vcf_evidence": {
+          "ALLELE_DP": [
+            0,
+            2
+          ],
+          "COV_TOTAL": 2,
+          "GT_CONF": 9.65,
+          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 21.73,
+          "COV": [
+            0,
+            2
+          ],
+          "DP": 2,
+          "GT": [
+            1,
+            1
+          ],
+          "POS": 1304322,
+          "REF": "c",
+          "ALTS": [
+            "a"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
         "variant": "7362g>c",
         "nucleotide_index": 7362,
         "gene_name": "gyrA",
         "gene_position": 21,
         "codon_idx": 0,
         "vcf_evidence": {
+          "ALLELE_DP": [
+            0,
+            73
+          ],
+          "FRS": 1.0,
           "GT": [
             1,
             1
           ],
-          "DP": 73.0,
-          "ALLELE_DP": [
-            0.0,
-            73.0
-          ],
-          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 80.96,
+          "DP": 73,
           "COV_TOTAL": 73,
+          "GT_CONF": 447.41,
           "COV": [
             0,
             73
           ],
-          "GT_CONF": 447.49,
-          "GT_CONF_PERCENTILE": 82.02,
           "POS": 7362,
           "REF": "g",
           "ALTS": [
             "c"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
+        "variant": "776546c>t",
+        "nucleotide_index": 776546,
+        "gene_name": "mmpL5",
+        "gene_position": 645,
+        "codon_idx": 2,
+        "vcf_evidence": {
+          "DP": 218,
+          "COV": [
+            0,
+            218
+          ],
+          "COV_TOTAL": 218,
+          "ALLELE_DP": [
+            0,
+            218
+          ],
+          "GT_CONF_PERCENTILE": 94.77,
+          "GT": [
+            1,
+            1
+          ],
+          "GT_CONF": 1346.87,
+          "FRS": 1.0,
+          "POS": 776546,
+          "REF": "c",
+          "ALTS": [
+            "t"
           ]
         },
         "vcf_idx": 1
@@ -77,19 +141,19 @@
             1,
             1
           ],
-          "DP": 54.0,
           "ALLELE_DP": [
-            0.0,
-            54.0
+            0,
+            54
           ],
           "FRS": 1.0,
+          "GT_CONF": 329.69,
+          "GT_CONF_PERCENTILE": 76.1,
           "COV_TOTAL": 54,
+          "DP": 54,
           "COV": [
             0,
             54
           ],
-          "GT_CONF": 329.77,
-          "GT_CONF_PERCENTILE": 77.08,
           "POS": 801355,
           "REF": "c",
           "ALTS": [
@@ -97,9 +161,80 @@
           ]
         },
         "vcf_idx": 1
+      },
+      {
+        "variant": "1917972a>x",
+        "nucleotide_index": 1917972,
+        "gene_name": "tlyA",
+        "gene_position": 11,
+        "codon_idx": 2,
+        "vcf_evidence": {
+          "GT": [
+            1,
+            1
+          ],
+          "FRS": 1.0,
+          "DP": 1,
+          "COV": [
+            0,
+            1
+          ],
+          "COV_TOTAL": 1,
+          "GT_CONF_PERCENTILE": 9.24,
+          "GT_CONF": 4.02,
+          "ALLELE_DP": [
+            0,
+            1
+          ],
+          "POS": 1917972,
+          "REF": "a",
+          "ALTS": [
+            "g"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
+        "variant": "1917977g>x",
+        "nucleotide_index": 1917977,
+        "gene_name": "tlyA",
+        "gene_position": 13,
+        "codon_idx": 1,
+        "vcf_evidence": {
+          "COV": [
+            0,
+            1
+          ],
+          "FRS": 1.0,
+          "ALLELE_DP": [
+            0,
+            1
+          ],
+          "DP": 1,
+          "GT_CONF_PERCENTILE": 9.24,
+          "GT_CONF": 4.02,
+          "COV_TOTAL": 1,
+          "GT": [
+            1,
+            1
+          ],
+          "POS": 1917977,
+          "REF": "g",
+          "ALTS": [
+            "a"
+          ]
+        },
+        "vcf_idx": 1
       }
     ],
     "mutations": [
+      {
+        "gene": "fbiC",
+        "gene_position": 464,
+        "mutation": "S464X",
+        "ref": "agc",
+        "alt": "agx"
+      },
       {
         "gene": "gyrA",
         "gene_position": 21,
@@ -108,11 +243,32 @@
         "alt": "cag"
       },
       {
+        "gene": "mmpL5",
+        "gene_position": 645,
+        "mutation": "M645I",
+        "ref": "atg",
+        "alt": "ata"
+      },
+      {
         "gene": "rplC",
         "gene_position": 183,
         "mutation": "H183Y",
         "ref": "cat",
         "alt": "tat"
+      },
+      {
+        "gene": "tlyA",
+        "gene_position": 11,
+        "mutation": "L11X",
+        "ref": "cta",
+        "alt": "ctx"
+      },
+      {
+        "gene": "tlyA",
+        "gene_position": 13,
+        "mutation": "R13X",
+        "ref": "cgg",
+        "alt": "cxg"
       }
     ],
     "effects": {

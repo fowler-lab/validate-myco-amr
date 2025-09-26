@@ -2,15 +2,15 @@
   "meta": {
     "status": "success",
     "workflow_name": "gnomonicus",
-    "workflow_version": "2.6.8",
+    "workflow_version": "3.0.10",
     "workflow_task": "resistance_prediction",
-    "guid": "final",
-    "UTC-datetime-completed": "2024-07-13T04:45:13.009022",
-    "time_taken_s": 230.53964185714722,
+    "guid": "31cfb175-7e5d-4673-b306-3dba74b102eb.clean",
+    "UTC-datetime-completed": "2025-09-20T08:54:48.100810",
+    "time_taken_s": 5.618072271347046,
     "reference": "NC_000962",
-    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
+    "catalogue_file": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
     "reference_file": "NC_000962.3.gbk",
-    "vcf_file": "final.vcf",
+    "vcf_file": "31cfb175-7e5d-4673-b306-3dba74b102eb.clean.vcf",
     "catalogue_type": "RFUS",
     "catalogue_name": "WHO-UCN-GTB-PCI-2023.5",
     "catalogue_version": 2.0
@@ -35,29 +35,93 @@
     },
     "variants": [
       {
+        "variant": "3339734c>g:9",
+        "nucleotide_index": 3339734,
+        "gene_name": "Rv2983",
+        "gene_position": 206,
+        "codon_idx": 1,
+        "vcf_evidence": {
+          "COV_TOTAL": 27,
+          "COV": [
+            18,
+            9
+          ],
+          "GT_CONF_PERCENTILE": 0.12,
+          "ALLELE_DP": [
+            18,
+            9
+          ],
+          "DP": 18,
+          "GT_CONF": 57.1,
+          "GT": [
+            0,
+            0
+          ],
+          "FRS": 0.6667,
+          "POS": 3339734,
+          "REF": "c",
+          "ALTS": [
+            "g"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
+        "variant": "4246584g>c:10",
+        "nucleotide_index": 4246584,
+        "gene_name": "embB",
+        "gene_position": 24,
+        "codon_idx": 1,
+        "vcf_evidence": {
+          "DP": 15,
+          "FRS": 0.6,
+          "GT": [
+            0,
+            0
+          ],
+          "ALLELE_DP": [
+            15,
+            10
+          ],
+          "COV": [
+            15,
+            10
+          ],
+          "COV_TOTAL": 25,
+          "GT_CONF": 31.76,
+          "GT_CONF_PERCENTILE": 0.04,
+          "POS": 4246584,
+          "REF": "g",
+          "ALTS": [
+            "c"
+          ]
+        },
+        "vcf_idx": 1
+      },
+      {
         "variant": "4247429a>g",
         "nucleotide_index": 4247429,
         "gene_name": "embB",
         "gene_position": 306,
         "codon_idx": 0,
         "vcf_evidence": {
+          "GT_CONF_PERCENTILE": 83.26,
+          "GT_CONF": 974.68,
+          "DP": 154,
+          "FRS": 1.0,
           "GT": [
             1,
             1
           ],
-          "DP": 154.0,
-          "ALLELE_DP": [
-            0.0,
-            154.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 154,
           "COV": [
             0,
             154
           ],
-          "GT_CONF": 975.1,
-          "GT_CONF_PERCENTILE": 83.28,
+          "ALLELE_DP": [
+            0,
+            154
+          ],
+          "COV_TOTAL": 154,
           "POS": 4247429,
           "REF": "a",
           "ALTS": [
@@ -73,23 +137,23 @@
         "gene_position": 1082,
         "codon_idx": 0,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 136.0,
-          "ALLELE_DP": [
-            0.0,
-            136.0
-          ],
-          "FRS": 1.0,
           "COV_TOTAL": 136,
           "COV": [
             0,
             136
           ],
-          "GT_CONF": 863.53,
-          "GT_CONF_PERCENTILE": 76.72,
+          "GT": [
+            1,
+            1
+          ],
+          "GT_CONF_PERCENTILE": 76.5,
+          "DP": 136,
+          "GT_CONF": 863.11,
+          "ALLELE_DP": [
+            0,
+            136
+          ],
+          "FRS": 1.0,
           "POS": 4249757,
           "REF": "a",
           "ALTS": [
@@ -102,26 +166,26 @@
         "variant": "4326900_del_gcacgagcgtgaccgccgttgcgccactgccgatcacgacgatgttcttagcgtcgtagtcgaggtcctcgggccagtgctgcggatggatgatcggcccgacgaaatcctccgagccggcgaatctcggcgagtagccctcgtcgtagttgtagtagccgctgcacagaaagaggaattcgcaggtgagggcgctgagcgtgccgtggctttggatgtgaacggtccagcggttttccgcggtcgaccaatcggcactgatcaccttgtggtggaaccggatatgcctgtcgattccatacatggccgcggtgctcttgacgtactcgaggatgggcttgccgtcggcgatcgcctgccgtccggtccagggacggaatcggaaacctagcgtgtacatgtcggagtcggagcgaattccgggataacggaacaaatcccaggtgccgcccatggattcccgcttttccaggatggcgtagctcttggtcgggcaacggtcctgcaggtgccaggccgcgctgacaccggagattccagcgcccacgatgacaacgtcgaggtgctcggtcatggatccacgctatcaacgtaatgtcgaggccgtcaacgagatgtcgacactatcgacacgtagtaagctgccagggtgaccacctccgcggccagtcaggcttcgctgcctaggggccggcgcaccgcgcggccgtccggcgacgatcgtgaactggcgatcctcgccaccgccgagaaccttctcgaggaccgtccgctggccgatatctcggtcgacgatctggccaagggcgccggtatctcgaggccgacgttctacttctatttcccatccaaggaagcggtgctgctgaccctgctggaccgggtggtcaatcaagccgacatggccctacagacccttgccgagaatcccgccgacaccgaccgcgagaacatgtggcgcaccgggatcaacgtgttcttcgagacattcgggtcgcacaaggcggtaacccgagccggtcaggccgccagggcaaccagtgtcgaagtcgccgaactgtggtcgacgtttatgcagaagtggatcgcctacacggccgccgtgatcgacgccgaacgcgaccgaggcgcggcgccgcgcaccctgccggcccatgaactggccacagcgctcaacctgatgaacgagcggacgctgttcgcgtcattcgccggcgaacagccctcggtgccggaagcccgcgtgctggatacgctggtgcacatctgggtgaccagcatttacggcgagaaccgctaagccgcactcggtcgggggtgctcggtcgatgctcagtgccaaagcggcatgcagatctcacggaggtccggtggacgatctggcagccgaagtggcgccttgggtaggcaatggcgtgcggtcatataggagcgggtgcattcgcatgtcggacacgtggcgttgccgcctggtaccgcggtgttcgtggccgacagcgggctaatgcgacccggtccacgccaggagcgtgtcggccggccaggtgttgacgatccggtcggcgggcacctccgcgtccaaggcgcgctgggcgccgtagccgaggaagtccagctggccgggtgcgtgcgcgtcggtgtcgatgc",
         "nucleotide_index": 4326900,
         "gene_name": "ethA",
-        "gene_position": null,
-        "codon_idx": null,
+        "gene_position": -38,
+        "codon_idx": 0,
         "vcf_evidence": {
+          "COV_TOTAL": 144,
+          "GT_CONF": 833.34,
           "GT": [
             1,
             1
           ],
-          "DP": 144.0,
+          "DP": 144,
           "ALLELE_DP": [
-            0.007300000172108412,
-            144.0
+            0.0073,
+            144
           ],
           "FRS": 1.0,
-          "COV_TOTAL": 144,
+          "GT_CONF_PERCENTILE": 74.38,
           "COV": [
             0,
             132
           ],
-          "GT_CONF": 833.65,
-          "GT_CONF_PERCENTILE": 74.55,
           "POS": 4326899,
           "REF": "ggcacgagcgtgaccgccgttgcgccactgccgatcacgacgatgttcttagcgtcgtagtcgaggtcctcgggccagtgctgcggatggatgatcggcccgacgaaatcctccgagccggcgaatctcggcgagtagccctcgtcgtagttgtagtagccgctgcacagaaagaggaattcgcaggtgagggcgctgagcgtgccgtggctttggatgtgaacggtccagcggttttccgcggtcgaccaatcggcactgatcaccttgtggtggaaccggatatgcctgtcgattccatacatggccgcggtgctcttgacgtactcgaggatgggcttgccgtcggcgatcgcctgccgtccggtccagggacggaatcggaaacctagcgtgtacatgtcggagtcggagcgaattccgggataacggaacaaatcccaggtgccgcccatggattcccgcttttccaggatggcgtagctcttggtcgggcaacggtcctgcaggtgccaggccgcgctgacaccggagattccagcgcccacgatgacaacgtcgaggtgctcggtcatggatccacgctatcaacgtaatgtcgaggccgtcaacgagatgtcgacactatcgacacgtagtaagctgccagggtgaccacctccgcggccagtcaggcttcgctgcctaggggccggcgcaccgcgcggccgtccggcgacgatcgtgaactggcgatcctcgccaccgccgagaaccttctcgaggaccgtccgctggccgatatctcggtcgacgatctggccaagggcgccggtatctcgaggccgacgttctacttctatttcccatccaaggaagcggtgctgctgaccctgctggaccgggtggtcaatcaagccgacatggccctacagacccttgccgagaatcccgccgacaccgaccgcgagaacatgtggcgcaccgggatcaacgtgttcttcgagacattcgggtcgcacaaggcggtaacccgagccggtcaggccgccagggcaaccagtgtcgaagtcgccgaactgtggtcgacgtttatgcagaagtggatcgcctacacggccgccgtgatcgacgccgaacgcgaccgaggcgcggcgccgcgcaccctgccggcccatgaactggccacagcgctcaacctgatgaacgagcggacgctgttcgcgtcattcgccggcgaacagccctcggtgccggaagcccgcgtgctggatacgctggtgcacatctgggtgaccagcatttacggcgagaaccgctaagccgcactcggtcgggggtgctcggtcgatgctcagtgccaaagcggcatgcagatctcacggaggtccggtggacgatctggcagccgaagtggcgccttgggtaggcaatggcgtgcggtcatataggagcgggtgcattcgcatgtcggacacgtggcgttgccgcctggtaccgcggtgttcgtggccgacagcgggctaatgcgacccggtccacgccaggagcgtgtcggccggccaggtgttgacgatccggtcggcgggcacctccgcgtccaaggcgcgctgggcgccgtagccgaggaagtccagctggccgggtgcgtgcgcgtcggtgtcgatgc",
           "ALTS": [
@@ -137,23 +201,23 @@
         "gene_position": 320,
         "codon_idx": 2,
         "vcf_evidence": {
+          "ALLELE_DP": [
+            0,
+            126
+          ],
           "GT": [
             1,
             1
           ],
-          "DP": 126.0,
-          "ALLELE_DP": [
-            0.0,
-            126.0
-          ],
-          "FRS": 1.0,
           "COV_TOTAL": 126,
+          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 71.8,
           "COV": [
             0,
             126
           ],
-          "GT_CONF": 801.53,
-          "GT_CONF_PERCENTILE": 71.94,
+          "GT_CONF": 801.11,
+          "DP": 126,
           "POS": 491742,
           "REF": "t",
           "ALTS": [
@@ -169,23 +233,23 @@
         "gene_position": 92,
         "codon_idx": 2,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 127.0,
-          "ALLELE_DP": [
-            0.0,
-            127.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 127,
           "COV": [
             0,
             127
           ],
-          "GT_CONF": 807.73,
-          "GT_CONF_PERCENTILE": 72.44,
+          "GT": [
+            1,
+            1
+          ],
+          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 72.38,
+          "DP": 127,
+          "GT_CONF": 807.31,
+          "ALLELE_DP": [
+            0,
+            127
+          ],
+          "COV_TOTAL": 127,
           "POS": 4407927,
           "REF": "t",
           "ALTS": [
@@ -201,23 +265,23 @@
         "gene_position": 205,
         "codon_idx": 2,
         "vcf_evidence": {
+          "FRS": 1.0,
+          "GT_CONF_PERCENTILE": 74.76,
+          "DP": 132,
           "GT": [
             1,
             1
           ],
-          "DP": 132.0,
-          "ALLELE_DP": [
-            0.0,
-            132.0
-          ],
-          "FRS": 1.0,
           "COV_TOTAL": 132,
           "COV": [
             0,
             132
           ],
-          "GT_CONF": 838.73,
-          "GT_CONF_PERCENTILE": 74.99,
+          "GT_CONF": 838.31,
+          "ALLELE_DP": [
+            0,
+            132
+          ],
           "POS": 4407588,
           "REF": "t",
           "ALTS": [
@@ -233,23 +297,23 @@
         "gene_position": 21,
         "codon_idx": 0,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 127.0,
-          "ALLELE_DP": [
-            0.0,
-            127.0
-          ],
           "FRS": 1.0,
+          "GT_CONF": 807.31,
+          "DP": 127,
+          "ALLELE_DP": [
+            0,
+            127
+          ],
           "COV_TOTAL": 127,
+          "GT_CONF_PERCENTILE": 72.38,
           "COV": [
             0,
             127
           ],
-          "GT_CONF": 807.73,
-          "GT_CONF_PERCENTILE": 72.44,
+          "GT": [
+            1,
+            1
+          ],
           "POS": 7362,
           "REF": "g",
           "ALTS": [
@@ -269,19 +333,19 @@
             1,
             1
           ],
-          "DP": 113.0,
-          "ALLELE_DP": [
-            0.0,
-            113.0
-          ],
+          "DP": 113,
           "FRS": 1.0,
-          "COV_TOTAL": 113,
           "COV": [
             0,
             113
           ],
-          "GT_CONF": 720.9,
-          "GT_CONF_PERCENTILE": 64.55,
+          "ALLELE_DP": [
+            0,
+            113
+          ],
+          "GT_CONF": 720.49,
+          "COV_TOTAL": 113,
+          "GT_CONF_PERCENTILE": 64.96,
           "POS": 7582,
           "REF": "a",
           "ALTS": [
@@ -297,23 +361,23 @@
         "gene_position": 95,
         "codon_idx": 1,
         "vcf_evidence": {
+          "COV_TOTAL": 115,
           "GT": [
             1,
             1
           ],
-          "DP": 115.0,
+          "GT_CONF": 732.89,
+          "GT_CONF_PERCENTILE": 66.26,
           "ALLELE_DP": [
-            0.0,
-            115.0
+            0,
+            115
           ],
           "FRS": 1.0,
-          "COV_TOTAL": 115,
+          "DP": 115,
           "COV": [
             0,
             115
           ],
-          "GT_CONF": 733.31,
-          "GT_CONF_PERCENTILE": 65.86,
           "POS": 7585,
           "REF": "g",
           "ALTS": [
@@ -329,23 +393,23 @@
         "gene_position": 668,
         "codon_idx": 1,
         "vcf_evidence": {
+          "FRS": 1.0,
+          "COV_TOTAL": 140,
+          "ALLELE_DP": [
+            0,
+            140
+          ],
+          "GT_CONF": 887.91,
+          "GT_CONF_PERCENTILE": 78.22,
+          "DP": 140,
           "GT": [
             1,
             1
           ],
-          "DP": 140.0,
-          "ALLELE_DP": [
-            0.0,
-            140.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 140,
           "COV": [
             0,
             140
           ],
-          "GT_CONF": 888.32,
-          "GT_CONF_PERCENTILE": 78.35,
           "POS": 9304,
           "REF": "g",
           "ALTS": [
@@ -365,19 +429,19 @@
             1,
             1
           ],
-          "DP": 86.0,
-          "ALLELE_DP": [
-            0.0,
-            86.0
-          ],
           "FRS": 1.0,
-          "COV_TOTAL": 86,
+          "ALLELE_DP": [
+            0,
+            87
+          ],
           "COV": [
             0,
-            86
+            87
           ],
-          "GT_CONF": 553.34,
-          "GT_CONF_PERCENTILE": 45.52,
+          "GT_CONF_PERCENTILE": 47.34,
+          "GT_CONF": 559.14,
+          "DP": 87,
+          "COV_TOTAL": 87,
           "POS": 2155168,
           "REF": "c",
           "ALTS": [
@@ -393,23 +457,23 @@
         "gene_position": 463,
         "codon_idx": 1,
         "vcf_evidence": {
+          "FRS": 1.0,
+          "GT_CONF": 701.88,
+          "DP": 110,
+          "GT_CONF_PERCENTILE": 62.85,
+          "ALLELE_DP": [
+            0,
+            110
+          ],
+          "COV": [
+            0,
+            110
+          ],
+          "COV_TOTAL": 110,
           "GT": [
             1,
             1
           ],
-          "DP": 111.0,
-          "ALLELE_DP": [
-            0.0,
-            111.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 111,
-          "COV": [
-            0,
-            111
-          ],
-          "GT_CONF": 708.49,
-          "GT_CONF_PERCENTILE": 63.3,
           "POS": 2154724,
           "REF": "c",
           "ALTS": [
@@ -429,19 +493,19 @@
             1,
             1
           ],
-          "DP": 46.0,
           "ALLELE_DP": [
-            0.0,
-            46.0
+            0,
+            48
           ],
+          "GT_CONF": 316.65,
           "FRS": 1.0,
-          "COV_TOTAL": 46,
           "COV": [
             0,
-            46
+            48
           ],
-          "GT_CONF": 304.57,
-          "GT_CONF_PERCENTILE": 13.8,
+          "COV_TOTAL": 48,
+          "DP": 48,
+          "GT_CONF_PERCENTILE": 15.74,
           "POS": 776182,
           "REF": "c",
           "ALTS": [
@@ -457,23 +521,23 @@
         "gene_position": 794,
         "codon_idx": 1,
         "vcf_evidence": {
+          "FRS": 1.0,
+          "COV_TOTAL": 29,
+          "GT_CONF_PERCENTILE": 4.78,
+          "ALLELE_DP": [
+            0,
+            29
+          ],
+          "DP": 29,
+          "GT_CONF": 198.04,
+          "COV": [
+            0,
+            29
+          ],
           "GT": [
             1,
             1
           ],
-          "DP": 30.0,
-          "ALLELE_DP": [
-            0.0,
-            30.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 30,
-          "COV": [
-            0,
-            30
-          ],
-          "GT_CONF": 204.66,
-          "GT_CONF_PERCENTILE": 5.06,
           "POS": 776100,
           "REF": "g",
           "ALTS": [
@@ -489,23 +553,23 @@
         "gene_position": 948,
         "codon_idx": 0,
         "vcf_evidence": {
-          "GT": [
-            1,
-            1
-          ],
-          "DP": 74.0,
-          "ALLELE_DP": [
-            0.0,
-            74.0
-          ],
-          "FRS": 1.0,
-          "COV_TOTAL": 74,
+          "DP": 74,
+          "GT_CONF": 478.39,
           "COV": [
             0,
             74
           ],
-          "GT_CONF": 478.79,
-          "GT_CONF_PERCENTILE": 35.72,
+          "GT_CONF_PERCENTILE": 37.03,
+          "ALLELE_DP": [
+            0,
+            74
+          ],
+          "FRS": 1.0,
+          "COV_TOTAL": 74,
+          "GT": [
+            1,
+            1
+          ],
           "POS": 775639,
           "REF": "t",
           "ALTS": [
@@ -521,23 +585,23 @@
         "gene_position": 450,
         "codon_idx": 1,
         "vcf_evidence": {
+          "FRS": 1.0,
           "GT": [
             1,
             1
           ],
-          "DP": 73.0,
+          "COV_TOTAL": 60,
+          "GT_CONF_PERCENTILE": 25.34,
+          "DP": 60,
           "ALLELE_DP": [
-            0.0,
-            73.0
+            0,
+            60
           ],
-          "FRS": 1.0,
-          "COV_TOTAL": 73,
+          "GT_CONF": 391.36,
           "COV": [
             0,
-            73
+            60
           ],
-          "GT_CONF": 472.58,
-          "GT_CONF_PERCENTILE": 34.88,
           "POS": 761155,
           "REF": "c",
           "ALTS": [
@@ -557,19 +621,19 @@
             1,
             1
           ],
-          "DP": 139.0,
           "ALLELE_DP": [
-            1.0,
-            139.0
+            1,
+            139
           ],
-          "FRS": 0.993,
-          "COV_TOTAL": 140,
           "COV": [
             1,
             139
           ],
-          "GT_CONF": 874.7,
-          "GT_CONF_PERCENTILE": 77.33,
+          "DP": 139,
+          "GT_CONF_PERCENTILE": 77.15,
+          "COV_TOTAL": 140,
+          "FRS": 0.9929,
+          "GT_CONF": 874.3,
           "POS": 763031,
           "REF": "t",
           "ALTS": [
@@ -585,23 +649,23 @@
         "gene_position": 43,
         "codon_idx": 1,
         "vcf_evidence": {
+          "GT_CONF_PERCENTILE": 79.99,
+          "ALLELE_DP": [
+            0,
+            145
+          ],
           "GT": [
             1,
             1
           ],
-          "DP": 147.0,
-          "ALLELE_DP": [
-            0.0,
-            147.0
-          ],
           "FRS": 1.0,
-          "COV_TOTAL": 147,
+          "COV_TOTAL": 145,
           "COV": [
             0,
-            147
+            145
           ],
-          "GT_CONF": 931.71,
-          "GT_CONF_PERCENTILE": 80.9,
+          "GT_CONF": 918.9,
+          "DP": 145,
           "POS": 781687,
           "REF": "a",
           "ALTS": [
@@ -617,23 +681,23 @@
         "gene_position": 11,
         "codon_idx": 2,
         "vcf_evidence": {
+          "DP": 96,
+          "GT_CONF_PERCENTILE": 53.98,
+          "COV_TOTAL": 96,
+          "FRS": 1.0,
           "GT": [
             1,
             1
           ],
-          "DP": 95.0,
           "ALLELE_DP": [
-            0.0,
-            95.0
+            0,
+            96
           ],
-          "FRS": 1.0,
-          "COV_TOTAL": 95,
           "COV": [
             0,
-            95
+            96
           ],
-          "GT_CONF": 609.21,
-          "GT_CONF_PERCENTILE": 52.35,
+          "GT_CONF": 615.01,
           "POS": 1917972,
           "REF": "a",
           "ALTS": [
@@ -644,6 +708,20 @@
       }
     ],
     "mutations": [
+      {
+        "gene": "Rv2983",
+        "gene_position": 206,
+        "mutation": "A206G:9",
+        "ref": "gcg",
+        "alt": "ggg"
+      },
+      {
+        "gene": "embB",
+        "gene_position": 24,
+        "mutation": "R24P:10",
+        "ref": "cgc",
+        "alt": "ccc"
+      },
       {
         "gene": "embB",
         "gene_position": 306,
@@ -661,7 +739,7 @@
       {
         "gene": "ethA",
         "gene_position": -38,
-        "mutation": "-38_del_cgttgacggcctcgacattacgttgatagcgtggatccatgaccgagcacctcgacgttgtcatcgtgggcgctggaatctccggtgtcagcgcggcctggcacctgcaggaccgttgcccgaccaagagctacgccatcctggaaaagcgggaatccatgggcggcacctgggatttgttccgttatcccggaattcgctccgactccgacatgtacacgctaggtttccgattccgtccctggaccggacggcaggcgatcgccgacggcaagcccatcctcgagtacgtcaagagcaccgcggccatgtatggaatcgacaggcatatccggttccaccacaaggtgatcagtgccgattggtcgaccgcggaaaaccgctggaccgttcacatccaaagccacggcacgctcagcgccctcacctgcgaattcctctttctgtgcagcggctactacaactacgacgagggctactcgccgagattcgccggctcggaggatttcgtcgggccgatcatccatccgcagcactggcccgaggacctcgactacgacgctaagaacatcgtcgtgatcggcagtggcgcaacggcggtcacgctcgtgc"
+        "mutation": "-38_del_cgttgacggcctcgacattacgttgatagcgtggatccatgaccgagcacctcgacgttgtcatcgtgggcgctggaatctccggtgtcagcgcggcctggcacctgcaggaccgttgcccgaccaagagctacgccatcctggaaaagcgggaatccatgggcggcacctgggatttgttccgttatcccggaattcgctccgactccgacatgtacacgctaggtttccgattccgtccctggaccggacggcaggcgatcgccgacggcaagcccatcctcgagtacgtcaagagcaccgcggccatgtatggaatcgacaggcatatccggttccaccacaaggtgatcagtgccgattggtcgaccgcggaaaaccgctggaccgttcacatccaaagccacggcacgctcagcgccctcacctgcgaattcctctttctgtgcagcggctactacaactacgacgagggctactcgccgagattcgccggctcggaggatttcgtcgggccgatcatccatccgcagcactggcccgaggacctcgactacgacgctaagaacatcgtcgtgatcggcagtggcgcaacggcggtcacgctcgtg"
       },
       {
         "gene": "fgd1",
@@ -812,6 +890,12 @@
       ],
       "DLM": [
         {
+          "gene": "Rv2983",
+          "mutation": "A206G:9",
+          "prediction": "S",
+          "evidence": {}
+        },
+        {
           "gene": "fgd1",
           "mutation": "F320F",
           "prediction": "S",
@@ -842,6 +926,12 @@
         },
         {
           "gene": "embB",
+          "mutation": "R24P:10",
+          "prediction": "S",
+          "evidence": {}
+        },
+        {
+          "gene": "embB",
           "mutation": "T1082A",
           "prediction": "S",
           "evidence": {
@@ -863,7 +953,7 @@
       "ETH": [
         {
           "gene": "ethA",
-          "mutation": "-38_del_cgttgacggcctcgacattacgttgatagcgtggatccatgaccgagcacctcgacgttgtcatcgtgggcgctggaatctccggtgtcagcgcggcctggcacctgcaggaccgttgcccgaccaagagctacgccatcctggaaaagcgggaatccatgggcggcacctgggatttgttccgttatcccggaattcgctccgactccgacatgtacacgctaggtttccgattccgtccctggaccggacggcaggcgatcgccgacggcaagcccatcctcgagtacgtcaagagcaccgcggccatgtatggaatcgacaggcatatccggttccaccacaaggtgatcagtgccgattggtcgaccgcggaaaaccgctggaccgttcacatccaaagccacggcacgctcagcgccctcacctgcgaattcctctttctgtgcagcggctactacaactacgacgagggctactcgccgagattcgccggctcggaggatttcgtcgggccgatcatccatccgcagcactggcccgaggacctcgactacgacgctaagaacatcgtcgtgatcggcagtggcgcaacggcggtcacgctcgtgc",
+          "mutation": "-38_del_cgttgacggcctcgacattacgttgatagcgtggatccatgaccgagcacctcgacgttgtcatcgtgggcgctggaatctccggtgtcagcgcggcctggcacctgcaggaccgttgcccgaccaagagctacgccatcctggaaaagcgggaatccatgggcggcacctgggatttgttccgttatcccggaattcgctccgactccgacatgtacacgctaggtttccgattccgtccctggaccggacggcaggcgatcgccgacggcaagcccatcctcgagtacgtcaagagcaccgcggccatgtatggaatcgacaggcatatccggttccaccacaaggtgatcagtgccgattggtcgaccgcggaaaaccgctggaccgttcacatccaaagccacggcacgctcagcgccctcacctgcgaattcctctttctgtgcagcggctactacaactacgacgagggctactcgccgagattcgccggctcggaggatttcgtcgggccgatcatccatccgcagcactggcccgaggacctcgactacgacgctaagaacatcgtcgtgatcggcagtggcgcaacggcggtcacgctcgtg",
           "prediction": "U",
           "evidence": {
             "reporting_rule": "True"

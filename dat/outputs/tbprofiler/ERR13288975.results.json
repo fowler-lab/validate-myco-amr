@@ -1,7 +1,7 @@
 {
     "schema_version": "1.0.0",
     "id": "ERR13288975",
-    "timestamp": "2025-07-16T14:40:50.845543",
+    "timestamp": "2025-09-23T09:02:24.797819",
     "pipeline": {
         "software_version": "6.6.5",
         "db_version": {
@@ -228,380 +228,1022 @@
     "main_lineage": "lineage4",
     "sub_lineage": "lineage4.9",
     "spoligotype": null,
-    "drtype": "Sensitive",
-    "dr_variants": [],
-    "other_variants": [],
-    "qc_fail_variants": [],
+    "drtype": "MDR-TB",
+    "dr_variants": [
+        {
+            "chrom": "Chromosome",
+            "pos": 761139,
+            "ref": "C",
+            "alt": "G",
+            "depth": 115,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 63,
+            "reverse_reads": 52,
+            "sv_len": null,
+            "gene_id": "Rv0667",
+            "gene_name": "rpoB",
+            "feature_id": "Rv0667",
+            "type": "missense_variant",
+            "change": "p.His445Asp",
+            "nucleotide_change": "c.1333C>G",
+            "protein_change": "p.His445Asp",
+            "annotation": [
+                {
+                    "type": "drug_resistance",
+                    "drug": "rifampicin",
+                    "original_mutation": "p.His445Asp",
+                    "confidence": "Assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv0667",
+                    "gene_name": "rpoB",
+                    "feature_id": "Rv0667",
+                    "type": "missense_variant",
+                    "nucleotide_change": "c.1333C>G",
+                    "protein_change": "p.His445Asp",
+                    "sequence_hgvs": "Chromosome:g.761139C>G",
+                    "annotation": [
+                        {
+                            "type": "drug_resistance",
+                            "drug": "rifampicin",
+                            "original_mutation": "RRDR non-silent",
+                            "confidence": "Assoc w R - Interim",
+                            "source": "WHO catalogue v2",
+                            "comment": "Expert rule: Non-silent variants in RRDR of rpoB"
+                        },
+                        {
+                            "type": "drug_resistance",
+                            "drug": "rifampicin",
+                            "original_mutation": "p.His445Asp",
+                            "confidence": "Assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ],
+            "drugs": [
+                {
+                    "type": "drug_resistance",
+                    "drug": "rifampicin",
+                    "original_mutation": "p.His445Asp",
+                    "confidence": "Assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                }
+            ],
+            "locus_tag": "Rv0667",
+            "gene_associated_drugs": [
+                "rifampicin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 2155168,
+            "ref": "C",
+            "alt": "G",
+            "depth": 147,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 85,
+            "reverse_reads": 62,
+            "sv_len": null,
+            "gene_id": "Rv1908c",
+            "gene_name": "katG",
+            "feature_id": "Rv1908c",
+            "type": "missense_variant",
+            "change": "p.Ser315Thr",
+            "nucleotide_change": "c.944G>C",
+            "protein_change": "p.Ser315Thr",
+            "annotation": [
+                {
+                    "type": "drug_resistance",
+                    "drug": "isoniazid",
+                    "original_mutation": "p.Ser315Thr",
+                    "confidence": "Assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": "High-level resistance"
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv1908c",
+                    "gene_name": "katG",
+                    "feature_id": "Rv1908c",
+                    "type": "missense_variant",
+                    "nucleotide_change": "c.944G>C",
+                    "protein_change": "p.Ser315Thr",
+                    "sequence_hgvs": "Chromosome:g.2155168C>G",
+                    "annotation": [
+                        {
+                            "type": "drug_resistance",
+                            "drug": "isoniazid",
+                            "original_mutation": "p.Ser315Thr",
+                            "confidence": "Assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": "High-level resistance"
+                        }
+                    ]
+                }
+            ],
+            "drugs": [
+                {
+                    "type": "drug_resistance",
+                    "drug": "isoniazid",
+                    "original_mutation": "p.Ser315Thr",
+                    "confidence": "Assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": "High-level resistance"
+                }
+            ],
+            "locus_tag": "Rv1908c",
+            "gene_associated_drugs": [
+                "isoniazid"
+            ]
+        }
+    ],
+    "other_variants": [
+        {
+            "chrom": "Chromosome",
+            "pos": 6136,
+            "ref": "G",
+            "alt": "A",
+            "depth": 115,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 59,
+            "reverse_reads": 56,
+            "sv_len": null,
+            "gene_id": "Rv0005",
+            "gene_name": "gyrB",
+            "feature_id": "Rv0005",
+            "type": "synonymous_variant",
+            "change": "c.897G>A",
+            "nucleotide_change": "c.897G>A",
+            "protein_change": "p.Glu299Glu",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "levofloxacin",
+                    "original_mutation": "c.897G>A",
+                    "confidence": "Not assoc w R - Interim",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "moxifloxacin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv0005",
+                    "gene_name": "gyrB",
+                    "feature_id": "Rv0005",
+                    "type": "synonymous_variant",
+                    "nucleotide_change": "c.897G>A",
+                    "protein_change": "p.Glu299Glu",
+                    "sequence_hgvs": "Chromosome:g.6136G>A",
+                    "annotation": [
+                        {
+                            "type": "who_confidence",
+                            "drug": "levofloxacin",
+                            "original_mutation": "c.897G>A",
+                            "confidence": "Not assoc w R - Interim",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ],
+            "locus_tag": "Rv0005",
+            "gene_associated_drugs": [
+                "levofloxacin",
+                "moxifloxacin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 7362,
+            "ref": "G",
+            "alt": "C",
+            "depth": 153,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 91,
+            "reverse_reads": 62,
+            "sv_len": null,
+            "gene_id": "Rv0006",
+            "gene_name": "gyrA",
+            "feature_id": "Rv0006",
+            "type": "missense_variant",
+            "change": "p.Glu21Gln",
+            "nucleotide_change": "c.61G>C",
+            "protein_change": "p.Glu21Gln",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "levofloxacin",
+                    "original_mutation": "p.Glu21Gln",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "moxifloxacin",
+                    "original_mutation": "p.Glu21Gln",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv0006",
+                    "gene_name": "gyrA",
+                    "feature_id": "Rv0006",
+                    "type": "missense_variant",
+                    "nucleotide_change": "c.61G>C",
+                    "protein_change": "p.Glu21Gln",
+                    "sequence_hgvs": "Chromosome:g.7362G>C",
+                    "annotation": [
+                        {
+                            "type": "who_confidence",
+                            "drug": "levofloxacin",
+                            "original_mutation": "p.Glu21Gln",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        },
+                        {
+                            "type": "who_confidence",
+                            "drug": "moxifloxacin",
+                            "original_mutation": "p.Glu21Gln",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ],
+            "locus_tag": "Rv0006",
+            "gene_associated_drugs": [
+                "levofloxacin",
+                "moxifloxacin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 734967,
+            "ref": "C",
+            "alt": "G",
+            "depth": 128,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 64,
+            "reverse_reads": 64,
+            "sv_len": null,
+            "gene_id": "Rv0639",
+            "gene_name": "nusG",
+            "feature_id": "Rv0639",
+            "type": "missense_variant",
+            "change": "p.Ile238Met",
+            "nucleotide_change": "c.714C>G",
+            "protein_change": "p.Ile238Met",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "rifampicin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv0639",
+                    "gene_name": "nusG",
+                    "feature_id": "Rv0639",
+                    "type": "missense_variant",
+                    "nucleotide_change": "c.714C>G",
+                    "protein_change": "p.Ile238Met",
+                    "sequence_hgvs": "Chromosome:g.734967C>G",
+                    "annotation": []
+                }
+            ],
+            "locus_tag": "Rv0639",
+            "gene_associated_drugs": [
+                "rifampicin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 1471659,
+            "ref": "C",
+            "alt": "T",
+            "depth": 126,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 55,
+            "reverse_reads": 71,
+            "sv_len": null,
+            "gene_id": "EBG00000313325",
+            "gene_name": "rrs",
+            "feature_id": "EBG00000313325",
+            "type": "upstream_gene_variant",
+            "change": "n.-187C>T",
+            "nucleotide_change": "n.-187C>T",
+            "protein_change": "",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "amikacin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "capreomycin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "kanamycin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "streptomycin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "EBG00000313325",
+                    "gene_name": "rrs",
+                    "feature_id": "EBG00000313325",
+                    "type": "upstream_gene_variant",
+                    "nucleotide_change": "n.-187C>T",
+                    "protein_change": "",
+                    "sequence_hgvs": "Chromosome:g.1471659C>T",
+                    "annotation": []
+                }
+            ],
+            "locus_tag": "EBG00000313325",
+            "gene_associated_drugs": [
+                "amikacin",
+                "capreomycin",
+                "kanamycin",
+                "streptomycin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 1917972,
+            "ref": "A",
+            "alt": "G",
+            "depth": 203,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 98,
+            "reverse_reads": 105,
+            "sv_len": null,
+            "gene_id": "Rv1694",
+            "gene_name": "tlyA",
+            "feature_id": "Rv1694",
+            "type": "synonymous_variant",
+            "change": "c.33A>G",
+            "nucleotide_change": "c.33A>G",
+            "protein_change": "p.Leu11Leu",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "capreomycin",
+                    "original_mutation": "c.33A>G",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv1694",
+                    "gene_name": "tlyA",
+                    "feature_id": "Rv1694",
+                    "type": "synonymous_variant",
+                    "nucleotide_change": "c.33A>G",
+                    "protein_change": "p.Leu11Leu",
+                    "sequence_hgvs": "Chromosome:g.1917972A>G",
+                    "annotation": [
+                        {
+                            "type": "who_confidence",
+                            "drug": "capreomycin",
+                            "original_mutation": "c.33A>G",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ],
+            "locus_tag": "Rv1694",
+            "gene_associated_drugs": [
+                "capreomycin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 4338595,
+            "ref": "GC",
+            "alt": "G",
+            "depth": 140,
+            "freq": 1.0,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 58,
+            "reverse_reads": 82,
+            "sv_len": null,
+            "gene_id": "Rv3862c",
+            "gene_name": "whiB6",
+            "feature_id": "Rv3862c",
+            "type": "upstream_gene_variant",
+            "change": "c.-75delG",
+            "nucleotide_change": "c.-75delG",
+            "protein_change": "",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "amikacin",
+                    "original_mutation": "c.-75delG",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "capreomycin",
+                    "original_mutation": "c.-75delG",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "kanamycin",
+                    "original_mutation": "c.-75delG",
+                    "confidence": "Not assoc w R",
+                    "source": "WHO catalogue v2",
+                    "comment": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv3862c",
+                    "gene_name": "whiB6",
+                    "feature_id": "Rv3862c",
+                    "type": "upstream_gene_variant",
+                    "nucleotide_change": "c.-75delG",
+                    "protein_change": "",
+                    "sequence_hgvs": "Chromosome:g.4338595GC>G",
+                    "annotation": [
+                        {
+                            "type": "who_confidence",
+                            "drug": "amikacin",
+                            "original_mutation": "c.-75delG",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        },
+                        {
+                            "type": "who_confidence",
+                            "drug": "capreomycin",
+                            "original_mutation": "c.-75delG",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        },
+                        {
+                            "type": "who_confidence",
+                            "drug": "kanamycin",
+                            "original_mutation": "c.-75delG",
+                            "confidence": "Not assoc w R",
+                            "source": "WHO catalogue v2",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ],
+            "locus_tag": "Rv3862c",
+            "gene_associated_drugs": [
+                "amikacin",
+                "capreomycin",
+                "kanamycin"
+            ]
+        },
+        {
+            "chrom": "Chromosome",
+            "pos": 4338849,
+            "ref": "A",
+            "alt": "C",
+            "depth": 118,
+            "freq": 0.9915254237288136,
+            "sv": false,
+            "filter": "pass",
+            "forward_reads": 76,
+            "reverse_reads": 41,
+            "sv_len": null,
+            "gene_id": "Rv3862c",
+            "gene_name": "whiB6",
+            "feature_id": "Rv3862c",
+            "type": "upstream_gene_variant",
+            "change": "c.-328T>G",
+            "nucleotide_change": "c.-328T>G",
+            "protein_change": "",
+            "annotation": [
+                {
+                    "type": "who_confidence",
+                    "drug": "amikacin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "capreomycin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                },
+                {
+                    "type": "who_confidence",
+                    "drug": "kanamycin",
+                    "confidence": "Uncertain significance",
+                    "comment": "Not found in WHO catalogue",
+                    "source": "",
+                    "original_mutation": ""
+                }
+            ],
+            "consequences": [
+                {
+                    "gene_id": "Rv3862c",
+                    "gene_name": "whiB6",
+                    "feature_id": "Rv3862c",
+                    "type": "upstream_gene_variant",
+                    "nucleotide_change": "c.-328T>G",
+                    "protein_change": "",
+                    "sequence_hgvs": "Chromosome:g.4338849A>C",
+                    "annotation": []
+                }
+            ],
+            "locus_tag": "Rv3862c",
+            "gene_associated_drugs": [
+                "amikacin",
+                "capreomycin",
+                "kanamycin"
+            ]
+        }
+    ],
+    "qc_fail_variants": [
+        {
+            "chrom": "Chromosome",
+            "pos": 576108,
+            "ref": "C",
+            "alt": "G",
+            "depth": 157,
+            "freq": 0.3184713375796178,
+            "sv": false,
+            "filter": "soft_fail",
+            "forward_reads": 50,
+            "reverse_reads": 0,
+            "sv_len": null,
+            "gene_id": "Rv0486",
+            "gene_name": "mshA",
+            "feature_id": "Rv0486",
+            "type": "missense_variant",
+            "change": "p.Ala254Gly",
+            "nucleotide_change": "c.761C>G",
+            "protein_change": "p.Ala254Gly",
+            "annotation": [],
+            "consequences": [
+                {
+                    "gene_id": "Rv0486",
+                    "gene_name": "mshA",
+                    "feature_id": "Rv0486",
+                    "type": "missense_variant",
+                    "nucleotide_change": "c.761C>G",
+                    "protein_change": "p.Ala254Gly",
+                    "sequence_hgvs": "Chromosome:g.576108C>G",
+                    "annotation": []
+                }
+            ],
+            "locus_tag": "Rv0486",
+            "gene_associated_drugs": [
+                "ethionamide",
+                "isoniazid"
+            ]
+        }
+    ],
     "qc": {
-        "percent_reads_mapped": 0,
-        "num_reads_mapped": 0,
-        "target_median_depth": 0.0,
-        "genome_median_depth": 0.0,
+        "percent_reads_mapped": 99.79,
+        "num_reads_mapped": 4661495,
+        "target_median_depth": 146.0,
+        "genome_median_depth": 143.25,
         "target_qc": [
             {
                 "target": "dnaA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 119.0
             },
             {
                 "target": "gyrB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 139.0
             },
             {
                 "target": "gyrA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 149.0
             },
             {
                 "target": "Rv0010c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 111.0
             },
             {
                 "target": "fgd1",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 138.0
             },
             {
                 "target": "mshA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 156.0
             },
             {
                 "target": "ccsA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 151.0
             },
             {
                 "target": "Rv0565c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 152.0
             },
             {
                 "target": "hadA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 152.0
             },
             {
                 "target": "nusG",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 135.0
             },
             {
                 "target": "mmaA3",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 148.0
             },
             {
                 "target": "rpoB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 158.0
             },
             {
                 "target": "rpoC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 144.0
             },
             {
                 "target": "mmpL5",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 160.0
             },
             {
                 "target": "mmpS5",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 158.0
             },
             {
                 "target": "mmpR5",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 154.0
             },
             {
                 "target": "rpsL",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 143.0
             },
             {
                 "target": "rplC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 159.0
             },
             {
                 "target": "Rv1129c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 144.0
             },
             {
                 "target": "fbiC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 152.0
             },
             {
                 "target": "sigE",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 125.0
             },
             {
                 "target": "Rv1258c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 139.0
             },
             {
                 "target": "embR",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 148.0
             },
             {
                 "target": "atpE",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 113.0
             },
             {
                 "target": "rrs",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 82.0
             },
             {
                 "target": "rrl",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 91.0
             },
             {
                 "target": "inhA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 159.0
             },
             {
                 "target": "rpsA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 184.0
             },
             {
                 "target": "tsnR",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 142.0
             },
             {
                 "target": "tlyA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 176.0
             },
             {
                 "target": "bacA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 134.0
             },
             {
                 "target": "ndh",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 140.0
             },
             {
                 "target": "katG",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 125.0
             },
             {
                 "target": "PPE35",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 108.0
             },
             {
                 "target": "Rv1979c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 149.5
             },
             {
                 "target": "pncA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 145.0
             },
             {
                 "target": "kasA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 159.0
             },
             {
                 "target": "eis",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 143.0
             },
             {
                 "target": "ahpC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 125.0
             },
             {
                 "target": "folC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 160.0
             },
             {
                 "target": "Rv2477c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 133.0
             },
             {
                 "target": "pepQ",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 131.0
             },
             {
                 "target": "ribD",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 162.0
             },
             {
                 "target": "Rv2680",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 162.0
             },
             {
                 "target": "Rv2681",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 137.0
             },
             {
                 "target": "Rv2752c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 148.0
             },
             {
                 "target": "thyX",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 169.0
             },
             {
                 "target": "thyA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 125.0
             },
             {
                 "target": "ald",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 138.0
             },
             {
                 "target": "fbiD",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 135.0
             },
             {
                 "target": "Rv3083",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 143.0
             },
             {
                 "target": "whiB7",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 132.0
             },
             {
                 "target": "Rv3236c",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 140.0
             },
             {
                 "target": "lpqB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 149.0
             },
             {
                 "target": "mtrB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 197.0
             },
             {
                 "target": "mtrA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 146.0
             },
             {
                 "target": "fbiA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 132.0
             },
             {
                 "target": "fbiB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 153.0
             },
             {
                 "target": "alr",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 190.0
             },
             {
                 "target": "rpoA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 150.0
             },
             {
                 "target": "ddn",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 137.0
             },
             {
                 "target": "clpC1",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 141.0
             },
             {
                 "target": "panD",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 151.0
             },
             {
                 "target": "glpK",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 123.0
             },
             {
                 "target": "embC",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 153.0
             },
             {
                 "target": "embA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 160.0
             },
             {
                 "target": "embB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 147.0
             },
             {
                 "target": "aftB",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 133.0
             },
             {
                 "target": "ubiA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 152.0
             },
             {
                 "target": "ethA",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 129.0
             },
             {
                 "target": "ethR",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 169.0
             },
             {
                 "target": "whiB6",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 152.0
             },
             {
                 "target": "gid",
-                "percent_depth_pass": 0.0,
-                "median_depth": 0.0
+                "percent_depth_pass": 100.0,
+                "median_depth": 149.0
             }
         ]
     },
@@ -609,19 +1251,19 @@
     "drug_table": [
         {
             "drug": "rifampicin",
-            "gene": "",
-            "change": "",
-            "confidence": "",
+            "gene": "rpoB",
+            "change": "p.His445Asp",
+            "confidence": "Assoc w R",
             "comment": "",
             "drug-rowspan": 1,
             "gene-rowspan": 1
         },
         {
             "drug": "isoniazid",
-            "gene": "",
-            "change": "",
-            "confidence": "",
-            "comment": "",
+            "gene": "katG",
+            "change": "p.Ser315Thr",
+            "confidence": "Assoc w R",
+            "comment": "High-level resistance",
             "drug-rowspan": 1,
             "gene-rowspan": 1
         },

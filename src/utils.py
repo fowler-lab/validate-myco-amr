@@ -29,7 +29,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
     )
     df.OUTCOME = df.OUTCOME.sort_values()
 
-    plt.figure(figsize=(3, 1.2))
+    plt.figure(figsize=(3.8, 1.5))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",
@@ -75,7 +75,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
 
 def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
     plt.rcParams.update({"font.size": 7})
-    plt.figure(figsize=(3, 1.2))
+    plt.figure(figsize=(4, 1.5))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",

@@ -225,7 +225,7 @@ def create_predictions_table(effects, who_drugs):
     results = pandas.DataFrame(table)
     results.set_index(["SET", "ENA_RUN_ACCESSION", "DRUG"], inplace=True)
     return results
-    
+
 
 def build_exact_table(
     table_rows,
@@ -392,11 +392,11 @@ def build_bootstrapped_table(
                     method,
                     quality,
                     "bootstrap-" + str(i),
-                    current_sensitivity,
+                    100 * current_sensitivity,
                     None,
-                    current_specificity,
+                    100 * current_specificity,
                     None,
-                    current_ppv,
+                    100 * current_ppv,
                     None,
                 ]
                 table_rows.append(row)

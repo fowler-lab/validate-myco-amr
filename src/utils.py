@@ -68,7 +68,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
         label.set_fontsize(7)
     if filename is not None and savefig:
         plt.savefig(
-            "pdf/mic/mic-" + filename + ".pdf", bbox_inches="tight", transparent=True
+            "pdf/mic/" + filename + ".pdf", bbox_inches="tight", transparent=True
         )
     plt.close()
 

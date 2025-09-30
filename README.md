@@ -18,12 +18,18 @@ pip install gnomonicus
 This should automatically place `gnomonicus` in your `$PATH`. Now you need to get the WHOv2 catalogue and H37Rv version 3 Genbank file via
 
 ```
+git clone git@github.com:fowler-lab/validate-myco-amr.git
+cd ..
 git clone git@github.com:oxfordmmm/tuberculosis_amr_catalogues.git
+cd validate-myco-amr/
 ```
 
-Lastly you'll need to have installed [GNU Parallel](https://www.gnu.org/software/parallel/) for the below to work (this nicely uses all the cores on your machine to speed up the processing). On a Mac this is easiest via MacPorts or Brew. The below should take about an hour on a Mac laptop with an M-series CPU.
+Lastly you'll need to have installed [GNU Parallel](https://www.gnu.org/software/parallel/) for the below to work (this nicely uses all the cores on your machine to speed up the processing). On a Mac this is easiest via MacPorts or Brew. The below should take 1-2 hours on a Mac laptop with an M-series CPU.
 
 ```
-find dat/ -name '*vcf' | parallel --bar gnomonicus --vcf_file {} --catalogue_file ~/packages/tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv --json --genome_object ~/packages/tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3.gbk --min_dp 3
+cd dat/outputs/ukmyc/
+find dat/ -name '*vcf' | parallel --bar gnomonicus --vcf_file {} --catalogue_file ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv --json --genome_object ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3.gbk --min_dp 3
+cd ../mgit/
+find dat/ -name '*vcf' | parallel --bar gnomonicus --vcf_file {} --catalogue_file ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv --json --genome_object ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3.gbk --min_dp 3
 ```
 

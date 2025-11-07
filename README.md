@@ -40,7 +40,7 @@ The above steps will create JSON files in the same directories as the VCF files.
 For simplicity there is a Python script that will detect the output JSON files and recreate `dat/RAW_EFFECTS.csv` and `dat/RAW_PREDICTIONS.csv`. To recreate these tables issue
 
 ```
-python parse_gnomonicus.py
+python bin/parse_gnomonicus.py
 ```
 
 ## Reproduce AMR predictions from TB-Profiler
@@ -59,7 +59,7 @@ Then you can either use the web portal at https://tbdr.lshtm.ac.uk/ or install T
 The script below will parse the TB-Profiler output JSON files and recreate `dat/tbprofiler_EFFECTS.csv` and `dat/tbprofiler_PREDICTIONS.csv`.
 
 ```
-python parse_tbprofiler.py
+python bin/parse_tbprofiler.py
 ```
 
 ## Create the final results tables

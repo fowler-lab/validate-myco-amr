@@ -7,7 +7,7 @@ This repository contains the data and code necessary to reproduce the tables and
 > bioRxiv preprint [doi:10.1101/2024.11.08.622466](https://doi.org/10.1101/2024.11.08.622466)
 
 
-## Reproduce AMR predictions from the VCF files
+## Reproduce AMR predictions from the VCF files using `gnomonicus`
 
 First install `gnomonicus`; the easiest way to do this is using `pip`
 
@@ -32,4 +32,38 @@ find dat/ -name '*vcf' | parallel --bar gnomonicus --vcf_file {} --catalogue_fil
 cd ../mgit/
 find dat/ -name '*vcf' | parallel --bar gnomonicus --vcf_file {} --catalogue_file ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv --json --genome_object ../../../../tuberculosis_amr_catalogues/catalogues/NC_000962.3/NC_000962.3.gbk --min_dp 3
 ```
+
+The above steps will create JSON files in the same directories as the VCF files. These JSON files contain the AMR predictions that will be used in the downstream analysis.
+
+## Parse the `gnomonicus` output JSON files and create the results tables
+
+For simplicity there is a Python script that will detect the output JSON files and recreate `dat/RAW_EFFECTS.csv` and `dat/RAW_PREDICTIONS.csv`. To recreate these tables issue
+
+```
+python parse_gnomonicus.py
+```
+
+## Reproduce AMR predictions from TB-Profiler
+
+The output JSON files from TB-Profiler are included in the repository in `dat/tbprofiler`. If you wish to reproduce these you will need to download the FASTQ files for all 2,663 samples using these scripts
+
+```
+bash dat/UKMYC_1000_samples_download.sh
+bash dat/MGIT_1663_samples_download.sh
+```
+Then you can either use the web portal at https://tbdr.lshtm.ac.uk/ or install TB-Profiler locally yourself, or contact the TB-Profiler team for assistance.
+```
+
+## Parse the TB-Profiler output JSON files and recreate the results tables 
+
+The script below will parse the TB-Profiler output JSON files and recreate `dat/tbprofiler_EFFECTS.csv` and `dat/tbprofiler_PREDICTIONS.csv`.
+
+```
+python parse_tbprofiler.py
+```
+
+## Create the final results tables
+
+The Jupyter notebook `create-results-table.ipynb` contains the code to create the final results tables used in the manuscript. To run this you will need to have the following Python packages installed
+
 

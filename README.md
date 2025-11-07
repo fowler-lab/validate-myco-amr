@@ -48,11 +48,11 @@ python bin/parse_gnomonicus.py
 The output JSON files from TB-Profiler are included in the repository in `dat/tbprofiler`. If you wish to reproduce these you will need to download the FASTQ files for all 2,663 samples using these scripts
 
 ```
-bash dat/UKMYC_1000_samples_download.sh
-bash dat/MGIT_1663_samples_download.sh
+bash bin/UKMYC_1000_samples_download.sh
+bash bin/MGIT_1663_samples_download.sh
 ```
-Then you can either use the web portal at https://tbdr.lshtm.ac.uk/ or install TB-Profiler locally yourself, or contact the TB-Profiler team for assistance.
-```
+
+Then you can either use the web portal at https://tbdr.lshtm.ac.uk/ or install TB-Profiler locally yourself, or contact the TB-Profiler team for assistance. Whichever way you choose, you'll need to download and keep all the output JSON files (the ones used in the analysis are stored in `dat/outputs/tbprofiler/`).
 
 ## Parse the TB-Profiler output JSON files and recreate the results tables 
 
@@ -62,8 +62,9 @@ The script below will parse the TB-Profiler output JSON files and recreate `dat/
 python bin/parse_tbprofiler.py
 ```
 
-## Create the final results tables
+## Create the results tables used to drive the analysis
 
-The Jupyter notebook `create-results-table.ipynb` contains the code to create the final results tables used in the manuscript. To run this you will need to have the following Python packages installed
+The first two jupyter notebooks (`01-create-phenotypes-table.ipynb` and `02-create-results-tables.ipynb`) are designed to step you through (i) creating the one row per sample per pDST phenotype table (`dat/PHENOTYPES.csv`, includes Table 1) and (ii) reading in the raw `EFFECTS` and `PREDICTIONS` tables from both `gnomonicus` and `TB-Profiler` and creating e.g. the `RESULTS`  table.
 
+The last two notebooks are designed to then step you through re-creating all the figures and tables in the manuscript. The first notebook (`03-main-analysis.ipynb`) creates the main results figures and tables, and the second notebook (`04-discrepancy-analysis.ipynb`) creates the discrepancy analysis tables.
 

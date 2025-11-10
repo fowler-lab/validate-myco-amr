@@ -32,7 +32,6 @@ def plot_comparison_tbprofiler(summary, savefig=False):
         axes.get_xaxis().set_visible(False)
         axes.set_xticks([])
         axes.grid(False)
-        # axes.plot([100,100], [-0.5, 14.5], color='#cccccc', linewidth=0.5, linestyle='-')
         y = numpy.arange(len(summary[summary.set == "nulls+minors"]))
         axes.set_yticks(y, summary[summary.set == "nulls+minors"]["drug"])
 
@@ -124,10 +123,6 @@ def plot_sensitivity_specificity(summary, who, savefig=False):
         y = numpy.arange(len(summary[summary.set == "basic"]))
         axes.set_yticks(y, summary[summary.set == "basic"]["drug"])
         axes.set_ylim(-0.3, 14.5)
-        e = (
-            who[metric + "_high"] - who[metric],
-            who[metric] - who[metric + "_low"],
-        )
         axes.barh(
             y + 0.3,
             who[metric],
@@ -357,7 +352,6 @@ def plot_truthtables(
             axes.add_patch(
                 Rectangle((0, 1), 1, 1, fc="#bbbbbb", alpha=0.3, edgecolor=None)
             )
-            # fc="#4daf4a", alpha=0.1))
             axes.add_patch(
                 Rectangle((1, 1), 1, 1, fc="#fc9272", alpha=0.7, edgecolor=None)
             )

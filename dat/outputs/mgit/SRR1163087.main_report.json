@@ -3,25 +3,25 @@
     "Organism Identification": {
         "Human Reads": null,
         "Unclassified Reads": 424,
-        "Non-Mycobacterium Bacteria Reads": 2816,
-        "Mycobacterium Reads": 1898340
+        "Non-Mycobacterium Bacteria Reads": 2806,
+        "Mycobacterium Reads": 1898058
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 2.2.10)",
-                "Num Reads": 1849666,
-                "Coverage": 99.3228,
-                "Depth": 40.4516
+                "Num Reads": 1849501,
+                "Coverage": 99.3254,
+                "Depth": 40.4495
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 1849666,
-                "Coverage": 99.3228,
-                "Mean Depth": 40.4516,
-                "Length": 4411532.0
+                "Num Reads": 1849501,
+                "Coverage": 99.3254,
+                "Mean Depth": 40.4495,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -41,8 +41,8 @@
         "Lineage": [
             {
                 "Name": "lineage2.2.10",
-                "Coverage": 0,
-                "Median Depth": 0
+                "Coverage": 100,
+                "Median Depth": 24
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 1849666,
-                "Coverage": 98.9915,
-                "Mean Depth": 40.4516,
-                "Mixed calls": 298,
-                "Null calls": 44491,
+                "Num Reads": 1849501,
+                "Coverage": 98.9985,
+                "Mean Depth": 40.4495,
+                "Mixed calls": 314,
+                "Null calls": 44183,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -78,7 +78,8 @@
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -90,7 +91,7 @@
                                 "Mutation": "D354A:33",
                                 "Position": 354,
                                 "Ref": "gac",
-                                "Alt": "zzz",
+                                "Alt": "gcc",
                                 "Coverage": [
                                     4,
                                     33
@@ -149,7 +150,7 @@
                                 "Alt": "acc",
                                 "Coverage": [
                                     0,
-                                    25
+                                    23
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -171,13 +172,13 @@
                         "Mutations": [
                             {
                                 "Gene": "eis",
-                                "Mutation": "g-37t:21",
+                                "Mutation": "g-37t:20",
                                 "Position": -37,
                                 "Ref": "",
                                 "Alt": "",
                                 "Coverage": [
-                                    4,
-                                    21
+                                    6,
+                                    20
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -204,8 +205,8 @@
                                 "Ref": "gag",
                                 "Alt": "gac",
                                 "Coverage": [
-                                    1,
-                                    30
+                                    2,
+                                    29
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
@@ -220,7 +221,7 @@
                                 "Alt": "ttg",
                                 "Coverage": [
                                     0,
-                                    19
+                                    16
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -245,9 +246,9 @@
                                 "Mutation": "K43R:5",
                                 "Position": 43,
                                 "Ref": "aag",
-                                "Alt": "zzz",
+                                "Alt": "agg",
                                 "Coverage": [
-                                    30,
+                                    29,
                                     5
                                 ],
                                 "Prediction": "R",
@@ -265,13 +266,13 @@
                             },
                             {
                                 "Gene": "rrs",
-                                "Mutation": "c517t:8",
+                                "Mutation": "c517t:7",
                                 "Position": 517,
                                 "Ref": "",
                                 "Alt": "",
                                 "Coverage": [
-                                    1,
-                                    8
+                                    2,
+                                    7
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -293,15 +294,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

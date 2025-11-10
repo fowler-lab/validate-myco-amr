@@ -4,24 +4,24 @@
         "Human Reads": null,
         "Unclassified Reads": 430,
         "Non-Mycobacterium Bacteria Reads": 2630,
-        "Mycobacterium Reads": 2632992
+        "Mycobacterium Reads": 2632778
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 2.2.3)",
-                "Num Reads": 2584903,
-                "Coverage": 99.4975,
-                "Depth": 79.8266
+                "Num Reads": 2584519,
+                "Coverage": 99.4984,
+                "Depth": 79.8119
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 2584903,
-                "Coverage": 99.4975,
-                "Mean Depth": 79.8266,
-                "Length": 4411532.0
+                "Num Reads": 2584519,
+                "Coverage": 99.4984,
+                "Mean Depth": 79.8119,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -41,8 +41,8 @@
         "Lineage": [
             {
                 "Name": "lineage2.2.3",
-                "Coverage": 20,
-                "Median Depth": 0
+                "Coverage": 100,
+                "Median Depth": 67
             }
         ]
     },
@@ -51,18 +51,18 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 2584903,
-                "Coverage": 99.1502,
-                "Mean Depth": 79.8266,
-                "Mixed calls": 382,
-                "Null calls": 37489,
+                "Num Reads": 2584519,
+                "Coverage": 99.1373,
+                "Mean Depth": 79.8119,
+                "Mixed calls": 371,
+                "Null calls": 38060,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
                 "Resistance Prediction Summary": {
                     "First-line treatment": {
                         "Isoniazid (INH)": "R",
-                        "Rifampicin (RIF)": "S",
+                        "Rifampicin (RIF)": "R",
                         "Pyrazinamide (PZA)": "R",
                         "Ethambutol (EMB)": "R"
                     },
@@ -70,7 +70,7 @@
                         "Moxifloxacin (MXF)": "R",
                         "Levofloxacin (LEV)": "R",
                         "Linezolid (LZD)": "S",
-                        "Bedaquiline (BDQ)": "S"
+                        "Bedaquiline (BDQ)": "R"
                     },
                     "Reserve treatment": {
                         "Amikacin (AMI)": "S",
@@ -78,10 +78,62 @@
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "U",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "R"
                     }
                 },
                 "Resistance Prediction Detail": [
+                    {
+                        "Drug Name": "BDQ",
+                        "Mutations": [
+                            {
+                                "Gene": "Rv0678",
+                                "Mutation": "138_ins_g:6",
+                                "Position": 138,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    45,
+                                    6
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 511,
+                                        "Present_SOLO_R": 406,
+                                        "Present_SOLO_S": 105
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "Rv0678_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "Rv0678",
+                                "Mutation": "70_ins_gcggctat:43",
+                                "Position": 70,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    12,
+                                    43
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 511,
+                                        "Present_SOLO_R": 406,
+                                        "Present_SOLO_S": 105
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "Rv0678_LoF"
+                                }
+                            }
+                        ]
+                    },
                     {
                         "Drug Name": "CAP",
                         "Mutations": [
@@ -93,11 +145,70 @@
                                 "Alt": "ccg",
                                 "Coverage": [
                                     3,
-                                    61
+                                    62
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
-                                    "reporting_rule": "True"
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 3,
+                                        "Present_SOLO_R": 3,
+                                        "Present_SOLO_S": 0
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "INITIAL CONFIDENCE GRADING": "3) Uncertain significance",
+                                    "WHO HGVS": "tlyA_p.Leu150Pro"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Drug Name": "CFZ",
+                        "Mutations": [
+                            {
+                                "Gene": "Rv0678",
+                                "Mutation": "138_ins_g:6",
+                                "Position": 138,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    45,
+                                    6
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 164,
+                                        "Present_SOLO_R": 64,
+                                        "Present_SOLO_S": 100
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "Rv0678_LoF"
+                                }
+                            },
+                            {
+                                "Gene": "Rv0678",
+                                "Mutation": "70_ins_gcggctat:43",
+                                "Position": 70,
+                                "Ref": "",
+                                "Alt": "",
+                                "Coverage": [
+                                    12,
+                                    43
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 164,
+                                        "Present_SOLO_R": 64,
+                                        "Present_SOLO_S": 100
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "Rv0678_LoF"
                                 }
                             }
                         ]
@@ -221,8 +332,8 @@
                                 "Ref": "agc",
                                 "Alt": "acc",
                                 "Coverage": [
-                                    1,
-                                    36
+                                    0,
+                                    35
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -324,6 +435,34 @@
                         ]
                     },
                     {
+                        "Drug Name": "RIF",
+                        "Mutations": [
+                            {
+                                "Gene": "rpoB",
+                                "Mutation": "S450L:6",
+                                "Position": 450,
+                                "Ref": "tcg",
+                                "Alt": "ttg",
+                                "Coverage": [
+                                    0,
+                                    6
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 8912,
+                                        "Present_SOLO_R": 8722,
+                                        "Present_SOLO_S": 190
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rpoB_p.Ser450Leu"
+                                }
+                            }
+                        ]
+                    },
+                    {
                         "Drug Name": "STM",
                         "Mutations": [
                             {
@@ -334,7 +473,7 @@
                                 "Alt": "agg",
                                 "Coverage": [
                                     0,
-                                    83
+                                    82
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -356,15 +495,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

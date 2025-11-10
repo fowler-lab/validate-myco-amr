@@ -15,11 +15,238 @@ matplotlib.rcParams.update({"font.size": 7})
 plt.rcParams.update({"font.size": 7})
 
 
+def plot_comparison_tbprofiler(summary, savefig=False):
+
+    colours = {
+        "sensitivity": ["#d7301f", "#969696"],
+        "specificity": ["#0570b0", "#969696"],
+        "PPV": ["#238443", "#969696"],
+    }
+
+    for metric in ["sensitivity", "specificity", "PPV"]:
+        fig = plt.figure(figsize=(2.8, 4.5))
+        axes = plt.gca()
+        axes.spines["top"].set_visible(False)
+        axes.spines["right"].set_visible(False)
+        axes.spines["bottom"].set_visible(False)
+        axes.get_xaxis().set_visible(False)
+        axes.set_xticks([])
+        axes.grid(False)
+        y = numpy.arange(len(summary[summary.set == "nulls+minors"]))
+        axes.set_yticks(y, summary[summary.set == "nulls+minors"]["drug"])
+
+        # nulls+minors
+        subset = summary[summary.set == "nulls+minors"][[metric, metric + "_sem"]]
+        subset.columns = ["x", "e"]
+        y = 0
+        for idx, row in subset.iterrows():
+            if not numpy.isnan(row.x):
+                axes.barh(
+                    y + 0.3,
+                    row.x,
+                    0.4,
+                    xerr=row.e,
+                    color=colours[metric][0],
+                    ecolor=colours[metric][0],
+                    edgecolor=colours[metric][0],
+                    linewidth=1,
+                    alpha=0.5,
+                )
+                axes.text(
+                    row.x + 3,
+                    y + 0.25,
+                    "%.1f" % row.x,
+                    ha="left",
+                    va="center",
+                    color=colours[metric][0],
+                    fontweight="bold",
+                )
+                y += 1
+
+        # tbprofiler
+        subset = summary[summary.set == "tbprofiler"][[metric, metric + "_sem"]]
+        subset.columns = ["x", "e"]
+        y = 0
+        for idx, row in subset.iterrows():
+            if not numpy.isnan(row.x):
+                axes.barh(
+                    y - 0.1,
+                    row.x,
+                    0.4,
+                    xerr=row.e,
+                    color=colours[metric][1],
+                    ecolor=colours[metric][1],
+                    edgecolor=colours[metric][1],
+                    linewidth=1,
+                    alpha=0.5,
+                )
+                axes.text(
+                    row.x + 3,
+                    y - 0.15,
+                    "%.1f" % row.x,
+                    ha="left",
+                    va="center",
+                    color=colours[metric][1],
+                    fontweight="bold",
+                )
+                y += 1
+
+        axes.set_ylim(-0.3, 14.7)
+        axes.set_xlim(0, 100)
+        if savefig:
+            fig.savefig(
+                "pdf/fig-results-main-tbprofiler-" + metric + ".pdf",
+                bbox_inches="tight",
+            )
+
+
+def plot_sensitivity_specificity(summary, who, savefig=False):
+
+    colours = {
+        "sensitivity": ["#ef6548", "#d7301f", "#990000"],
+        "specificity": ["#3690c0", "#0570b0", "#034e7b"],
+        "PPV": ["#41ab5d", "#238443", "#005a32"],
+    }
+
+    for metric in ["sensitivity", "specificity", "PPV"]:
+        fig = plt.figure(figsize=(2.8, 8.5))
+        axes = plt.gca()
+        axes.spines["top"].set_visible(False)
+        axes.spines["right"].set_visible(False)
+        axes.spines["bottom"].set_visible(False)
+        axes.get_xaxis().set_visible(False)
+        axes.set_xticks([])
+        axes.grid(False)
+        axes.plot(
+            [100, 100], [-0.5, 14.5], color="#cccccc", linewidth=0.5, linestyle="-"
+        )
+        y = numpy.arange(len(summary[summary.set == "basic"]))
+        axes.set_yticks(y, summary[summary.set == "basic"]["drug"])
+        axes.set_ylim(-0.3, 14.5)
+        axes.barh(
+            y + 0.3,
+            who[metric],
+            0.2,
+            label=who[metric],
+            color="#cccccc",
+            edgecolor="white",
+            linewidth=1,
+            alpha=0.5,
+        )
+        subset = who[[metric]]
+        subset.columns = ["x"]
+        y = 0
+        for idx, row in subset.iterrows():
+            axes.text(
+                row.x + 2,
+                y + 0.3,
+                "%.1f" % row.x,
+                ha="left",
+                va="center",
+                color="#cccccc",
+                fontweight="light",
+            )
+            y += 1
+
+        subset = summary[summary.set == "basic"][[metric, metric + "_sem"]]
+        subset.columns = ["x", "e"]
+        y = 0
+        for idx, row in subset.iterrows():
+            if not numpy.isnan(row.x):
+                axes.plot(
+                    [row.x, row.x], [y, y + 0.2], color=colours[metric][0], linewidth=1
+                )
+                axes.add_patch(
+                    Rectangle(
+                        (row.x - row.e, y),
+                        2 * row.e,
+                        0.2,
+                        fc=colours[metric][0],
+                        alpha=0.2,
+                    )
+                )
+                axes.text(
+                    row.x + 2,
+                    y + 0.1,
+                    "%.1f" % row.x,
+                    ha="left",
+                    va="center",
+                    color=colours[metric][0],
+                    fontweight="heavy",
+                )
+                y += 1
+
+        subset = summary[summary.set == "nulls+minors"][[metric, metric + "_sem"]]
+        subset.columns = ["x", "e"]
+        y = 0
+        for idx, row in subset.iterrows():
+            if not numpy.isnan(row.x):
+                axes.plot(
+                    [row.x, row.x], [y - 0.2, y], color=colours[metric][1], linewidth=1
+                )
+                axes.add_patch(
+                    Rectangle(
+                        (row.x - row.e, y - 0.2),
+                        2 * row.e,
+                        0.2,
+                        fc=colours[metric][1],
+                        alpha=0.2,
+                    )
+                )
+                axes.text(
+                    row.x + 2,
+                    y - 0.1,
+                    "%.1f" % row.x,
+                    ha="left",
+                    va="center",
+                    color=colours[metric][1],
+                    fontweight="bold",
+                )
+                y += 1
+
+        subset = summary[summary.set == "nulls+minors+high"][[metric, metric + "_sem"]]
+        subset.columns = ["x", "e"]
+        y = 0
+        for idx, row in subset.iterrows():
+            if not numpy.isnan(row.x):
+                axes.plot(
+                    [row.x, row.x],
+                    [y - 0.4, y - 0.2],
+                    color=colours[metric][2],
+                    linewidth=1,
+                )
+                axes.add_patch(
+                    Rectangle(
+                        (row.x - row.e, y - 0.4),
+                        2 * row.e,
+                        0.2,
+                        fc=colours[metric][2],
+                        alpha=0.2,
+                    )
+                )
+                axes.text(
+                    row.x + 2,
+                    y - 0.3,
+                    "%.1f" % row.x,
+                    ha="left",
+                    va="center",
+                    color=colours[metric][2],
+                    fontweight="bold",
+                )
+                y += 1
+        if savefig:
+            fig.savefig("pdf/fig-results-main-" + metric + ".pdf", bbox_inches="tight")
+
+
 def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False):
 
     MIC_VALUES = df.sort_values("DILUTION").MIC.unique()
     df["MIC"] = pandas.Categorical(df["MIC"], categories=MIC_VALUES, ordered=True)
-    df = df[["MIC", "OUTCOME", "ENA_RUN_ACCESSION"]].groupby(["OUTCOME", "MIC"]).count()
+    df = (
+        df[["MIC", "OUTCOME", "ENA_RUN_ACCESSION"]]
+        .groupby(["OUTCOME", "MIC"], observed=False)
+        .count()
+    )
     df.columns = ["NUMBER"]
     df = df[df.NUMBER > 0]
     df["PROP"] = df["NUMBER"] / df.groupby("OUTCOME")["NUMBER"].transform("sum")
@@ -29,7 +256,7 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
     )
     df.OUTCOME = df.OUTCOME.sort_values()
 
-    plt.figure(figsize=(3, 1.2))
+    plt.figure(figsize=(3.8, 1.5))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",
@@ -68,14 +295,14 @@ def plot_dilution_boxplot(df, filename=None, savefig=False, exclude_fails=False)
         label.set_fontsize(7)
     if filename is not None and savefig:
         plt.savefig(
-            "pdf/mic/mic-" + filename + ".pdf", bbox_inches="tight", transparent=True
+            "pdf/mic/" + filename + ".pdf", bbox_inches="tight", transparent=True
         )
     plt.close()
 
 
 def plot_growth_boxplot(df, filename=None, savefig=False, exclude_fails=False):
     plt.rcParams.update({"font.size": 7})
-    plt.figure(figsize=(3, 1.2))
+    plt.figure(figsize=(4, 1.5))
     palette = {
         "(S+U)S": "#bbbbbb",
         "RR": "#bbbbbb",
@@ -125,7 +352,6 @@ def plot_truthtables(
             axes.add_patch(
                 Rectangle((0, 1), 1, 1, fc="#bbbbbb", alpha=0.3, edgecolor=None)
             )
-            # fc="#4daf4a", alpha=0.1))
             axes.add_patch(
                 Rectangle((1, 1), 1, 1, fc="#fc9272", alpha=0.7, edgecolor=None)
             )
@@ -225,7 +451,7 @@ def create_predictions_table(effects, who_drugs):
     results = pandas.DataFrame(table)
     results.set_index(["SET", "ENA_RUN_ACCESSION", "DRUG"], inplace=True)
     return results
-    
+
 
 def build_exact_table(
     table_rows,
@@ -392,11 +618,11 @@ def build_bootstrapped_table(
                     method,
                     quality,
                     "bootstrap-" + str(i),
-                    current_sensitivity,
+                    100 * current_sensitivity,
                     None,
-                    current_specificity,
+                    100 * current_specificity,
                     None,
-                    current_ppv,
+                    100 * current_ppv,
                     None,
                 ]
                 table_rows.append(row)

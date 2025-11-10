@@ -4,24 +4,24 @@
         "Human Reads": null,
         "Unclassified Reads": 294,
         "Non-Mycobacterium Bacteria Reads": 2178,
-        "Mycobacterium Reads": 1753560
+        "Mycobacterium Reads": 1753402
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 4.3.3)",
-                "Num Reads": 1725547,
-                "Coverage": 99.0667,
-                "Depth": 54.791
+                "Num Reads": 1725293,
+                "Coverage": 99.0497,
+                "Depth": 54.7856
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 1725547,
-                "Coverage": 99.0667,
-                "Mean Depth": 54.791,
-                "Length": 4411532.0
+                "Num Reads": 1725293,
+                "Coverage": 99.0497,
+                "Mean Depth": 54.7856,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage4.3.3",
                 "Coverage": 100,
-                "Median Depth": 39
+                "Median Depth": 21
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 1725547,
-                "Coverage": 98.4478,
-                "Mean Depth": 54.791,
-                "Mixed calls": 106,
-                "Null calls": 68474,
+                "Num Reads": 1725293,
+                "Coverage": 98.4156,
+                "Mean Depth": 54.7856,
+                "Mixed calls": 89,
+                "Null calls": 69897,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -75,10 +75,11 @@
                     "Reserve treatment": {
                         "Amikacin (AMI)": "S",
                         "Kanamycin (KAN)": "R",
-                        "Streptomycin (STM)": "S",
+                        "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "U"
+                        "Delamanid (DLM)": "U",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -192,7 +193,7 @@
                                 "Alt": "acc",
                                 "Coverage": [
                                     0,
-                                    29
+                                    27
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -220,7 +221,7 @@
                                 "Alt": "t",
                                 "Coverage": [
                                     0,
-                                    60
+                                    62
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -348,21 +349,48 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "Drug Name": "STM",
+                        "Mutations": [
+                            {
+                                "Gene": "rrs",
+                                "Mutation": "a514c",
+                                "Position": 514,
+                                "Ref": "a",
+                                "Alt": "c",
+                                "Coverage": [
+                                    0,
+                                    5
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 316,
+                                        "Present_SOLO_R": 305,
+                                        "Present_SOLO_S": 11
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rrs_n.514A>C"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

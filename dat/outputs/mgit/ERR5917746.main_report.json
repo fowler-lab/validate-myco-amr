@@ -3,25 +3,25 @@
     "Organism Identification": {
         "Human Reads": null,
         "Unclassified Reads": 224,
-        "Non-Mycobacterium Bacteria Reads": 2352,
-        "Mycobacterium Reads": 1758024
+        "Non-Mycobacterium Bacteria Reads": 2350,
+        "Mycobacterium Reads": 1757908
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 2.2.10)",
-                "Num Reads": 1724843,
-                "Coverage": 99.0804,
-                "Depth": 54.1729
+                "Num Reads": 1724732,
+                "Coverage": 99.0675,
+                "Depth": 54.1698
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 1724843,
-                "Coverage": 99.0804,
-                "Mean Depth": 54.1729,
-                "Length": 4411532.0
+                "Num Reads": 1724732,
+                "Coverage": 99.0675,
+                "Mean Depth": 54.1698,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -41,8 +41,8 @@
         "Lineage": [
             {
                 "Name": "lineage2.2.10",
-                "Coverage": 0,
-                "Median Depth": 0
+                "Coverage": 100,
+                "Median Depth": 50
             }
         ]
     },
@@ -51,11 +51,11 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 1724843,
-                "Coverage": 98.6021,
-                "Mean Depth": 54.1729,
-                "Mixed calls": 147,
-                "Null calls": 61667,
+                "Num Reads": 1724732,
+                "Coverage": 98.5978,
+                "Mean Depth": 54.1698,
+                "Mixed calls": 139,
+                "Null calls": 61858,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
@@ -75,10 +75,11 @@
                     "Reserve treatment": {
                         "Amikacin (AMI)": "S",
                         "Kanamycin (KAN)": "S",
-                        "Streptomycin (STM)": "S",
+                        "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "R",
-                        "Delamanid (DLM)": "S"
+                        "Delamanid (DLM)": "S",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -116,7 +117,7 @@
                                 "Alt": "t",
                                 "Coverage": [
                                     0,
-                                    56
+                                    50
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -238,7 +239,7 @@
                                 "Alt": "acc",
                                 "Coverage": [
                                     0,
-                                    29
+                                    33
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -312,7 +313,7 @@
                                 "Alt": "t",
                                 "Coverage": [
                                     0,
-                                    56
+                                    50
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -325,6 +326,21 @@
                                     "FINAL CONFIDENCE GRADING": "1) Assoc w R",
                                     "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
                                     "WHO HGVS": "eis_c.-14C>T"
+                                }
+                            },
+                            {
+                                "Gene": "rrs",
+                                "Mutation": "c517t",
+                                "Position": 517,
+                                "Ref": "c",
+                                "Alt": "t",
+                                "Coverage": [
+                                    0,
+                                    5
+                                ],
+                                "Prediction": "U",
+                                "Evidence": {
+                                    "reporting_rule": "True"
                                 }
                             },
                             {
@@ -355,7 +371,7 @@
                                 "Alt": "ctg",
                                 "Coverage": [
                                     0,
-                                    68
+                                    66
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -383,7 +399,7 @@
                                 "Alt": "ttg",
                                 "Coverage": [
                                     0,
-                                    31
+                                    23
                                 ],
                                 "Prediction": "R",
                                 "Evidence": {
@@ -399,21 +415,48 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "Drug Name": "STM",
+                        "Mutations": [
+                            {
+                                "Gene": "rrs",
+                                "Mutation": "c517t",
+                                "Position": 517,
+                                "Ref": "c",
+                                "Alt": "t",
+                                "Coverage": [
+                                    0,
+                                    5
+                                ],
+                                "Prediction": "R",
+                                "Evidence": {
+                                    "Observed_samples": {
+                                        "Present_SOLO_SR": 518,
+                                        "Present_SOLO_R": 468,
+                                        "Present_SOLO_S": 50
+                                    },
+                                    "Additional grading criteria applied": null,
+                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
+                                    "WHO HGVS": "rrs_n.517C>T"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

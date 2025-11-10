@@ -3,25 +3,25 @@
     "Organism Identification": {
         "Human Reads": null,
         "Unclassified Reads": 1120,
-        "Non-Mycobacterium Bacteria Reads": 7470,
-        "Mycobacterium Reads": 3370782
+        "Non-Mycobacterium Bacteria Reads": 7458,
+        "Mycobacterium Reads": 3370584
     },
     "Mycobacterium Results": {
         "Summary": [
             {
                 "Name": "M. tuberculosis (lineage 3)",
-                "Num Reads": 3285901,
-                "Coverage": 99.9474,
-                "Depth": 96.3106
+                "Num Reads": 3285872,
+                "Coverage": 99.9475,
+                "Depth": 96.3145
             }
         ],
         "Species": [
             {
                 "Name": "M.tuberculosis",
-                "Num Reads": 3285901,
-                "Coverage": 99.9474,
-                "Mean Depth": 96.3106,
-                "Length": 4411532.0
+                "Num Reads": 3285872,
+                "Coverage": 99.9475,
+                "Mean Depth": 96.3145,
+                "Length": 4411532
             }
         ],
         "Phylogenic Group": [
@@ -42,7 +42,7 @@
             {
                 "Name": "lineage3",
                 "Coverage": 100,
-                "Median Depth": 8
+                "Median Depth": 87
             }
         ]
     },
@@ -51,18 +51,18 @@
             "Name": "M. tuberculosis",
             "Sequencing Quality": {
                 "Mapped To": "M. tuberculosis (H37Rv v3) NC_000962.3",
-                "Num Reads": 3285901,
-                "Coverage": 99.64,
-                "Mean Depth": 96.3106,
-                "Mixed calls": 1378,
-                "Null calls": 15882,
+                "Num Reads": 3285872,
+                "Coverage": 99.6574,
+                "Mean Depth": 96.3145,
+                "Mixed calls": 1344,
+                "Null calls": 15113,
                 "Reference genome length": 4411532
             },
             "Resistance Prediction": {
                 "Resistance Prediction Summary": {
                     "First-line treatment": {
                         "Isoniazid (INH)": "S",
-                        "Rifampicin (RIF)": "R",
+                        "Rifampicin (RIF)": "S",
                         "Pyrazinamide (PZA)": "S",
                         "Ethambutol (EMB)": "S"
                     },
@@ -78,7 +78,8 @@
                         "Streptomycin (STM)": "R",
                         "Capreomycin (CAP)": "S",
                         "Ethionamide (ETH)": "S",
-                        "Delamanid (DLM)": "U"
+                        "Delamanid (DLM)": "U",
+                        "Clofazimine (CFZ)": "S"
                     }
                 },
                 "Resistance Prediction Detail": [
@@ -94,49 +95,6 @@
                                 "Coverage": [
                                     7,
                                     67
-                                ],
-                                "Prediction": "U",
-                                "Evidence": {
-                                    "reporting_rule": "True"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Drug Name": "RIF",
-                        "Mutations": [
-                            {
-                                "Gene": "rpoB",
-                                "Mutation": "S450L:5",
-                                "Position": 450,
-                                "Ref": "tcg",
-                                "Alt": "zzz",
-                                "Coverage": [
-                                    36,
-                                    5
-                                ],
-                                "Prediction": "R",
-                                "Evidence": {
-                                    "Observed_samples": {
-                                        "Present_SOLO_SR": 8912,
-                                        "Present_SOLO_R": 8722,
-                                        "Present_SOLO_S": 190
-                                    },
-                                    "Additional grading criteria applied": null,
-                                    "FINAL CONFIDENCE GRADING": "1) Assoc w R",
-                                    "INITIAL CONFIDENCE GRADING": "1) Assoc w R",
-                                    "WHO HGVS": "rpoB_p.Ser450Leu"
-                                }
-                            },
-                            {
-                                "Gene": "rpoB",
-                                "Mutation": "g-21c",
-                                "Position": -21,
-                                "Ref": "g",
-                                "Alt": "c",
-                                "Coverage": [
-                                    1,
-                                    22
                                 ],
                                 "Prediction": "U",
                                 "Evidence": {
@@ -193,15 +151,14 @@
         }
     ],
     "Metadata": {
-        "Pipeline build": "1.22.29",
+        "Pipeline build": "97c97e3",
         "Reference Data Files": {
             "manifest": "manifest_20231001",
-            "species_list": "species_list_manifest_20240710.csv",
-            "name_mapping": "competitive_mapping_mykrobe_names_20240712b.csv",
+            "species_list": "species_list_manifest_20250324.csv",
+            "name_mapping": "competitive_mapping_mykrobe_names_20241105.csv",
             "ref_files": "Ref_prepare",
             "tb_ref_genome": "NC_000962.3.gbk",
-            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.0_GARC1_RFUS.csv",
-            "tb_minor_alleles": "minor_alleles.txt",
+            "tb_amr_cat": "NC_000962.3_WHO-UCN-TB-2023.5_v2.1_GARC1_RFUS.csv",
             "sundial_ref": "h37rv_20231215.fa.gz"
         }
     }

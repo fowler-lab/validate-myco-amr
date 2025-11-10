@@ -24,11 +24,10 @@ for folder in ["mgit", "ukmyc"]:
             print(f"Skipping {i.stem} due to read naming issues")
             continue
 
-        f = open(i)
-
         sample = i.stem.split(".")[0]
 
-        data = json.load(f)
+        with open(i) as f:
+            data = json.load(f)
 
         for drug, prediction in data["data"]["antibiogram"].items():
             predictions["ENA_RUN_ACCESSION"].append(sample)

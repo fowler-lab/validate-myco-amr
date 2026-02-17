@@ -3,8 +3,10 @@
 This repository contains the data and code necessary to reproduce the tables and figures in the below article.
 
 > Westhead J, Baker CS, Brouard M, Colpus M, Constantinides B, Hall A, Knaggs J, Lopes Alves M, Spies R, Thai H, Surrell S, Govender K, Peto TEA, Crook DW, Omar SV, Turner R, Fowler PW
+> 
 > Characterizing the performance of an antibiotic resistance prediction tool, gnomonicus, using a diverse test set of 2,663 _Mycobacterium tuberculosis samples_
-> bioRxiv preprint [doi:10.1099/mgen.0.001592](https://doi.org/10.1099/mgen.0.001592)
+> 
+> Microbial Genomics. 11:001592 [doi:10.1099/mgen.0.001592](https://doi.org/10.1099/mgen.0.001592)
 
 
 ## Reproduce AMR predictions from the VCF files using `gnomonicus`
